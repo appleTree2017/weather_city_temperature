@@ -1,0 +1,1343 @@
+city,gender,num_users
+Aberdeen_US,male,3
+Abilene_US,female,4
+Abilene_US,male,1
+Adelphi_US,female,2
+Adelphi_US,male,2
+Adelphi_US,non_binary,1
+Affton_US,non_binary,1
+Akron_US,male,2
+Alachua County_US,male,1
+Alafaya_US,blank,1
+Alafaya_US,male,2
+Alafaya_US,non_binary,1
+Alameda County_US,non_binary,1
+Albany_US,female,1
+Albany_US,non_binary,3
+Albuquerque_US,blank,1
+Alexandria_US,female,1
+Altoona_US,male,1
+Americus_US,female,4
+Americus_US,male,4
+Americus_US,non_binary,2
+Anchorage_US,female,4
+Anchorage_US,male,4
+Anchorage_US,non_binary,2
+Anderson County_US,female,1
+Anne Arundel County_US,female,1
+Arlington_US,female,6
+Arlington_US,male,9
+Ashe County_US,non_binary,1
+Asheville_US,female,1
+Asheville_US,male,2
+Ashford_US,male,1
+Atascadero_US,male,1
+Athens County_US,female,1
+Atlanta_US,female,2
+Atlanta_US,male,1
+Auburn_US,blank,2
+Auburn_US,female,6
+Auburn_US,male,3
+Augusta County_US,male,4
+Augusta_US,female,7
+Augusta_US,male,10
+Augusta_US,non_binary,3
+Aurora_US,blank,3
+Aurora_US,female,13
+Aurora_US,male,13
+Aurora_US,non_binary,8
+Austin_US,female,3
+Austin_US,male,4
+Autauga County_US,male,1
+Azusa_US,female,3
+Azusa_US,male,1
+Balch Springs_US,female,1
+Baldwin_US,male,2
+Baltimore County_US,female,10
+Baltimore County_US,male,7
+Baltimore_US,female,5
+Baltimore_US,male,8
+Baltimore_US,non_binary,3
+Baton Rouge_US,female,9
+Baton Rouge_US,male,9
+Bay County_US,non_binary,1
+Beaumont_US,female,3
+Beaumont_US,male,1
+Bedford County_US,female,2
+Bedford County_US,male,3
+Bedford County_US,non_binary,2
+Bedford_US,female,1
+Bell County_US,female,1
+Bell County_US,male,1
+Bellbrook_US,non_binary,1
+Bellevue_US,male,1
+Beltrami County_US,female,1
+Beltsville_US,female,1
+Beltsville_US,male,2
+Beltsville_US,non_binary,1
+Berkeley County_US,female,4
+Berkeley County_US,male,1
+Berkeley_US,female,2
+Berkeley_US,male,2
+Berkeley_US,non_binary,1
+Bernice_US,female,1
+Berwyn_US,female,1
+Bessemer_US,male,1
+Beverly Hills_US,female,1
+Bexar County_US,female,1
+Bexar County_US,male,1
+Big Rapids_US,female,5
+Big Rapids_US,male,4
+Big Rapids_US,non_binary,5
+Biloxi_US,male,1
+Binghamton_US,female,1
+Blaine_US,male,1
+Bloomington_US,blank,1
+Bloomington_US,female,1
+Bloomington_US,male,1
+Bluefield_US,female,1
+Boise_US,female,6
+Boise_US,non_binary,1
+Bolivar_US,male,1
+Bolivar_US,non_binary,1
+Bonne Terre_US,male,1
+Boron_US,non_binary,1
+Botetourt County_US,female,1
+Bowie County_US,blank,1
+Bowie County_US,female,10
+Bowie County_US,male,3
+Bowie County_US,non_binary,3
+Box Elder_US,blank,1
+Box Elder_US,female,3
+Box Elder_US,male,2
+Bradenton_US,non_binary,1
+Brandon_US,female,1
+Brawley_US,male,2
+Brier_US,female,2
+Brier_US,male,1
+Brighton Township_US,male,1
+Bristol Township_US,male,1
+Bristol_US,female,5
+Bristol_US,male,4
+Broken Arrow_US,male,1
+Bronson_US,female,2
+Bronson_US,male,4
+Bronson_US,non_binary,1
+Brooke County_US,female,1
+Brooke County_US,male,1
+Brooklyn Center_US,female,1
+Broward County_US,male,2
+Broward County_US,non_binary,1
+Brule County_US,non_binary,1
+Brunswick County_US,female,7
+Brunswick County_US,male,9
+Bryan_US,female,1
+Bryan_US,male,5
+Bryan_US,non_binary,1
+Bucyrus_US,female,2
+Bucyrus_US,non_binary,1
+Buffalo_US,female,2
+Buffalo_US,male,1
+Buffalo_US,non_binary,1
+Burbank_US,female,2
+Burgaw_US,male,1
+Burleson_US,male,1
+Butler County_US,female,1
+Cabell County_US,non_binary,1
+Calcasieu Parish_US,female,1
+Camarillo_US,male,1
+Cambridge_US,female,2
+Cambridge_US,male,2
+Campbell County_US,male,2
+Campbell County_US,non_binary,6
+Campbellsville_US,non_binary,1
+Canton_US,male,1
+Canton_US,non_binary,1
+Cape Girardeau_US,female,1
+Carlsbad_US,female,1
+Carlsbad_US,male,2
+Carmel_US,female,1
+Carmel_US,male,4
+Carmel_US,non_binary,1
+Carol Stream_US,female,2
+Carol Stream_US,male,1
+Carol Stream_US,non_binary,1
+Carpentersville_US,blank,1
+Carpentersville_US,female,6
+Carpentersville_US,male,3
+Carpentersville_US,non_binary,4
+Carrollton_US,female,4
+Carrollton_US,male,6
+Carrollton_US,non_binary,5
+Carson City_US,non_binary,1
+Cartersville_US,male,1
+Carthage_US,female,2
+Carthage_US,male,1
+Cary_US,non_binary,1
+Cascades_US,female,5
+Cascades_US,male,4
+Cass County_US,female,1
+Catawba County_US,female,2
+Catawba County_US,male,1
+Celina_US,blank,1
+Celina_US,female,3
+Celina_US,male,1
+Center Township_US,female,3
+Center Township_US,male,3
+Central City_US,female,1
+Champaign_US,female,1
+Chandler_US,female,3
+Chandler_US,male,9
+Chapel Hill_US,male,1
+Chapmanville_US,male,1
+Charles County_US,female,2
+Charles County_US,male,1
+Charleston County_US,female,1
+Charleston County_US,male,3
+Charleston County_US,non_binary,1
+Charlotte Park_US,female,1
+Charlotte_US,female,2
+Charlotte_US,male,4
+Chatham County_US,non_binary,1
+Cheney_US,male,1
+Chenoa_US,female,4
+Chenoa_US,male,4
+Chenoa_US,non_binary,5
+Cherokee County_US,blank,1
+Cherokee County_US,female,9
+Cherokee County_US,male,6
+Chesapeake_US,non_binary,1
+Chester_US,blank,2
+Chester_US,female,10
+Chester_US,male,2
+Chester_US,non_binary,1
+Chesterfield County_US,female,1
+Chesterfield Township_US,female,1
+Chesterfield Township_US,male,6
+Cheyenne_US,female,1
+Cheyenne_US,non_binary,1
+Chicago_US,blank,1
+Chicago_US,female,27
+Chicago_US,male,17
+Chicago_US,non_binary,7
+Chickasha_US,female,6
+Chickasha_US,male,1
+Chillicothe_US,blank,1
+Chillicothe_US,female,4
+Chillicothe_US,male,4
+Chillicothe_US,non_binary,1
+Chino Hills_US,female,1
+Chino Hills_US,male,1
+Chino Hills_US,non_binary,2
+Chula Vista_US,female,4
+Chula Vista_US,male,7
+Cicero_US,female,1
+Cincinnati_US,female,1
+Cincinnati_US,male,2
+Cincinnati_US,non_binary,1
+Citrus County_US,male,1
+City of Gainesville Municipal Boundaries_US,female,2
+City of Rome_US,male,1
+Clarksburg_US,non_binary,1
+Clawson_US,male,2
+Clayton County_US,female,1
+Clayton County_US,male,2
+Clayton County_US,non_binary,1
+Clermont_US,blank,3
+Clermont_US,female,3
+Clermont_US,male,6
+Clermont_US,non_binary,3
+Cleveland_US,female,3
+Cleveland_US,male,6
+Cleveland_US,non_binary,3
+Clinton Township_US,female,1
+Clinton Township_US,male,3
+Clinton_US,blank,1
+Clinton_US,female,5
+Clinton_US,male,6
+Clinton_US,non_binary,1
+Cloquet_US,female,1
+Cloquet_US,male,1
+Cloquet_US,non_binary,1
+Clovis_US,female,1
+Cobb County_US,female,2
+Cobb County_US,male,1
+Cohasset_US,female,4
+Cohasset_US,male,5
+Cohasset_US,non_binary,5
+Collins_US,blank,1
+Collins_US,female,1
+Columbia County_US,female,6
+Columbia County_US,male,6
+Columbia County_US,non_binary,5
+Columbia_US,female,8
+Columbia_US,male,2
+Columbia_US,non_binary,3
+Columbus_US,female,6
+Columbus_US,male,3
+Columbus_US,non_binary,1
+Comal County_US,male,1
+Commerce City_US,non_binary,1
+Conroe_US,female,1
+Converse_US,female,7
+Converse_US,male,5
+Converse_US,non_binary,4
+Conway County_US,non_binary,1
+Coon Rapids_US,male,1
+Coral Springs_US,blank,1
+Coral Springs_US,female,7
+Coral Springs_US,male,10
+Coral Springs_US,non_binary,1
+Corvallis_US,female,1
+Coryell County_US,female,11
+Coryell County_US,male,6
+Coryell County_US,non_binary,4
+Covington County_US,female,1
+Crown Point_US,male,1
+Crown Point_US,non_binary,1
+Culver City_US,male,1
+Cumberland County_US,male,1
+Cumberland County_US,non_binary,1
+Cupertino_US,female,1
+Dallas_US,female,17
+Dallas_US,male,12
+Dallas_US,non_binary,7
+Danville_US,male,2
+Dauphin County_US,male,2
+Davenport_US,female,3
+Davenport_US,male,1
+Davenport_US,non_binary,3
+Dayton_US,female,1
+DeKalb County_US,female,4
+DeKalb County_US,male,2
+Decatur County_US,male,1
+Decatur_US,male,1
+Deer Park_US,male,1
+Delaware County_US,male,1
+Deltona_US,female,2
+Deltona_US,male,1
+Derby_US,female,1
+Des Moines_US,male,1
+Des Plaines_US,male,1
+Des Plaines_US,non_binary,1
+Detroit_US,blank,2
+Detroit_US,female,16
+Detroit_US,male,14
+Detroit_US,non_binary,1
+Dexter_US,female,1
+Dickinson County_US,female,1
+Dothan_US,non_binary,1
+Douglas County_US,non_binary,1
+Dubuque_US,female,1
+Duluth_US,female,3
+Duluth_US,male,1
+Duluth_US,non_binary,2
+Duplin County_US,female,1
+Duplin County_US,male,5
+Durham_US,blank,1
+Durham_US,female,4
+Durham_US,non_binary,1
+East Aurora_US,blank,2
+East Aurora_US,male,1
+East Saint Louis_US,female,3
+East Saint Louis_US,male,7
+East Saint Louis_US,non_binary,1
+Eden_US,male,1
+Edgerton_US,female,1
+Edinburg_US,female,1
+Edwardsville_US,blank,1
+Edwardsville_US,female,5
+Edwardsville_US,male,1
+El Cajon_US,female,1
+El Cajon_US,male,2
+El Dorado County_US,female,3
+El Dorado County_US,male,2
+El Monte_US,male,1
+El Paso_US,female,2
+Elizabethton_US,male,1
+Elizabethton_US,non_binary,1
+Elk Grove_US,female,1
+Elk Grove_US,non_binary,1
+Enterprise_US,male,1
+Erie_US,male,1
+Escambia County_US,female,3
+Escambia County_US,male,2
+Escambia County_US,non_binary,1
+Estill County_US,female,1
+Euless_US,female,1
+Euless_US,male,1
+Eureka_US,female,1
+Eureka_US,non_binary,1
+Evansville_US,male,2
+Fairbanks_US,female,2
+Fairbanks_US,male,1
+Fairbanks_US,non_binary,2
+Fairfield_US,male,1
+Fairmont_US,male,5
+Farmers Branch_US,female,4
+Farmers Branch_US,male,2
+Farmington_US,female,5
+Farmington_US,male,2
+Farmington_US,non_binary,1
+Fayette County_US,female,7
+Fayette County_US,male,6
+Fayette County_US,non_binary,3
+Ferndale_US,female,1
+Flint Township_US,female,2
+Flint Township_US,male,1
+Flint_US,non_binary,1
+Flora_US,female,2
+Flora_US,male,2
+Florence County_US,female,10
+Florence County_US,male,3
+Florence County_US,non_binary,7
+Florence_US,female,9
+Florence_US,male,8
+Florence_US,non_binary,1
+Flower Mound_US,female,2
+Flower Mound_US,male,2
+Flushing_US,female,1
+Fontana_US,female,6
+Fontana_US,male,5
+Fontana_US,non_binary,3
+Forney_US,female,2
+Forney_US,non_binary,2
+Fort Bend County_US,male,2
+Fort Bend County_US,non_binary,2
+Fort Lauderdale_US,male,1
+Fort Smith_US,male,1
+Fort Worth_US,blank,1
+Fort Worth_US,female,13
+Fort Worth_US,male,10
+Fort Worth_US,non_binary,3
+Franklin County_US,female,6
+Franklin County_US,male,7
+Franklin_US,female,1
+Fresno County_US,male,1
+Fresno County_US,non_binary,1
+Fresno_US,female,1
+Gadsden_US,male,1
+Gaffney_US,male,1
+Gaines Township_US,male,1
+Garden Township_US,female,3
+Garden Township_US,male,6
+Garden Township_US,non_binary,1
+Garrard County_US,non_binary,1
+Garrett_US,male,1
+Gary_US,female,4
+Gary_US,male,8
+Gary_US,non_binary,4
+Germantown_US,female,1
+Gilbert_US,non_binary,1
+Gladewater_US,non_binary,1
+Gloucester County_US,female,1
+Gloucester County_US,non_binary,1
+Goddard_US,male,2
+Grafton_US,female,1
+Grafton_US,male,2
+Grand Island_US,blank,1
+Grand Island_US,female,2
+Grand Island_US,male,2
+Grand Prairie_US,blank,1
+Grand Prairie_US,female,1
+Grand Prairie_US,male,1
+Grand Rapids_US,blank,1
+Grand Rapids_US,female,6
+Grand Rapids_US,male,10
+Grand Rapids_US,non_binary,3
+Grayson County_US,male,3
+Great Neck Plaza_US,female,1
+Greece_US,female,1
+Greenbelt_US,female,1
+Greene County_US,male,1
+Greenhills_US,blank,1
+Greenhills_US,female,1
+Greenhills_US,male,1
+Greenhills_US,non_binary,1
+Greensboro_US,blank,1
+Greensboro_US,female,2
+Greensboro_US,male,2
+Greensboro_US,non_binary,2
+Greenville County_US,blank,1
+Greenville County_US,female,6
+Greenville County_US,male,6
+Greenville_US,female,5
+Greenville_US,male,9
+Greenville_US,non_binary,2
+Grimes County_US,female,1
+Grimes County_US,male,4
+Guilford County_US,female,8
+Guilford County_US,male,7
+Guilford Township_US,female,5
+Guilford Township_US,male,4
+Guilford Township_US,non_binary,1
+Gulfport_US,female,1
+Gulfport_US,male,5
+Gun Plain Charter Township_US,non_binary,1
+Gwinnett County_US,female,2
+Gwinnett County_US,male,3
+Gwinnett County_US,non_binary,2
+Hamtramck_US,female,1
+Hannibal_US,female,2
+Hannibal_US,male,1
+Hanover Township_US,female,3
+Hanover Township_US,male,9
+Hanover Township_US,non_binary,1
+Hanover_US,female,1
+Hardin County_US,non_binary,2
+Harris County_US,blank,2
+Harris County_US,female,14
+Harris County_US,male,18
+Harris County_US,non_binary,10
+Harrison_US,female,9
+Harrison_US,male,7
+Hart County_US,female,1
+Hart County_US,male,2
+Haskins_US,male,1
+Hattiesburg_US,non_binary,1
+Havana_US,blank,1
+Havana_US,male,2
+Haverford Township_US,non_binary,1
+Hawaiʻi County_US,female,1
+Hawaiʻi County_US,male,1
+Hawkins County_US,female,9
+Hawkins County_US,male,5
+Hays_US,non_binary,1
+Haysville_US,male,1
+Hazleton_US,male,1
+Hemet_US,non_binary,1
+Henrietta_US,male,1
+Henry County_US,blank,1
+Henry County_US,female,7
+Henry County_US,male,8
+Hereford_US,male,2
+Hernando County_US,female,1
+Hernando County_US,male,2
+Heyburn_US,female,1
+Heyburn_US,male,1
+Hialeah_US,female,8
+Hialeah_US,male,7
+Hillsborough County_US,blank,1
+Hillsborough County_US,female,9
+Hillsborough County_US,male,6
+Hillsborough County_US,non_binary,2
+Hogan Township_US,female,1
+Holland_US,female,1
+Honolulu_US,female,4
+Honolulu_US,male,1
+Hot Springs Village_US,female,8
+Hot Springs Village_US,male,2
+Hot Springs Village_US,non_binary,6
+Houston County_US,female,7
+Houston County_US,male,4
+Houston County_US,non_binary,5
+Houston_US,blank,1
+Houston_US,female,10
+Houston_US,male,13
+Houston_US,non_binary,7
+Howard County_US,male,1
+Hudspeth County_US,male,1
+Humboldt County_US,male,1
+Huntsville_US,female,1
+Huntsville_US,male,3
+Hurricane_US,female,1
+Hutchinson_US,blank,2
+Hutchinson_US,female,4
+Hutchinson_US,male,8
+Hutchinson_US,non_binary,3
+Hyattsville_US,male,1
+Idaho Falls_US,female,1
+Idaho Falls_US,male,2
+Idaho Falls_US,non_binary,1
+Indianapolis_US,blank,3
+Indianapolis_US,female,19
+Indianapolis_US,male,32
+Indianapolis_US,non_binary,5
+Inkster_US,female,5
+Inkster_US,male,3
+Inkster_US,non_binary,2
+Irvine_US,female,1
+Ithaca_US,female,2
+Ithaca_US,non_binary,1
+Jackson County_US,female,3
+Jackson County_US,male,6
+Jackson County_US,non_binary,1
+Jackson_US,female,1
+Jacksonville_US,female,9
+Jacksonville_US,male,5
+Jacksonville_US,non_binary,5
+Jamestown_US,blank,1
+Jamestown_US,female,7
+Jamestown_US,male,4
+Jamestown_US,non_binary,2
+Jefferson County_US,female,1
+Jefferson County_US,male,4
+Jefferson County_US,non_binary,1
+Jenkins County_US,non_binary,1
+Jennerstown_US,blank,1
+Jennerstown_US,female,1
+Johnston County_US,female,2
+Johnston County_US,male,1
+Joliet_US,blank,1
+Joliet_US,female,1
+Joliet_US,male,3
+Jones County_US,female,10
+Jones County_US,male,4
+Jones County_US,non_binary,1
+Joplin_US,blank,1
+Joplin_US,female,3
+Joplin_US,male,2
+Juneau_US,blank,1
+Justice_US,female,1
+Kansas City_US,female,2
+Kansas City_US,male,4
+Kapolei_US,male,1
+Kern County_US,female,11
+Kern County_US,male,6
+Kern County_US,non_binary,2
+Kerrville_US,male,1
+Kershaw County_US,male,1
+Kings County_US,female,1
+Kingsport_US,blank,1
+Kingsport_US,female,10
+Kingsport_US,male,9
+Kissimmee_US,female,1
+Kissimmee_US,male,4
+Kissimmee_US,non_binary,3
+Knox County_US,male,3
+Knoxville_US,blank,1
+Knoxville_US,female,3
+Knoxville_US,male,3
+Knoxville_US,non_binary,9
+Kutztown_US,female,1
+Kutztown_US,male,2
+La Cañada Flintridge_US,female,1
+LaGrange_US,female,1
+LaGrange_US,male,1
+Lafayette County_US,male,1
+Lafayette_US,blank,2
+Lafayette_US,female,7
+Lafayette_US,male,6
+Lafayette_US,non_binary,3
+Lafourche Parish_US,blank,1
+Lafourche Parish_US,female,4
+Lafourche Parish_US,male,5
+Lafourche Parish_US,non_binary,4
+Lake County_US,female,2
+Lake County_US,male,2
+Lake County_US,non_binary,3
+Lake Elsinore_US,female,1
+Lake Elsinore_US,male,1
+Lake Elsinore_US,non_binary,3
+Lake Forest_US,male,1
+Lake Station_US,male,1
+Lake in the Hills_US,female,1
+Lakeland_US,non_binary,1
+Lakewood_US,female,1
+Lancaster_US,female,6
+Lancaster_US,male,4
+Lancaster_US,non_binary,1
+Lansing_US,male,1
+Lansing_US,non_binary,1
+Las Vegas_US,female,1
+Las Vegas_US,male,5
+Las Vegas_US,non_binary,2
+Lathrop_US,male,2
+Lathrop_US,non_binary,1
+Laurel_US,female,1
+Laurel_US,male,1
+Laurens County_US,male,1
+Leadwood_US,female,2
+Leadwood_US,non_binary,1
+Lebanon_US,female,1
+Lebanon_US,male,3
+Lebanon_US,non_binary,1
+Lee County_US,male,2
+Lenexa_US,non_binary,1
+Letcher County_US,female,1
+Letcher County_US,non_binary,1
+Lewis County_US,male,1
+Lewisburg_US,male,1
+Lexington County_US,female,4
+Lexington County_US,male,2
+Lexington County_US,non_binary,1
+Lexington_US,female,4
+Liberty County_US,female,1
+Liberty County_US,non_binary,1
+Lincoln County_US,female,1
+Lincoln County_US,male,3
+Lincoln County_US,non_binary,4
+Lincoln_US,female,4
+Lincoln_US,male,1
+Little Rock_US,female,3
+Little Rock_US,male,4
+Little Rock_US,non_binary,1
+Livonia_US,non_binary,1
+Lodi_US,female,1
+Logansport_US,non_binary,1
+Long County_US,female,1
+Long County_US,non_binary,2
+Longmont_US,female,1
+Longmont_US,non_binary,1
+Los Angeles County_US,male,2
+Los Angeles County_US,non_binary,1
+Los Angeles_US,blank,2
+Los Angeles_US,female,16
+Los Angeles_US,male,19
+Los Angeles_US,non_binary,6
+Los Lunas_US,female,1
+Louisville_US,female,5
+Louisville_US,male,4
+Louisville_US,non_binary,8
+Lovington_US,non_binary,1
+Lowndes County_US,female,2
+Lowndes County_US,male,4
+Lowndes County_US,non_binary,1
+Loxley_US,male,1
+Loxley_US,non_binary,2
+Lubbock_US,male,3
+Luling_US,female,1
+Luling_US,male,1
+Luling_US,non_binary,1
+Lumberton_US,female,2
+Lumberton_US,male,1
+Madera County_US,female,1
+Madera County_US,non_binary,1
+Madison County_US,female,1
+Madison_US,male,1
+Magna_US,blank,2
+Magna_US,female,4
+Magna_US,male,7
+Magna_US,non_binary,2
+Manchester Township_US,male,3
+Mansfield_US,female,1
+Maple Grove_US,female,5
+Maple Grove_US,male,8
+Maple Grove_US,non_binary,3
+Marion County_US,blank,3
+Marion County_US,female,4
+Marion County_US,male,13
+Marion County_US,non_binary,1
+Marion_US,female,4
+Marion_US,male,2
+Marshall_US,female,1
+Marshall_US,male,4
+Marshall_US,non_binary,2
+Mascotte_US,female,7
+Mascotte_US,male,6
+Mascotte_US,non_binary,1
+Matoaka_US,blank,1
+Matoaka_US,female,7
+Matoaka_US,male,2
+Matoaka_US,non_binary,1
+Matteson_US,male,1
+Maysville_US,blank,1
+Maysville_US,female,2
+Maysville_US,male,1
+McLean County_US,female,1
+Meade County_US,female,2
+Medina_US,blank,1
+Medina_US,female,7
+Medina_US,male,5
+Medina_US,non_binary,2
+Melissa_US,female,2
+Memphis_US,blank,1
+Memphis_US,female,8
+Memphis_US,male,9
+Memphis_US,non_binary,1
+Menominee_US,male,1
+Menomonie_US,female,1
+Menomonie_US,non_binary,1
+Merced County_US,male,1
+Merced County_US,non_binary,1
+Mesa County_US,non_binary,1
+Mesa_US,female,4
+Mesa_US,male,3
+Mesquite_US,female,1
+Mesquite_US,male,2
+Mesquite_US,non_binary,1
+Mexia_US,female,1
+Miami-Dade County_US,female,2
+Miami-Dade County_US,male,4
+Miami-Dade County_US,non_binary,2
+Miami_US,blank,1
+Miami_US,female,9
+Miami_US,male,6
+Miami_US,non_binary,4
+Midland_US,male,1
+Midwest City_US,female,2
+Midwest City_US,male,2
+Midwest City_US,non_binary,1
+Mikado Township_US,female,6
+Mikado Township_US,male,6
+Mikado Township_US,non_binary,1
+Mill Creek_US,female,1
+Mill Creek_US,male,2
+Milwaukee_US,female,1
+Milwaukie_US,female,7
+Milwaukie_US,male,4
+Milwaukie_US,non_binary,4
+Miramar_US,female,1
+Miramar_US,male,1
+Mission Viejo_US,female,6
+Mission Viejo_US,male,7
+Mission_US,female,4
+Mission_US,male,8
+Mission_US,non_binary,1
+Mobile_US,non_binary,1
+Mohave County_US,female,2
+Mohave County_US,male,1
+Mohave County_US,non_binary,1
+Moncks Corner_US,male,3
+Moncks Corner_US,non_binary,1
+Monongalia County_US,female,6
+Monongalia County_US,male,7
+Monongalia County_US,non_binary,3
+Monroe County_US,female,1
+Monroe County_US,male,2
+Monroe Township_US,female,1
+Monroe_US,blank,1
+Monroe_US,female,5
+Monroe_US,male,5
+Monroe_US,non_binary,1
+Montague_US,female,1
+Montague_US,male,2
+Monterey County_US,female,1
+Monterey County_US,male,2
+Montgomery County_US,blank,1
+Montgomery County_US,female,5
+Montgomery County_US,male,9
+Montgomery County_US,non_binary,1
+Montgomery_US,non_binary,1
+Monticello_US,female,6
+Monticello_US,non_binary,3
+Mora County_US,female,3
+Mora County_US,male,7
+Morristown_US,female,1
+Morrisville_US,female,1
+Morrisville_US,non_binary,2
+Mount Morris_US,male,1
+Mount Pleasant_US,female,1
+Mount Pleasant_US,male,2
+Mount Washington_US,female,2
+Mount Washington_US,male,1
+Mount Washington_US,non_binary,2
+Mountain View_US,female,2
+Mountain View_US,male,1
+Mountlake Terrace_US,female,13
+Mountlake Terrace_US,male,15
+Mountlake Terrace_US,non_binary,5
+Murfreesboro_US,female,4
+Murfreesboro_US,male,8
+Murfreesboro_US,non_binary,3
+Nampa_US,female,1
+Nanticoke_US,female,1
+Naperville_US,female,1
+Nashville_US,female,3
+Nashville_US,non_binary,1
+Nazareth_US,female,1
+Nazareth_US,male,3
+Nelson County_US,blank,1
+Nelson County_US,female,9
+Nelson County_US,male,5
+New Braunfels_US,blank,2
+New Braunfels_US,female,2
+New Braunfels_US,male,4
+New Braunfels_US,non_binary,1
+New Castle County_US,female,4
+New Castle County_US,male,3
+New Castle County_US,non_binary,1
+New Castle_US,female,2
+New Castle_US,male,2
+New Hanover County_US,female,3
+New Hanover County_US,male,3
+New Hanover County_US,non_binary,4
+New Iberia_US,blank,2
+New Iberia_US,female,6
+New Iberia_US,male,5
+New Iberia_US,non_binary,1
+New Rochelle_US,blank,1
+New Rochelle_US,female,6
+New Rochelle_US,male,9
+New Rochelle_US,non_binary,1
+New York_US,female,36
+New York_US,male,22
+New York_US,non_binary,14
+Newberry_US,non_binary,1
+Newport News_US,female,1
+Newton County_US,male,4
+Nez Perce County_US,blank,1
+Niagara Falls_US,female,1
+Nixa_US,male,1
+Norco_US,non_binary,1
+Norcross_US,female,1
+Norcross_US,male,4
+Norcross_US,non_binary,1
+Norfolk_US,female,1
+Norfolk_US,male,1
+Norristown_US,female,2
+Norristown_US,male,1
+North Bay Village_US,male,1
+North Las Vegas_US,blank,3
+North Las Vegas_US,female,8
+North Las Vegas_US,male,5
+North Las Vegas_US,non_binary,7
+North Vernon_US,female,1
+Northville_US,male,6
+Northville_US,non_binary,2
+Oak Forest_US,blank,1
+Oak Forest_US,female,6
+Oak Forest_US,male,7
+Oak Forest_US,non_binary,3
+Oak Hill_US,non_binary,1
+Oak Ridge_US,female,1
+Oakland_US,female,1
+Ohatchee_US,male,1
+Ohio County_US,blank,1
+Ohio County_US,female,4
+Ohio County_US,male,7
+Ohio County_US,non_binary,3
+Oklahoma City_US,female,1
+Oklahoma City_US,male,3
+Oklahoma City_US,non_binary,1
+Onalaska_US,female,1
+Orange County_US,female,3
+Orange County_US,male,4
+Orange County_US,non_binary,1
+Orlando_US,female,2
+Orlando_US,non_binary,1
+Osceola County_US,male,3
+Osceola County_US,non_binary,1
+Osceola_US,female,5
+Osceola_US,male,4
+Osceola_US,non_binary,5
+Oswego_US,male,1
+Otero County_US,female,1
+Ottawa_US,female,1
+Oxnard_US,female,2
+Oxnard_US,male,4
+Oxnard_US,non_binary,3
+Palm Bay_US,female,1
+Palm Beach County_US,blank,1
+Palm Beach County_US,female,19
+Palm Beach County_US,male,12
+Palm Beach County_US,non_binary,11
+Palm Beach_US,female,4
+Palm Beach_US,male,2
+Panama City_US,female,3
+Panama City_US,male,1
+Panama City_US,non_binary,1
+Pantego_US,female,1
+Paradise_US,female,1
+Paragould_US,female,1
+Park County_US,female,4
+Park County_US,male,1
+Park County_US,non_binary,5
+Parma_US,female,2
+Parma_US,male,5
+Pasadena_US,blank,1
+Pasadena_US,female,3
+Pasadena_US,male,4
+Pasadena_US,non_binary,3
+Pasco County_US,female,10
+Pasco County_US,male,3
+Pasco County_US,non_binary,1
+Pearland_US,female,3
+Pearland_US,male,2
+Pearland_US,non_binary,1
+Pembroke Pines_US,female,1
+Pembroke Pines_US,male,2
+Pembroke Pines_US,non_binary,2
+Peoria_US,male,1
+Perry County_US,female,1
+Pflugerville_US,female,1
+Philadelphia_US,female,14
+Philadelphia_US,male,17
+Philadelphia_US,non_binary,10
+Phoenix_US,blank,2
+Phoenix_US,female,14
+Phoenix_US,male,9
+Phoenix_US,non_binary,10
+Pickens County_US,male,3
+Pico Rivera_US,male,1
+Pinal County_US,female,1
+Pinal County_US,male,3
+Pinal County_US,non_binary,3
+Pinellas Park_US,female,3
+Pinellas Park_US,male,4
+Pineville_US,male,1
+Pitt County_US,female,1
+Pitt County_US,male,1
+Pittsburg_US,male,1
+Pittsburgh_US,male,1
+Pittsylvania County_US,female,5
+Pittsylvania County_US,male,3
+Pittsylvania County_US,non_binary,1
+Plano_US,female,1
+Plano_US,male,1
+Pleasant Prairie_US,female,1
+Plymouth_US,male,3
+Polk County_US,blank,1
+Polk County_US,female,10
+Polk County_US,male,11
+Pomona_US,female,1
+Pompano Beach_US,female,3
+Pompano Beach_US,male,4
+Pompano Beach_US,non_binary,1
+Ponchatoula_US,female,1
+Ponchatoula_US,male,2
+Ponderay_US,female,3
+Ponderay_US,male,3
+Ponderay_US,non_binary,2
+Portage_US,male,1
+Portage_US,non_binary,2
+Portland_US,female,2
+Portland_US,non_binary,1
+Portsmouth_US,female,1
+Portsmouth_US,male,1
+Potsdam_US,female,4
+Potsdam_US,male,4
+Potsdam_US,non_binary,1
+Poway_US,female,1
+Poway_US,non_binary,1
+Prairie Township_US,female,1
+Pratt_US,female,1
+Pratt_US,non_binary,1
+Prattville_US,female,1
+Prince George's County_US,male,1
+Prince George's County_US,non_binary,1
+Prince William County_US,male,1
+Prineville_US,blank,1
+Prineville_US,female,1
+Prineville_US,male,5
+Prineville_US,non_binary,1
+Prior Lake_US,blank,1
+Prior Lake_US,female,1
+Prior Lake_US,male,1
+Provo_US,male,1
+Pueblo County_US,male,1
+Pulaski County_US,female,5
+Pulaski County_US,male,2
+Raleigh County_US,female,11
+Raleigh County_US,male,8
+Raleigh_US,blank,1
+Randolph County_US,male,1
+Rapides Parish_US,blank,1
+Rapides Parish_US,female,1
+Rapides Parish_US,male,1
+Rapides Parish_US,non_binary,2
+Reading_US,female,3
+Reading_US,male,2
+Reading_US,non_binary,1
+Redding_US,female,5
+Redding_US,male,6
+Redding_US,non_binary,5
+Reno_US,male,1
+Rich Square_US,female,4
+Rich Square_US,male,3
+Rich Square_US,non_binary,1
+Richland County_US,female,4
+Richland County_US,male,3
+Richland County_US,non_binary,3
+Richmond_US,male,1
+Ripley_US,male,1
+River Oaks_US,male,1
+Riverbank_US,female,3
+Riverbank_US,male,2
+Riverside County_US,female,1
+Riverside County_US,non_binary,1
+Riverside_US,female,6
+Riverside_US,male,6
+Riverside_US,non_binary,2
+Roanoke_US,male,2
+Robertson County_US,male,1
+Rockford_US,female,7
+Rockford_US,male,6
+Rockford_US,non_binary,6
+Rocklin_US,male,1
+Rockmart_US,female,1
+Rockmart_US,male,2
+Rockwall County_US,female,1
+Rosenberg_US,female,1
+Rosenberg_US,male,1
+Russell County_US,female,1
+Russell County_US,male,3
+Sacramento County_US,female,2
+Saint Charles County_US,female,1
+Saint Charles County_US,male,1
+Saint Charles County_US,non_binary,2
+Saint Lawrence County_US,female,1
+Saint Louis_US,male,1
+Saint Louis_US,non_binary,1
+Saline County_US,blank,1
+Saline County_US,female,8
+Saline County_US,male,5
+Saline County_US,non_binary,1
+Sampson County_US,male,1
+San Antonio_US,blank,2
+San Antonio_US,female,20
+San Antonio_US,male,15
+San Antonio_US,non_binary,2
+San Benito_US,female,6
+San Benito_US,male,3
+San Benito_US,non_binary,2
+San Diego County_US,female,3
+San Diego County_US,male,3
+San Diego County_US,non_binary,1
+San Diego_US,blank,2
+San Diego_US,female,6
+San Diego_US,male,7
+San Diego_US,non_binary,3
+San Jacinto_US,female,2
+San Jacinto_US,male,1
+San Joaquin County_US,female,4
+San Joaquin County_US,male,3
+San Jose_US,female,5
+San Jose_US,male,8
+San Jose_US,non_binary,1
+Sangamon County_US,female,1
+Sangamon County_US,male,1
+Sangamon County_US,non_binary,1
+Santa Ana_US,female,1
+Santa Ana_US,male,1
+Santa Cruz County_US,female,1
+Santa Rosa_US,non_binary,1
+Sarasota County_US,female,1
+Sarasota County_US,non_binary,1
+Schaumburg_US,female,1
+Scottsdale_US,female,1
+Scranton_US,male,1
+Seabrook_US,female,1
+Seattle_US,female,1
+Seattle_US,male,3
+Sedalia_US,blank,2
+Sedalia_US,female,5
+Sedalia_US,male,8
+Seminole County_US,male,1
+Sequoyah County_US,male,1
+Seven Hills_US,female,1
+Sevier County_US,female,1
+Sheboygan_US,male,1
+Shelby Charter Township_US,blank,1
+Shelby Charter Township_US,non_binary,1
+Shelby County_US,female,1
+Shelby County_US,male,2
+Shelby County_US,non_binary,3
+Sherman_US,female,4
+Sherman_US,male,4
+Sherman_US,non_binary,1
+Shippensburg_US,female,1
+Shorewood_US,male,2
+Shorewood_US,non_binary,1
+Shreveport_US,female,1
+Silver Spring_US,female,3
+Silver Spring_US,male,1
+Simpson County_US,male,1
+Sioux Falls_US,female,4
+Sioux Falls_US,male,3
+Sioux Falls_US,non_binary,4
+Skagit County_US,female,1
+South Holland_US,female,1
+Sparta_US,non_binary,1
+Spartanburg County_US,female,3
+Spartanburg County_US,male,1
+Spartanburg County_US,non_binary,2
+Spring Valley_US,female,1
+Spring Valley_US,male,1
+Spring Valley_US,non_binary,1
+Springdale_US,female,2
+Springdale_US,male,1
+Springdale_US,non_binary,1
+Springfield_US,non_binary,1
+Springhill_US,blank,4
+Springhill_US,female,7
+Springhill_US,male,2
+Springhill_US,non_binary,1
+St. Albans_US,female,1
+St. Francois County_US,blank,1
+Statesboro_US,female,1
+Statesville_US,female,1
+Sterling Heights_US,female,5
+Sterling Heights_US,male,2
+Sterling_US,male,1
+Stockton_US,female,2
+Stokes Township_US,male,1
+Story County_US,blank,2
+Story County_US,female,8
+Story County_US,male,2
+Story County_US,non_binary,3
+Stow_US,female,1
+Strafford_US,female,5
+Strafford_US,male,11
+Sturgeon Bay_US,male,1
+Suffolk County_US,blank,1
+Suffolk County_US,female,20
+Suffolk County_US,male,9
+Suffolk County_US,non_binary,5
+Summerville_US,female,2
+Sussex County_US,female,7
+Sussex County_US,male,9
+Tacoma_US,female,4
+Tacoma_US,male,5
+Tacoma_US,non_binary,7
+Takoma Park_US,blank,1
+Talladega County_US,female,6
+Talladega County_US,male,9
+Tampa_US,female,1
+Tampa_US,male,6
+Tampa_US,non_binary,2
+Tangipahoa Parish_US,female,1
+Tangipahoa Parish_US,male,1
+Tarrant County_US,blank,1
+Tarrant County_US,male,1
+Teller County_US,blank,1
+Teller County_US,female,8
+Teller County_US,male,5
+Teller County_US,non_binary,1
+Thousand Oaks_US,female,2
+Thousand Oaks_US,male,1
+Thurston County_US,male,1
+Toccoa_US,non_binary,1
+Toledo_US,blank,1
+Toledo_US,female,2
+Toledo_US,male,3
+Tomball_US,female,1
+Tonawanda_US,female,1
+Topeka_US,male,1
+Town of Clay_US,female,4
+Town of Clay_US,male,4
+Town of Colonie_US,female,1
+Town of Davenport_US,male,1
+Town of Davenport_US,non_binary,2
+Town of Elbridge_US,female,2
+Town of Elbridge_US,male,4
+Town of Elbridge_US,non_binary,1
+Town of Eldorado_US,female,1
+Town of Esperance_US,female,1
+Town of Hempstead_US,male,5
+Town of Hempstead_US,non_binary,1
+Town of Kingston_US,female,1
+Tulsa_US,female,5
+Tulsa_US,male,3
+Tulsa_US,non_binary,1
+Tupelo_US,male,1
+Tuskegee_US,female,10
+Tuskegee_US,male,6
+Tyler_US,blank,2
+Tyler_US,female,5
+Tyler_US,male,4
+Tyler_US,non_binary,3
+Union County_US,male,2
+Unity Township_US,male,3
+University Park_US,female,1
+University Park_US,male,2
+Upper Darby_US,male,1
+Upper Gwynedd Township_US,female,1
+Vancouver_US,blank,1
+Vancouver_US,female,11
+Vancouver_US,male,7
+Vancouver_US,non_binary,2
+Ventura County_US,female,2
+Ventura County_US,male,4
+Ventura County_US,non_binary,8
+Victorville_US,female,1
+Vienna_US,male,1
+Vienna_US,non_binary,1
+Villa Rica_US,non_binary,1
+Virginia Beach_US,female,1
+Virginia Beach_US,non_binary,1
+Vista_US,blank,1
+Vista_US,female,9
+Vista_US,male,7
+Vista_US,non_binary,1
+Volusia County_US,female,2
+Volusia County_US,male,1
+Wadley_US,female,7
+Wadley_US,male,6
+Wadley_US,non_binary,1
+Wadsworth_US,non_binary,1
+Waianae_US,male,1
+Wake County_US,blank,1
+Wake County_US,female,9
+Wake County_US,male,13
+Wake County_US,non_binary,9
+Walnut_US,blank,1
+Walnut_US,female,7
+Walnut_US,non_binary,1
+Warner Robins_US,female,2
+Warner Robins_US,male,3
+Warr Acres_US,male,3
+Warren County_US,female,14
+Warren County_US,male,4
+Washington County_US,female,9
+Washington County_US,male,4
+Washington County_US,non_binary,7
+Washington_US,blank,2
+Washington_US,female,10
+Washington_US,male,8
+Washoe County_US,female,1
+Watertown_US,female,1
+Watsonville_US,female,2
+Watsonville_US,male,1
+Watsonville_US,non_binary,1
+Wauwatosa_US,female,1
+Wayne County_US,female,7
+Wayne County_US,male,9
+Wayne County_US,non_binary,3
+Waynesboro_US,female,1
+Weaver_US,female,1
+Webster_US,male,3
+Weirton_US,female,1
+West Baton Rouge Parish_US,female,1
+West De Land_US,non_binary,1
+West Norriton Township_US,female,4
+West Norriton Township_US,male,4
+West Norriton Township_US,non_binary,4
+West Pelzer_US,blank,1
+West Pelzer_US,female,1
+West Seneca_US,blank,1
+Westerville_US,female,3
+Westerville_US,male,2
+Westerville_US,non_binary,1
+Westminster_US,male,1
+Wheaton_US,male,1
+White County_US,female,1
+White County_US,male,1
+White County_US,non_binary,2
+Whitehall_US,non_binary,1
+Wildwood_US,male,2
+Will County_US,male,1
+Williamsburg_US,female,1
+Wilmington_US,male,1
+Winnebago_US,female,6
+Winnebago_US,male,5
+Winnebago_US,non_binary,4
+Winston-Salem_US,female,1
+Winter Haven_US,male,1
+Wise_US,blank,1
+Wise_US,female,6
+Wise_US,male,5
+Wood County_US,female,1
+Woodbridge_US,female,2
+Woodbridge_US,male,4
+Woodward_US,female,1
+Woodward_US,male,4
+Wyoming County_US,female,1
+Yankton County_US,female,6
+Yankton County_US,male,7
+Yankton County_US,non_binary,1
+Yell County_US,female,1
+Yell County_US,male,1
+Yorba Linda_US,female,3
+Yorba Linda_US,male,5
+Youngstown_US,female,2
+Youngstown_US,male,1
+Youngsville_US,male,1
+Yuba County_US,female,4
+Yuba County_US,male,1
+Yukon_US,female,1
+Zebulon_US,female,1
+not found,blank,10
+not found,female,134
+not found,male,115
+not found,non_binary,30

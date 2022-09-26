@@ -1,0 +1,4290 @@
+user_id,gender,postal_code,temperature,city
+0,female,10977,289.0,Spring Valley_US
+6,female,33168,301.05,Miami-Dade County_US
+7,female,26104,289.92,Wood County_US
+10,female,77433,301.83,Harris County_US
+16,female,75228,301.1,Dallas_US
+17,female,75228,301.1,Dallas_US
+18,female,75033,301.9,Celina_US
+32,female,28269,292.35,Charlotte_US
+34,female,92109,297.54,San Diego_US
+37,female,92109,297.54,San Diego_US
+38,female,98409,294.3,Tacoma_US
+44,female,31320,296.16,Liberty County_US
+50,female,30238,293.32,Clayton County_US
+53,female,92336,302.64,Fontana_US
+55,female,98409,294.3,Tacoma_US
+56,female,98409,294.3,Tacoma_US
+58,female,98409,294.3,Tacoma_US
+60,female,11021,291.16,Great Neck Plaza_US
+61,female,63653,289.28,Leadwood_US
+62,female,24095,291.55,Bedford County_US
+65,female,92336,302.64,Fontana_US
+68,female,39740,295.71,Lowndes County_US
+69,female,7416,,not found
+73,female,34753,299.36,Mascotte_US
+74,female,92336,302.64,Fontana_US
+77,female,34753,299.36,Mascotte_US
+79,female,24095,291.55,Bedford County_US
+81,female,29483,296.07,Summerville_US
+82,female,92336,302.64,Fontana_US
+86,female,95123,294.84,San Jose_US
+90,female,33584,299.88,Hillsborough County_US
+91,female,92019,298.63,San Diego County_US
+96,female,34753,299.36,Mascotte_US
+97,female,11378,290.69,New York_US
+98,female,92336,302.64,Fontana_US
+99,female,34753,299.36,Mascotte_US
+100,female,32908,299.82,Palm Bay_US
+102,female,39740,295.71,Lowndes County_US
+103,female,34753,299.36,Mascotte_US
+104,female,29483,296.07,Summerville_US
+105,female,32703,298.89,Orange County_US
+106,female,2152,,not found
+107,female,92336,302.64,Fontana_US
+109,female,11378,290.69,New York_US
+115,female,34753,299.36,Mascotte_US
+118,female,35810,294.33,Huntsville_US
+121,female,34753,299.36,Mascotte_US
+127,female,63653,289.28,Leadwood_US
+128,female,33584,299.88,Hillsborough County_US
+130,female,10458,290.52,New York_US
+131,female,30907,295.72,Columbia County_US
+134,female,17602,288.74,Lancaster_US
+136,female,17602,288.74,Lancaster_US
+139,female,17602,288.74,Lancaster_US
+141,female,30907,295.72,Columbia County_US
+143,female,17602,288.74,Lancaster_US
+144,female,17602,288.74,Lancaster_US
+148,female,17602,288.74,Lancaster_US
+152,female,78109,302.33,Converse_US
+155,female,92602,299.8,Irvine_US
+159,female,2152,,not found
+160,female,33584,299.88,Hillsborough County_US
+162,female,99701,283.41,Fairbanks_US
+173,female,41835,288.04,Letcher County_US
+182,female,30907,295.72,Columbia County_US
+184,female,86406,307.83,Mohave County_US
+185,female,73110,295.5,Midwest City_US
+188,female,30316,293.82,DeKalb County_US
+192,female,90712,297.95,Lakewood_US
+197,female,6051,,not found
+200,female,6051,,not found
+202,female,30907,295.72,Columbia County_US
+204,female,6051,,not found
+206,female,73110,295.5,Midwest City_US
+207,female,30907,295.72,Columbia County_US
+210,female,30907,295.72,Columbia County_US
+214,female,71909,295.15,Hot Springs Village_US
+219,female,8043,,not found
+222,female,17512,288.28,Columbia_US
+224,female,49307,285.65,Big Rapids_US
+226,female,17512,288.28,Columbia_US
+228,female,49307,285.65,Big Rapids_US
+230,female,75402,298.97,Greenville_US
+232,female,22204,292.38,Arlington_US
+234,female,78210,302.71,San Antonio_US
+235,female,49307,285.65,Big Rapids_US
+239,female,37087,292.56,Lebanon_US
+243,female,49307,285.65,Big Rapids_US
+246,female,33584,299.88,Hillsborough County_US
+250,female,32431,296.53,Jackson County_US
+251,female,92019,298.63,San Diego County_US
+253,female,49307,285.65,Big Rapids_US
+264,female,32431,296.53,Jackson County_US
+273,female,80503,289.53,Longmont_US
+275,female,77388,301.96,Harris County_US
+276,female,30215,292.97,Fayette County_US
+279,female,17512,288.28,Columbia_US
+283,female,77375,301.47,Tomball_US
+288,female,33584,299.88,Hillsborough County_US
+291,female,30215,292.97,Fayette County_US
+293,female,21244,291.36,Baltimore County_US
+295,female,89511,297.79,Washoe County_US
+297,female,17512,288.28,Columbia_US
+299,female,30215,292.97,Fayette County_US
+301,female,30215,292.97,Fayette County_US
+302,female,30215,292.97,Fayette County_US
+303,female,30215,292.97,Fayette County_US
+304,female,71909,295.15,Hot Springs Village_US
+305,female,71909,295.15,Hot Springs Village_US
+308,female,85034,308.02,Phoenix_US
+310,female,36277,292.75,Weaver_US
+311,female,85034,308.02,Phoenix_US
+313,female,71909,295.15,Hot Springs Village_US
+318,female,85034,308.02,Phoenix_US
+322,female,85034,308.02,Phoenix_US
+323,female,71909,295.15,Hot Springs Village_US
+326,female,30215,292.97,Fayette County_US
+328,female,46561,287.39,Osceola_US
+330,female,85034,308.02,Phoenix_US
+332,female,46561,287.39,Osceola_US
+337,female,85034,308.02,Phoenix_US
+339,female,32811,299.04,Orlando_US
+340,female,71909,295.15,Hot Springs Village_US
+341,female,46561,287.39,Osceola_US
+343,female,85034,308.02,Phoenix_US
+345,female,46561,287.39,Osceola_US
+346,female,46561,287.39,Osceola_US
+347,female,71909,295.15,Hot Springs Village_US
+353,female,71909,295.15,Hot Springs Village_US
+355,female,17512,288.28,Columbia_US
+356,female,17512,288.28,Columbia_US
+357,female,17512,288.28,Columbia_US
+360,female,47001,288.26,Hogan Township_US
+364,female,17512,288.28,Columbia_US
+369,female,45327,288.11,Germantown_US
+370,female,38587,290.01,White County_US
+372,female,85034,308.02,Phoenix_US
+374,female,78109,302.33,Converse_US
+380,female,78109,302.33,Converse_US
+386,female,33313,301.4,Coral Springs_US
+390,female,92019,298.63,San Diego County_US
+395,female,49508,286.09,Grand Rapids_US
+399,female,60458,287.64,Justice_US
+400,female,20770,292.18,Greenbelt_US
+401,female,78109,302.33,Converse_US
+403,female,49508,286.09,Grand Rapids_US
+409,female,30096,293.95,Duluth_US
+410,female,13060,287.2,Town of Elbridge_US
+419,female,66104,290.83,Kansas City_US
+420,female,21209,291.48,Baltimore_US
+424,female,37213,294.78,Nashville_US
+429,female,19134,289.64,Philadelphia_US
+443,female,49508,286.09,Grand Rapids_US
+444,female,27834,297.58,Pitt County_US
+446,female,63640,287.48,Farmington_US
+447,female,95002,294.55,San Jose_US
+449,female,49508,286.09,Grand Rapids_US
+452,female,55721,282.67,Cohasset_US
+454,female,83704,295.01,Boise_US
+456,female,45203,289.02,Cincinnati_US
+458,female,83704,295.01,Boise_US
+459,female,83704,295.01,Boise_US
+460,female,63640,287.48,Farmington_US
+464,female,61822,288.72,Champaign_US
+472,female,55721,282.67,Cohasset_US
+474,female,63640,287.48,Farmington_US
+476,female,91789,301.19,Walnut_US
+477,female,77502,301.94,Pasadena_US
+481,female,98002,294.55,Auburn_US
+482,female,98002,294.55,Auburn_US
+483,female,77502,301.94,Pasadena_US
+484,female,92582,303.61,San Jacinto_US
+486,female,79605,300.4,Abilene_US
+489,female,92582,303.61,San Jacinto_US
+492,female,79605,300.4,Abilene_US
+496,female,43081,288.32,Westerville_US
+501,female,29229,295.92,Richland County_US
+502,female,79605,300.4,Abilene_US
+504,female,28677,290.96,Statesville_US
+508,female,11210,290.66,New York_US
+509,female,77502,301.94,Pasadena_US
+512,female,79605,300.4,Abilene_US
+521,female,98036,292.37,Brier_US
+522,female,49508,286.09,Grand Rapids_US
+525,female,95076,290.7,Watsonville_US
+527,female,29229,295.92,Richland County_US
+530,female,29229,295.92,Richland County_US
+532,female,55721,282.67,Cohasset_US
+536,female,21613,294.41,Cambridge_US
+539,female,61102,286.56,Winnebago_US
+541,female,61102,286.56,Winnebago_US
+544,female,61102,286.56,Winnebago_US
+547,female,91709,301.36,Chino Hills_US
+550,female,53534,285.48,Edgerton_US
+554,female,61102,286.56,Winnebago_US
+560,female,61102,286.56,Winnebago_US
+561,female,31316,295.65,Long County_US
+562,female,95111,295.05,San Jose_US
+564,female,17257,287.8,Shippensburg_US
+568,female,57719,288.97,Box Elder_US
+569,female,6762,,not found
+573,female,57719,288.97,Box Elder_US
+575,female,75024,301.45,Plano_US
+578,female,91789,301.19,Walnut_US
+579,female,92887,300.77,Yorba Linda_US
+580,female,6010,,not found
+581,female,6762,,not found
+584,female,19720,290.13,New Castle County_US
+586,female,29506,297.45,Florence County_US
+599,female,19720,290.13,New Castle County_US
+601,female,45723,289.23,Athens County_US
+602,female,60634,286.71,Chicago_US
+606,female,98002,294.55,Auburn_US
+609,female,21613,294.41,Cambridge_US
+612,female,6762,,not found
+614,female,75211,300.8,Dallas_US
+616,female,91789,301.19,Walnut_US
+619,female,98002,294.55,Auburn_US
+621,female,96819,300.05,Honolulu_US
+622,female,61102,286.56,Winnebago_US
+623,female,60634,286.71,Chicago_US
+627,female,91789,301.19,Walnut_US
+628,female,8069,,not found
+629,female,96819,300.05,Honolulu_US
+631,female,19720,290.13,New Castle County_US
+635,female,96819,300.05,Honolulu_US
+637,female,75211,300.8,Dallas_US
+639,female,60634,286.71,Chicago_US
+640,female,8069,,not found
+644,female,60634,286.71,Chicago_US
+648,female,18634,286.98,Nanticoke_US
+651,female,8069,,not found
+655,female,75001,301.67,Carrollton_US
+656,female,8069,,not found
+658,female,27545,293.55,Wake County_US
+669,female,75001,301.67,Carrollton_US
+678,female,75001,301.67,Carrollton_US
+680,female,75001,301.67,Carrollton_US
+681,female,19720,290.13,New Castle County_US
+684,female,55721,282.67,Cohasset_US
+688,female,43081,288.32,Westerville_US
+693,female,31082,294.0,Washington County_US
+696,female,20165,291.69,Cascades_US
+698,female,27545,293.55,Wake County_US
+700,female,27545,293.55,Wake County_US
+702,female,57719,288.97,Box Elder_US
+703,female,27560,293.57,Morrisville_US
+705,female,13060,287.2,Town of Elbridge_US
+708,female,42101,289.78,Warren County_US
+711,female,11412,291.33,New York_US
+725,female,44120,286.94,Cleveland_US
+726,female,52806,288.79,Davenport_US
+728,female,30101,293.1,Cobb County_US
+730,female,91789,301.19,Walnut_US
+731,female,52806,288.79,Davenport_US
+738,female,52806,288.79,Davenport_US
+754,female,32256,296.89,Jacksonville_US
+756,female,12035,287.24,Town of Esperance_US
+758,female,32256,296.89,Jacksonville_US
+765,female,75225,301.41,University Park_US
+770,female,75211,300.8,Dallas_US
+774,female,62565,290.54,Shelby County_US
+775,female,29669,292.97,West Pelzer_US
+778,female,28092,291.94,Lincoln County_US
+780,female,32256,296.89,Jacksonville_US
+781,female,1545,,not found
+782,female,32256,296.89,Jacksonville_US
+784,female,32256,296.89,Jacksonville_US
+788,female,77301,300.79,Conroe_US
+791,female,62441,288.1,Marshall_US
+792,female,32256,296.89,Jacksonville_US
+794,female,32256,296.89,Jacksonville_US
+797,female,6489,,not found
+810,female,85648,300.11,Santa Cruz County_US
+817,female,26003,288.5,Ohio County_US
+818,female,50014,288.27,Story County_US
+819,female,26003,288.5,Ohio County_US
+821,female,26003,288.5,Ohio County_US
+823,female,91360,297.46,Thousand Oaks_US
+824,female,10469,290.71,New York_US
+825,female,91360,297.46,Thousand Oaks_US
+827,female,2148,,not found
+834,female,2148,,not found
+835,female,36301,297.93,Houston County_US
+840,female,36301,297.93,Houston County_US
+841,female,2148,,not found
+846,female,2148,,not found
+847,female,1610,,not found
+858,female,26003,288.5,Ohio County_US
+860,female,86406,307.83,Mohave County_US
+863,female,25839,287.93,Raleigh County_US
+864,female,32431,296.53,Jackson County_US
+875,female,8060,,not found
+876,female,43610,287.05,Toledo_US
+878,female,50014,288.27,Story County_US
+879,female,29073,295.31,Lexington County_US
+880,female,34748,299.1,Lake County_US
+884,female,29170,295.67,Springdale_US
+888,female,21224,292.06,Baltimore_US
+889,female,29073,295.31,Lexington County_US
+890,female,50014,288.27,Story County_US
+892,female,50014,288.27,Story County_US
+894,female,50014,288.27,Story County_US
+895,female,50014,288.27,Story County_US
+906,female,50014,288.27,Story County_US
+910,female,78660,302.02,Pflugerville_US
+911,female,37664,287.14,Kingsport_US
+912,female,37664,287.14,Kingsport_US
+913,female,29170,295.67,Springdale_US
+916,female,50014,288.27,Story County_US
+917,female,37664,287.14,Kingsport_US
+918,female,34653,300.03,Pasco County_US
+920,female,27214,291.13,Guilford County_US
+924,female,27214,291.13,Guilford County_US
+928,female,81050,291.19,Otero County_US
+933,female,30324,294.05,Atlanta_US
+935,female,30324,294.05,Atlanta_US
+937,female,92505,302.82,Riverside_US
+938,female,59860,289.27,Lake County_US
+939,female,48206,286.12,Detroit_US
+942,female,78227,302.68,San Antonio_US
+943,female,1879,,not found
+946,female,33024,301.39,Pembroke Pines_US
+948,female,1879,,not found
+950,female,92505,302.82,Riverside_US
+955,female,1879,,not found
+956,female,92505,302.82,Riverside_US
+958,female,1879,,not found
+963,female,1879,,not found
+968,female,92505,302.82,Riverside_US
+969,female,1879,,not found
+973,female,83864,291.07,Ponderay_US
+978,female,83864,291.07,Ponderay_US
+981,female,92505,302.82,Riverside_US
+982,female,28734,290.02,Franklin_US
+985,female,11201,290.42,New York_US
+988,female,92505,302.82,Riverside_US
+997,female,77037,302.43,Harris County_US
+999,female,6489,,not found
+1003,female,48141,285.62,Inkster_US
+1004,female,77037,302.43,Harris County_US
+1006,female,92064,297.69,Poway_US
+1009,female,20903,292.05,Silver Spring_US
+1010,female,60473,287.9,South Holland_US
+1014,female,19601,288.38,Reading_US
+1016,female,14305,287.18,Niagara Falls_US
+1021,female,36301,297.93,Houston County_US
+1022,female,19601,288.38,Reading_US
+1025,female,20903,292.05,Silver Spring_US
+1033,female,92109,297.54,San Diego_US
+1035,female,53094,283.99,Watertown_US
+1041,female,40047,289.69,Mount Washington_US
+1044,female,19601,288.38,Reading_US
+1050,female,44820,287.08,Bucyrus_US
+1052,female,1945,,not found
+1054,female,44820,287.08,Bucyrus_US
+1058,female,1945,,not found
+1060,female,1945,,not found
+1062,female,88101,294.23,Clovis_US
+1064,female,60634,286.71,Chicago_US
+1067,female,77586,301.43,Seabrook_US
+1068,female,14701,286.46,Jamestown_US
+1069,female,92394,302.24,Victorville_US
+1072,female,14701,286.46,Jamestown_US
+1073,female,14701,286.46,Jamestown_US
+1075,female,71438,297.52,Rapides Parish_US
+1076,female,14701,286.46,Jamestown_US
+1079,female,27569,293.92,Johnston County_US
+1080,female,19145,289.93,Philadelphia_US
+1081,female,70374,300.66,Lafourche Parish_US
+1083,female,13636,286.46,Jefferson County_US
+1084,female,29583,296.9,Florence County_US
+1087,female,70374,300.66,Lafourche Parish_US
+1094,female,70374,300.66,Lafourche Parish_US
+1098,female,70374,300.66,Lafourche Parish_US
+1105,female,11356,290.95,New York_US
+1107,female,24201,285.89,Bristol_US
+1108,female,33313,301.4,Coral Springs_US
+1110,female,33313,301.4,Coral Springs_US
+1115,female,8086,,not found
+1118,female,5701,,not found
+1120,female,60623,287.24,Chicago_US
+1122,female,38701,298.94,Greenville_US
+1125,female,60623,287.24,Chicago_US
+1128,female,60623,287.24,Chicago_US
+1136,female,98199,292.84,Seattle_US
+1139,female,60623,287.24,Chicago_US
+1142,female,29571,296.44,Marion County_US
+1144,female,44131,286.92,Seven Hills_US
+1145,female,60623,287.24,Chicago_US
+1147,female,60623,287.24,Chicago_US
+1152,female,60623,287.24,Chicago_US
+1154,female,33578,300.25,Hillsborough County_US
+1158,female,60623,287.24,Chicago_US
+1164,female,29571,296.44,Marion County_US
+1167,female,15061,287.03,Center Township_US
+1173,female,15061,287.03,Center Township_US
+1182,female,72834,294.79,Yell County_US
+1186,female,85037,308.08,Phoenix_US
+1187,female,85037,308.08,Phoenix_US
+1188,female,85037,308.08,Phoenix_US
+1192,female,10805,291.08,New Rochelle_US
+1193,female,85037,308.08,Phoenix_US
+1196,female,87031,295.17,Los Lunas_US
+1202,female,24701,286.83,Bluefield_US
+1203,female,95367,303.22,Riverbank_US
+1208,female,85205,307.5,Mesa_US
+1209,female,89032,305.43,North Las Vegas_US
+1210,female,98036,292.37,Brier_US
+1219,female,8527,,not found
+1220,female,27534,296.32,Wayne County_US
+1221,female,27534,296.32,Wayne County_US
+1224,female,33137,301.05,Miami_US
+1226,female,29303,292.62,Spartanburg County_US
+1229,female,33137,301.05,Miami_US
+1230,female,97222,300.09,Milwaukie_US
+1236,female,14222,287.15,Buffalo_US
+1237,female,33137,301.05,Miami_US
+1238,female,97222,300.09,Milwaukie_US
+1242,female,33137,301.05,Miami_US
+1243,female,33137,301.05,Miami_US
+1244,female,97222,300.09,Milwaukie_US
+1246,female,33137,301.05,Miami_US
+1249,female,97222,300.09,Milwaukie_US
+1250,female,97222,300.09,Milwaukie_US
+1254,female,32621,295.59,Bronson_US
+1255,female,94043,294.05,Mountain View_US
+1258,female,33137,301.05,Miami_US
+1263,female,94043,294.05,Mountain View_US
+1266,female,95824,305.01,Elk Grove_US
+1268,female,77389,301.7,Harris County_US
+1271,female,95864,305.04,Sacramento County_US
+1278,female,77389,301.7,Harris County_US
+1280,female,97754,299.57,Prineville_US
+1286,female,89031,305.51,North Las Vegas_US
+1289,female,89031,305.51,North Las Vegas_US
+1291,female,89031,305.51,North Las Vegas_US
+1294,female,37052,291.81,Montgomery County_US
+1296,female,45218,288.16,Greenhills_US
+1304,female,77029,302.36,Houston_US
+1313,female,77029,302.36,Houston_US
+1315,female,77029,302.36,Houston_US
+1317,female,63366,292.54,Saint Charles County_US
+1318,female,83864,291.07,Ponderay_US
+1320,female,32526,299.31,Escambia County_US
+1321,female,32526,299.31,Escambia County_US
+1322,female,71075,293.44,Springhill_US
+1325,female,8060,,not found
+1329,female,75501,296.72,Bowie County_US
+1330,female,71075,293.44,Springhill_US
+1331,female,71075,293.44,Springhill_US
+1333,female,96749,300.85,Hawaiʻi County_US
+1334,female,71075,293.44,Springhill_US
+1336,female,75033,301.9,Celina_US
+1340,female,75033,301.9,Celina_US
+1344,female,71075,293.44,Springhill_US
+1351,female,77029,302.36,Houston_US
+1354,female,75501,296.72,Bowie County_US
+1357,female,31093,294.75,Warner Robins_US
+1360,female,36301,297.93,Houston County_US
+1362,female,36301,297.93,Houston County_US
+1363,female,36301,297.93,Houston County_US
+1365,female,36301,297.93,Houston County_US
+1368,female,75501,296.72,Bowie County_US
+1369,female,8010,,not found
+1370,female,95841,305.23,Sacramento County_US
+1372,female,75501,296.72,Bowie County_US
+1376,female,75501,296.72,Bowie County_US
+1378,female,26280,288.16,Mill Creek_US
+1380,female,75501,296.72,Bowie County_US
+1382,female,75501,296.72,Bowie County_US
+1384,female,26508,288.75,Monongalia County_US
+1385,female,98043,292.22,Mountlake Terrace_US
+1386,female,85037,308.08,Phoenix_US
+1389,female,98043,292.22,Mountlake Terrace_US
+1391,female,33446,300.97,Palm Beach County_US
+1394,female,98043,292.22,Mountlake Terrace_US
+1395,female,98043,292.22,Mountlake Terrace_US
+1399,female,75501,296.72,Bowie County_US
+1406,female,60110,285.53,Carpentersville_US
+1408,female,26508,288.75,Monongalia County_US
+1410,female,60110,285.53,Carpentersville_US
+1417,female,26508,288.75,Monongalia County_US
+1419,female,75501,296.72,Bowie County_US
+1420,female,60110,285.53,Carpentersville_US
+1422,female,60110,285.53,Carpentersville_US
+1427,female,60110,285.53,Carpentersville_US
+1430,female,60110,285.53,Carpentersville_US
+1437,female,26508,288.75,Monongalia County_US
+1439,female,26508,288.75,Monongalia County_US
+1441,female,77029,302.36,Houston_US
+1447,female,96819,300.05,Honolulu_US
+1452,female,90210,300.89,Beverly Hills_US
+1454,female,57104,286.16,Sioux Falls_US
+1456,female,57104,286.16,Sioux Falls_US
+1460,female,57104,286.16,Sioux Falls_US
+1463,female,75702,299.0,Tyler_US
+1465,female,57104,286.16,Sioux Falls_US
+1467,female,32609,295.82,City of Gainesville Municipal Boundaries_US
+1469,female,75702,299.0,Tyler_US
+1470,female,32609,295.82,City of Gainesville Municipal Boundaries_US
+1472,female,75702,299.0,Tyler_US
+1478,female,84044,293.4,Magna_US
+1486,female,60634,286.71,Chicago_US
+1489,female,84044,293.4,Magna_US
+1492,female,60634,286.71,Chicago_US
+1493,female,75702,299.0,Tyler_US
+1494,female,84044,293.4,Magna_US
+1500,female,60634,286.71,Chicago_US
+1501,female,1841,,not found
+1505,female,34711,299.42,Clermont_US
+1511,female,70805,299.82,Baton Rouge_US
+1512,female,67045,290.36,Eureka_US
+1514,female,38114,295.32,Memphis_US
+1517,female,60452,287.99,Oak Forest_US
+1519,female,93245,304.31,Kings County_US
+1521,female,60452,287.99,Oak Forest_US
+1526,female,60452,287.99,Oak Forest_US
+1527,female,60452,287.99,Oak Forest_US
+1530,female,40047,289.69,Mount Washington_US
+1533,female,53226,283.71,Wauwatosa_US
+1537,female,17202,287.86,Guilford Township_US
+1538,female,61101,286.51,Rockford_US
+1539,female,60804,287.28,Cicero_US
+1542,female,67501,290.44,Hutchinson_US
+1544,female,95111,295.05,San Jose_US
+1549,female,70401,298.15,Tangipahoa Parish_US
+1557,female,60452,287.99,Oak Forest_US
+1564,female,61101,286.51,Rockford_US
+1565,female,79930,299.63,El Paso_US
+1566,female,61101,286.51,Rockford_US
+1568,female,61101,286.51,Rockford_US
+1570,female,55311,287.9,Maple Grove_US
+1572,female,61101,286.51,Rockford_US
+1576,female,55311,287.9,Maple Grove_US
+1577,female,61101,286.51,Rockford_US
+1580,female,56601,283.17,Beltrami County_US
+1581,female,61101,286.51,Rockford_US
+1583,female,17202,287.86,Guilford Township_US
+1584,female,90011,299.36,Los Angeles_US
+1589,female,94605,291.38,Oakland_US
+1594,female,90011,299.36,Los Angeles_US
+1596,female,90011,299.36,Los Angeles_US
+1597,female,92532,301.23,Lake Elsinore_US
+1599,female,55311,287.9,Maple Grove_US
+1602,female,17202,287.86,Guilford Township_US
+1604,female,60452,287.99,Oak Forest_US
+1609,female,82435,290.92,Park County_US
+1614,female,83704,295.01,Boise_US
+1618,female,83704,295.01,Boise_US
+1622,female,90011,299.36,Los Angeles_US
+1629,female,63701,290.85,Cape Girardeau_US
+1634,female,67501,290.44,Hutchinson_US
+1639,female,82435,290.92,Park County_US
+1646,female,67501,290.44,Hutchinson_US
+1648,female,82435,290.92,Park County_US
+1649,female,67501,290.44,Hutchinson_US
+1650,female,33060,301.31,Pompano Beach_US
+1652,female,33313,301.4,Coral Springs_US
+1655,female,98043,292.22,Mountlake Terrace_US
+1656,female,98043,292.22,Mountlake Terrace_US
+1657,female,98043,292.22,Mountlake Terrace_US
+1660,female,12401,287.75,Town of Kingston_US
+1661,female,99701,283.41,Fairbanks_US
+1662,female,98043,292.22,Mountlake Terrace_US
+1664,female,82435,290.92,Park County_US
+1666,female,17202,287.86,Guilford Township_US
+1667,female,98043,292.22,Mountlake Terrace_US
+1668,female,90011,299.36,Los Angeles_US
+1672,female,83651,296.6,Nampa_US
+1673,female,98043,292.22,Mountlake Terrace_US
+1674,female,98043,292.22,Mountlake Terrace_US
+1681,female,98043,292.22,Mountlake Terrace_US
+1684,female,60502,287.11,Aurora_US
+1686,female,37918,289.89,Knoxville_US
+1688,female,27263,291.11,Guilford County_US
+1695,female,42330,289.42,Central City_US
+1696,female,37918,289.89,Knoxville_US
+1697,female,17202,287.86,Guilford Township_US
+1700,female,33060,301.31,Pompano Beach_US
+1702,female,33060,301.31,Pompano Beach_US
+1708,female,99508,285.19,Anchorage_US
+1709,female,46227,290.13,Indianapolis_US
+1721,female,2148,,not found
+1723,female,30019,293.91,Gwinnett County_US
+1725,female,72450,290.97,Paragould_US
+1738,female,78130,301.92,New Braunfels_US
+1739,female,30019,293.91,Gwinnett County_US
+1749,female,75087,300.62,Rockwall County_US
+1753,female,55311,287.9,Maple Grove_US
+1755,female,64801,291.29,Joplin_US
+1756,female,78109,302.33,Converse_US
+1758,female,78648,302.66,Luling_US
+1764,female,55311,287.9,Maple Grove_US
+1765,female,64801,291.29,Joplin_US
+1774,female,31088,294.76,Warner Robins_US
+1776,female,64801,291.29,Joplin_US
+1784,female,30132,292.71,Dallas_US
+1785,female,80011,290.92,Aurora_US
+1790,female,76112,301.34,Fort Worth_US
+1796,female,34741,298.98,Kissimmee_US
+1798,female,75126,300.37,Forney_US
+1803,female,32204,296.99,Jacksonville_US
+1805,female,75126,300.37,Forney_US
+1810,female,29303,292.62,Spartanburg County_US
+1812,female,11706,292.0,Suffolk County_US
+1815,female,19140,289.42,Philadelphia_US
+1816,female,30153,293.13,Rockmart_US
+1817,female,14612,287.76,Greece_US
+1822,female,30132,292.71,Dallas_US
+1828,female,30132,292.71,Dallas_US
+1836,female,30132,292.71,Dallas_US
+1837,female,30132,292.71,Dallas_US
+1842,female,40228,290.0,Louisville_US
+1844,female,40228,290.0,Louisville_US
+1846,female,93638,306.02,Madera County_US
+1848,female,40228,290.0,Louisville_US
+1849,female,6489,,not found
+1854,female,54932,285.32,Town of Eldorado_US
+1855,female,40228,290.0,Louisville_US
+1863,female,97222,300.09,Milwaukie_US
+1864,female,40228,290.0,Louisville_US
+1868,female,40503,291.12,Lexington_US
+1869,female,40503,291.12,Lexington_US
+1870,female,23605,293.77,Newport News_US
+1874,female,97222,300.09,Milwaukie_US
+1875,female,46406,287.32,Gary_US
+1880,female,36066,295.45,Prattville_US
+1882,female,46406,287.32,Gary_US
+1886,female,8060,,not found
+1889,female,13642,286.3,Saint Lawrence County_US
+1891,female,57701,289.22,Meade County_US
+1895,female,8060,,not found
+1897,female,1845,,not found
+1908,female,11751,291.97,Suffolk County_US
+1909,female,11751,291.97,Suffolk County_US
+1914,female,49423,286.15,Holland_US
+1915,female,99508,285.19,Anchorage_US
+1916,female,99508,285.19,Anchorage_US
+1917,female,33594,300.01,Hillsborough County_US
+1920,female,89032,305.43,North Las Vegas_US
+1921,female,99508,285.19,Anchorage_US
+1930,female,48745,285.1,Mikado Township_US
+1932,female,48745,285.1,Mikado Township_US
+1937,female,48745,285.1,Mikado Township_US
+1939,female,28412,297.63,New Hanover County_US
+1940,female,87732,285.51,Mora County_US
+1942,female,51351,286.87,Dickinson County_US
+1944,female,77074,302.45,Houston_US
+1948,female,48745,285.1,Mikado Township_US
+1950,female,73801,291.57,Woodward_US
+1952,female,29468,295.55,Berkeley County_US
+1953,female,48745,285.1,Mikado Township_US
+1956,female,87732,285.51,Mora County_US
+1960,female,57067,289.92,Yankton County_US
+1963,female,57067,289.92,Yankton County_US
+1964,female,29468,295.55,Berkeley County_US
+1965,female,57067,289.92,Yankton County_US
+1967,female,48507,284.74,Flint Township_US
+1970,female,48745,285.1,Mikado Township_US
+1974,female,30241,293.45,LaGrange_US
+1976,female,57067,289.92,Yankton County_US
+1979,female,57067,289.92,Yankton County_US
+1980,female,87732,285.51,Mora County_US
+1981,female,60188,286.53,Carol Stream_US
+1983,female,93035,294.97,Oxnard_US
+1987,female,2860,,not found
+1992,female,4047,,not found
+1993,female,60188,286.53,Carol Stream_US
+1997,female,30101,293.1,Cobb County_US
+1998,female,76116,300.98,Fort Worth_US
+1999,female,71101,298.11,Shreveport_US
+2001,female,31082,294.0,Washington County_US
+2002,female,36553,296.67,Washington County_US
+2006,female,93312,305.03,Kern County_US
+2010,female,27597,293.04,Zebulon_US
+2013,female,36553,296.67,Washington County_US
+2017,female,49835,284.61,Garden Township_US
+2018,female,1841,,not found
+2022,female,1841,,not found
+2024,female,43228,287.93,Columbus_US
+2029,female,1841,,not found
+2037,female,43228,287.93,Columbus_US
+2038,female,1841,,not found
+2039,female,33556,300.04,Hillsborough County_US
+2043,female,1841,,not found
+2046,female,29654,293.28,Anderson County_US
+2048,female,19401,289.2,Norristown_US
+2049,female,43228,287.93,Columbus_US
+2050,female,30132,292.71,Dallas_US
+2051,female,1841,,not found
+2052,female,33556,300.04,Hillsborough County_US
+2053,female,19401,289.2,Norristown_US
+2055,female,43228,287.93,Columbus_US
+2056,female,72764,291.98,Washington County_US
+2059,female,93726,305.78,Fresno_US
+2062,female,30132,292.71,Dallas_US
+2069,female,30132,292.71,Dallas_US
+2072,female,72764,291.98,Washington County_US
+2075,female,30132,292.71,Dallas_US
+2078,female,72764,291.98,Washington County_US
+2079,female,43228,287.93,Columbus_US
+2080,female,18109,288.31,Hanover Township_US
+2081,female,19403,289.0,West Norriton Township_US
+2088,female,96003,302.22,Redding_US
+2090,female,19403,289.0,West Norriton Township_US
+2093,female,19403,289.0,West Norriton Township_US
+2094,female,19403,289.0,West Norriton Township_US
+2097,female,92887,300.77,Yorba Linda_US
+2099,female,96003,302.22,Redding_US
+2102,female,93001,294.99,Ventura County_US
+2104,female,29583,296.9,Florence County_US
+2108,female,29583,296.9,Florence County_US
+2110,female,34233,298.86,Sarasota County_US
+2111,female,29583,296.9,Florence County_US
+2113,female,96003,302.22,Redding_US
+2126,female,29583,296.9,Florence County_US
+2138,female,29583,296.9,Florence County_US
+2139,female,96003,302.22,Redding_US
+2140,female,93001,294.99,Ventura County_US
+2142,female,92887,300.77,Yorba Linda_US
+2145,female,92109,297.54,San Diego_US
+2150,female,42633,288.72,Monticello_US
+2152,female,42633,288.72,Monticello_US
+2155,female,91505,302.01,Burbank_US
+2158,female,91505,302.01,Burbank_US
+2160,female,43050,287.82,Clinton Township_US
+2161,female,54650,288.78,Onalaska_US
+2164,female,33417,300.79,Palm Beach County_US
+2165,female,42633,288.72,Monticello_US
+2168,female,24870,288.93,Wyoming County_US
+2170,female,42633,288.72,Monticello_US
+2173,female,42633,288.72,Monticello_US
+2175,female,33101,301.1,Miami_US
+2177,female,76522,301.81,Coryell County_US
+2179,female,76522,301.81,Coryell County_US
+2180,female,76522,301.81,Coryell County_US
+2184,female,33101,301.1,Miami_US
+2186,female,75092,300.1,Sherman_US
+2187,female,76522,301.81,Coryell County_US
+2189,female,76522,301.81,Coryell County_US
+2193,female,76522,301.81,Coryell County_US
+2195,female,76522,301.81,Coryell County_US
+2197,female,76522,301.81,Coryell County_US
+2202,female,76522,301.81,Coryell County_US
+2203,female,61726,288.77,Chenoa_US
+2209,female,61726,288.77,Chenoa_US
+2211,female,61726,288.77,Chenoa_US
+2217,female,67037,292.66,Derby_US
+2222,female,61726,288.77,Chenoa_US
+2226,female,20903,292.05,Silver Spring_US
+2227,female,33417,300.79,Palm Beach County_US
+2231,female,30477,297.26,Wadley_US
+2234,female,33411,300.81,Palm Beach County_US
+2236,female,30477,297.26,Wadley_US
+2239,female,30477,297.26,Wadley_US
+2247,female,30477,297.26,Wadley_US
+2253,female,30477,297.26,Wadley_US
+2255,female,33616,300.48,Tampa_US
+2260,female,30477,297.26,Wadley_US
+2264,female,33511,300.06,Brandon_US
+2266,female,11751,291.97,Suffolk County_US
+2267,female,55720,283.15,Cloquet_US
+2268,female,11751,291.97,Suffolk County_US
+2276,female,30477,297.26,Wadley_US
+2280,female,33411,300.81,Palm Beach County_US
+2282,female,23072,292.9,Gloucester County_US
+2284,female,33411,300.81,Palm Beach County_US
+2289,female,25162,289.52,Pratt_US
+2294,female,33411,300.81,Palm Beach County_US
+2297,female,52033,289.49,Jones County_US
+2299,female,39440,298.09,Laurel_US
+2302,female,28673,291.87,Catawba County_US
+2311,female,83402,292.52,Idaho Falls_US
+2315,female,20012,291.98,Washington_US
+2319,female,52033,289.49,Jones County_US
+2320,female,11751,291.97,Suffolk County_US
+2321,female,27713,293.38,Durham_US
+2323,female,52033,289.49,Jones County_US
+2324,female,27713,293.38,Durham_US
+2325,female,75402,298.97,Greenville_US
+2326,female,52033,289.49,Jones County_US
+2327,female,52033,289.49,Jones County_US
+2332,female,52033,289.49,Jones County_US
+2334,female,42749,288.41,Hart County_US
+2337,female,52033,289.49,Jones County_US
+2339,female,77471,301.95,Rosenberg_US
+2343,female,30132,292.71,Dallas_US
+2344,female,49437,285.32,Montague_US
+2350,female,27410,290.98,Greensboro_US
+2351,female,75402,298.97,Greenville_US
+2352,female,52033,289.49,Jones County_US
+2359,female,11378,290.69,New York_US
+2365,female,19149,289.43,Philadelphia_US
+2368,female,46032,289.33,Carmel_US
+2371,female,95014,294.1,Cupertino_US
+2373,female,14701,286.46,Jamestown_US
+2375,female,12203,288.56,Albany_US
+2380,female,8086,,not found
+2382,female,46406,287.32,Gary_US
+2390,female,27706,293.05,Durham_US
+2391,female,1803,,not found
+2393,female,85140,306.81,Pinal County_US
+2396,female,91011,300.04,La Cañada Flintridge_US
+2398,female,1803,,not found
+2399,female,46406,287.32,Gary_US
+2400,female,11950,291.88,Suffolk County_US
+2402,female,48161,285.79,Monroe Township_US
+2404,female,11950,291.88,Suffolk County_US
+2407,female,11950,291.88,Suffolk County_US
+2410,female,90011,299.36,Los Angeles_US
+2411,female,11950,291.88,Suffolk County_US
+2412,female,33773,300.66,Pinellas Park_US
+2413,female,33773,300.66,Pinellas Park_US
+2415,female,11950,291.88,Suffolk County_US
+2416,female,11950,291.88,Suffolk County_US
+2417,female,40601,289.7,Franklin County_US
+2418,female,11950,291.88,Suffolk County_US
+2424,female,11950,291.88,Suffolk County_US
+2427,female,92274,312.94,Riverside County_US
+2428,female,11950,291.88,Suffolk County_US
+2429,female,40601,289.7,Franklin County_US
+2430,female,8086,,not found
+2432,female,98683,299.64,Vancouver_US
+2436,female,40601,289.7,Franklin County_US
+2438,female,40601,289.7,Franklin County_US
+2439,female,8086,,not found
+2442,female,23451,294.85,Virginia Beach_US
+2444,female,40601,289.7,Franklin County_US
+2447,female,11950,291.88,Suffolk County_US
+2449,female,22980,290.47,Waynesboro_US
+2450,female,8086,,not found
+2451,female,11950,291.88,Suffolk County_US
+2452,female,95961,303.92,Yuba County_US
+2453,female,95961,303.92,Yuba County_US
+2457,female,47905,288.33,Lafayette_US
+2463,female,32621,295.59,Bronson_US
+2469,female,95961,303.92,Yuba County_US
+2470,female,30071,293.92,Norcross_US
+2471,female,29464,297.19,Charleston County_US
+2474,female,47905,288.33,Lafayette_US
+2475,female,95961,303.92,Yuba County_US
+2477,female,7663,,not found
+2480,female,47905,288.33,Lafayette_US
+2484,female,89032,305.43,North Las Vegas_US
+2491,female,47905,288.33,Lafayette_US
+2492,female,60618,286.92,Chicago_US
+2496,female,47905,288.33,Lafayette_US
+2499,female,23504,293.79,Norfolk_US
+2500,female,43302,287.66,Marion_US
+2501,female,60618,286.92,Chicago_US
+2503,female,11706,292.0,Suffolk County_US
+2504,female,85257,307.8,Scottsdale_US
+2505,female,37830,290.51,Oak Ridge_US
+2514,female,10805,291.08,New Rochelle_US
+2516,female,43302,287.66,Marion_US
+2519,female,16101,287.25,New Castle_US
+2520,female,43119,287.63,Prairie Township_US
+2523,female,60618,286.92,Chicago_US
+2524,female,16101,287.25,New Castle_US
+2528,female,26032,287.01,Brooke County_US
+2529,female,43302,287.66,Marion_US
+2530,female,7663,,not found
+2531,female,46221,290.08,Indianapolis_US
+2532,female,46221,290.08,Indianapolis_US
+2536,female,34667,299.71,Pasco County_US
+2537,female,46221,290.08,Indianapolis_US
+2543,female,1845,,not found
+2547,female,46221,290.08,Indianapolis_US
+2548,female,43302,287.66,Marion_US
+2549,female,60618,286.92,Chicago_US
+2554,female,60402,287.25,Berwyn_US
+2555,female,46221,290.08,Indianapolis_US
+2558,female,10805,291.08,New Rochelle_US
+2565,female,60618,286.92,Chicago_US
+2566,female,37814,289.24,Morristown_US
+2567,female,2760,,not found
+2568,female,60618,286.92,Chicago_US
+2573,female,46221,290.08,Indianapolis_US
+2574,female,60618,286.92,Chicago_US
+2575,female,60618,286.92,Chicago_US
+2582,female,11751,291.97,Suffolk County_US
+2584,female,68801,290.46,Grand Island_US
+2585,female,20004,292.71,Washington_US
+2589,female,8086,,not found
+2591,female,19966,293.01,Sussex County_US
+2593,female,19966,293.01,Sussex County_US
+2594,female,10805,291.08,New Rochelle_US
+2595,female,83336,293.27,Heyburn_US
+2596,female,34667,299.71,Pasco County_US
+2597,female,19966,293.01,Sussex County_US
+2598,female,76063,299.79,Mansfield_US
+2599,female,19966,293.01,Sussex County_US
+2600,female,68801,290.46,Grand Island_US
+2607,female,21239,291.54,Baltimore_US
+2608,female,19966,293.01,Sussex County_US
+2619,female,19966,293.01,Sussex County_US
+2621,female,36083,295.05,Tuskegee_US
+2624,female,36083,295.05,Tuskegee_US
+2625,female,76039,302.14,Euless_US
+2626,female,36083,295.05,Tuskegee_US
+2628,female,71222,297.27,Bernice_US
+2629,female,36083,295.05,Tuskegee_US
+2630,female,19966,293.01,Sussex County_US
+2631,female,36083,295.05,Tuskegee_US
+2635,female,36083,295.05,Tuskegee_US
+2639,female,1845,,not found
+2643,female,36083,295.05,Tuskegee_US
+2650,female,25177,289.2,St. Albans_US
+2659,female,77581,301.63,Pearland_US
+2660,female,1845,,not found
+2662,female,1845,,not found
+2663,female,8086,,not found
+2667,female,34667,299.71,Pasco County_US
+2668,female,1610,,not found
+2669,female,11208,290.94,New York_US
+2672,female,1610,,not found
+2675,female,28411,297.23,New Hanover County_US
+2681,female,37166,289.05,DeKalb County_US
+2682,female,70816,299.78,Baton Rouge_US
+2684,female,70816,299.78,Baton Rouge_US
+2687,female,25839,287.93,Raleigh County_US
+2688,female,1610,,not found
+2692,female,64836,290.69,Carthage_US
+2693,female,1610,,not found
+2694,female,36083,295.05,Tuskegee_US
+2695,female,30421,296.18,Collins_US
+2701,female,70816,299.78,Baton Rouge_US
+2702,female,1845,,not found
+2706,female,36083,295.05,Tuskegee_US
+2707,female,27527,293.47,Johnston County_US
+2711,female,28212,292.37,Charlotte_US
+2712,female,46217,290.22,Indianapolis_US
+2715,female,98661,299.81,Vancouver_US
+2717,female,46217,290.22,Indianapolis_US
+2718,female,78210,302.71,San Antonio_US
+2721,female,70816,299.78,Baton Rouge_US
+2722,female,46217,290.22,Indianapolis_US
+2729,female,46217,290.22,Indianapolis_US
+2731,female,98661,299.81,Vancouver_US
+2734,female,44129,286.84,Parma_US
+2737,female,98661,299.81,Vancouver_US
+2740,female,37211,294.53,Nashville_US
+2744,female,44129,286.84,Parma_US
+2750,female,98661,299.81,Vancouver_US
+2751,female,92707,299.47,Santa Ana_US
+2752,female,64078,290.36,Cass County_US
+2754,female,75234,302.08,Farmers Branch_US
+2755,female,98661,299.81,Vancouver_US
+2756,female,34474,298.54,Marion County_US
+2757,female,75180,300.6,Balch Springs_US
+2760,female,29650,293.09,Greenville County_US
+2761,female,48047,286.15,Chesterfield Township_US
+2762,female,13041,287.64,Town of Clay_US
+2763,female,98661,299.81,Vancouver_US
+2765,female,75234,302.08,Farmers Branch_US
+2767,female,29650,293.09,Greenville County_US
+2768,female,21213,291.96,Baltimore_US
+2769,female,1845,,not found
+2771,female,29650,293.09,Greenville County_US
+2772,female,75234,302.08,Farmers Branch_US
+2773,female,47586,290.43,Perry County_US
+2774,female,77034,301.83,Houston_US
+2775,female,1845,,not found
+2776,female,75234,302.08,Farmers Branch_US
+2778,female,13041,287.64,Town of Clay_US
+2779,female,84737,302.22,Hurricane_US
+2782,female,7017,,not found
+2784,female,60618,286.92,Chicago_US
+2785,female,26062,286.53,Weirton_US
+2788,female,1375,,not found
+2792,female,13041,287.64,Town of Clay_US
+2793,female,39428,298.05,Covington County_US
+2798,female,10460,290.73,New York_US
+2800,female,60163,286.92,Berkeley_US
+2801,female,76115,300.82,Fort Worth_US
+2802,female,10460,290.73,New York_US
+2803,female,32811,299.04,Orlando_US
+2812,female,19530,288.0,Kutztown_US
+2813,female,60163,286.92,Berkeley_US
+2814,female,7017,,not found
+2817,female,40051,289.48,Nelson County_US
+2820,female,40051,289.48,Nelson County_US
+2824,female,40051,289.48,Nelson County_US
+2825,female,60618,286.92,Chicago_US
+2834,female,4401,,not found
+2835,female,77089,301.67,Houston_US
+2836,female,31709,296.91,Americus_US
+2837,female,38104,295.2,Memphis_US
+2838,female,19131,289.44,Philadelphia_US
+2840,female,78264,302.3,Bexar County_US
+2841,female,31709,296.91,Americus_US
+2842,female,24266,285.36,Russell County_US
+2846,female,20783,292.18,Adelphi_US
+2848,female,20783,292.18,Adelphi_US
+2856,female,40051,289.48,Nelson County_US
+2857,female,31709,296.91,Americus_US
+2860,female,40051,289.48,Nelson County_US
+2861,female,31709,296.91,Americus_US
+2862,female,40051,289.48,Nelson County_US
+2863,female,72764,291.98,Washington County_US
+2865,female,60564,287.43,Naperville_US
+2867,female,18017,288.37,Hanover Township_US
+2868,female,75052,300.07,Grand Prairie_US
+2869,female,72764,291.98,Washington County_US
+2870,female,18017,288.37,Hanover Township_US
+2874,female,33025,301.26,Miramar_US
+2875,female,71301,300.08,Alexandria_US
+2878,female,28610,290.98,Catawba County_US
+2879,female,29053,295.27,Lexington County_US
+2884,female,95367,303.22,Riverbank_US
+2890,female,44114,287.53,Cleveland_US
+2891,female,44114,287.53,Cleveland_US
+2892,female,27263,291.11,Guilford County_US
+2893,female,72601,290.9,Harrison_US
+2894,female,40051,289.48,Nelson County_US
+2895,female,27263,291.11,Guilford County_US
+2897,female,40051,289.48,Nelson County_US
+2898,female,11235,290.68,New York_US
+2900,female,27263,291.11,Guilford County_US
+2901,female,62203,292.82,East Saint Louis_US
+2904,female,20853,291.57,Montgomery County_US
+2905,female,16033,286.87,Butler County_US
+2908,female,27263,291.11,Guilford County_US
+2915,female,25839,287.93,Raleigh County_US
+2919,female,6605,,not found
+2921,female,23234,290.56,Chesterfield County_US
+2923,female,6605,,not found
+2925,female,80011,290.92,Aurora_US
+2926,female,27263,291.11,Guilford County_US
+2927,female,48507,284.74,Flint Township_US
+2928,female,6605,,not found
+2929,female,25839,287.93,Raleigh County_US
+2930,female,78254,301.99,San Antonio_US
+2931,female,21619,293.3,Chester_US
+2933,female,21619,293.3,Chester_US
+2934,female,21120,289.93,Baltimore County_US
+2935,female,21619,293.3,Chester_US
+2936,female,75092,300.1,Sherman_US
+2937,female,19124,289.51,Philadelphia_US
+2938,female,21619,293.3,Chester_US
+2942,female,18064,287.88,Nazareth_US
+2943,female,21120,289.93,Baltimore County_US
+2944,female,33480,300.91,Palm Beach_US
+2945,female,21619,293.3,Chester_US
+2946,female,73112,295.49,Oklahoma City_US
+2947,female,21120,289.93,Baltimore County_US
+2949,female,24293,287.39,Wise_US
+2951,female,21120,289.93,Baltimore County_US
+2952,female,44256,286.34,Medina_US
+2953,female,75092,300.1,Sherman_US
+2954,female,21619,293.3,Chester_US
+2955,female,6605,,not found
+2960,female,28906,290.97,Cherokee County_US
+2962,female,28906,290.97,Cherokee County_US
+2963,female,66067,289.45,Ottawa_US
+2966,female,21120,289.93,Baltimore County_US
+2967,female,10027,290.46,New York_US
+2974,female,78539,300.61,Edinburg_US
+2976,female,33012,300.94,Hialeah_US
+2978,female,20165,291.69,Cascades_US
+2981,female,21120,289.93,Baltimore County_US
+2984,female,28906,290.97,Cherokee County_US
+2990,female,27534,296.32,Wayne County_US
+2991,female,33012,300.94,Hialeah_US
+2993,female,73099,295.13,Yukon_US
+2996,female,2131,,not found
+2997,female,28906,290.97,Cherokee County_US
+2998,female,21619,293.3,Chester_US
+2999,female,75092,300.1,Sherman_US
+3000,female,20165,291.69,Cascades_US
+3001,female,21619,293.3,Chester_US
+3003,female,21120,289.93,Baltimore County_US
+3009,female,28328,297.12,Clinton_US
+3012,female,28328,297.12,Clinton_US
+3020,female,28906,290.97,Cherokee County_US
+3026,female,27534,296.32,Wayne County_US
+3027,female,28328,297.12,Clinton_US
+3028,female,33063,301.23,Coral Springs_US
+3029,female,28328,297.12,Clinton_US
+3030,female,28906,290.97,Cherokee County_US
+3031,female,33012,300.94,Hialeah_US
+3032,female,73018,295.11,Chickasha_US
+3033,female,91702,301.74,Azusa_US
+3035,female,33417,300.79,Palm Beach County_US
+3037,female,28328,297.12,Clinton_US
+3040,female,33012,300.94,Hialeah_US
+3042,female,91702,301.74,Azusa_US
+3043,female,28906,290.97,Cherokee County_US
+3044,female,27534,296.32,Wayne County_US
+3045,female,27534,296.32,Wayne County_US
+3046,female,33012,300.94,Hialeah_US
+3049,female,2131,,not found
+3051,female,27516,292.69,Orange County_US
+3052,female,33480,300.91,Palm Beach_US
+3056,female,91702,301.74,Azusa_US
+3058,female,33417,300.79,Palm Beach County_US
+3059,female,33480,300.91,Palm Beach_US
+3063,female,89121,306.27,Paradise_US
+3066,female,33480,300.91,Palm Beach_US
+3069,female,21619,293.3,Chester_US
+3070,female,78210,302.71,San Antonio_US
+3072,female,33417,300.79,Palm Beach County_US
+3074,female,11232,290.32,New York_US
+3076,female,21619,293.3,Chester_US
+3077,female,25839,287.93,Raleigh County_US
+3082,female,78210,302.71,San Antonio_US
+3083,female,78210,302.71,San Antonio_US
+3084,female,27103,290.58,Winston-Salem_US
+3085,female,38118,295.39,Memphis_US
+3086,female,46996,287.37,Pulaski County_US
+3087,female,28906,290.97,Cherokee County_US
+3088,female,52001,290.15,Dubuque_US
+3090,female,32810,298.66,Orange County_US
+3091,female,78210,302.71,San Antonio_US
+3092,female,46996,287.37,Pulaski County_US
+3093,female,28906,290.97,Cherokee County_US
+3094,female,67401,290.36,Saline County_US
+3097,female,37130,293.11,Murfreesboro_US
+3102,female,46996,287.37,Pulaski County_US
+3103,female,67401,290.36,Saline County_US
+3106,female,37130,293.11,Murfreesboro_US
+3107,female,98272,293.36,Monroe_US
+3116,female,90005,300.5,Los Angeles_US
+3117,female,23185,291.94,Williamsburg_US
+3122,female,44256,286.34,Medina_US
+3124,female,2860,,not found
+3126,female,98272,293.36,Monroe_US
+3128,female,37130,293.11,Murfreesboro_US
+3129,female,44256,286.34,Medina_US
+3130,female,67401,290.36,Saline County_US
+3131,female,67401,290.36,Saline County_US
+3132,female,78210,302.71,San Antonio_US
+3135,female,67401,290.36,Saline County_US
+3138,female,33063,301.23,Coral Springs_US
+3141,female,20603,293.14,Charles County_US
+3142,female,24201,285.89,Bristol_US
+3143,female,98272,293.36,Monroe_US
+3144,female,67401,290.36,Saline County_US
+3151,female,46996,287.37,Pulaski County_US
+3152,female,97330,298.29,Corvallis_US
+3153,female,44256,286.34,Medina_US
+3156,female,67401,290.36,Saline County_US
+3157,female,44256,286.34,Medina_US
+3160,female,44256,286.34,Medina_US
+3162,female,21213,291.96,Baltimore_US
+3166,female,7419,,not found
+3169,female,47265,288.17,North Vernon_US
+3173,female,45601,287.34,Chillicothe_US
+3176,female,45601,287.34,Chillicothe_US
+3177,female,33458,300.36,Palm Beach County_US
+3182,female,7419,,not found
+3183,female,45601,287.34,Chillicothe_US
+3184,female,42327,290.69,McLean County_US
+3185,female,92083,297.09,Vista_US
+3188,female,63841,293.77,Dexter_US
+3192,female,92083,297.09,Vista_US
+3193,female,29506,297.45,Florence County_US
+3195,female,45601,287.34,Chillicothe_US
+3196,female,92083,297.09,Vista_US
+3198,female,53142,284.99,Pleasant Prairie_US
+3199,female,37660,287.39,Kingsport_US
+3201,female,92083,297.09,Vista_US
+3204,female,92083,297.09,Vista_US
+3205,female,92083,297.09,Vista_US
+3206,female,37660,287.39,Kingsport_US
+3208,female,92083,297.09,Vista_US
+3211,female,14850,286.96,Ithaca_US
+3213,female,14850,286.96,Ithaca_US
+3214,female,77433,301.83,Harris County_US
+3215,female,33773,300.66,Pinellas Park_US
+3216,female,92083,297.09,Vista_US
+3217,female,37660,287.39,Kingsport_US
+3222,female,48433,284.35,Flushing_US
+3226,female,33012,300.94,Hialeah_US
+3228,female,37660,287.39,Kingsport_US
+3229,female,32204,296.99,Jacksonville_US
+3234,female,10805,291.08,New Rochelle_US
+3238,female,60502,287.11,Aurora_US
+3242,female,78572,301.45,Mission_US
+3244,female,78572,301.45,Mission_US
+3252,female,2760,,not found
+3254,female,76021,302.09,Bedford_US
+3256,female,78701,302.71,Austin_US
+3259,female,77433,301.83,Harris County_US
+3260,female,37660,287.39,Kingsport_US
+3263,female,2760,,not found
+3265,female,2760,,not found
+3266,female,2171,,not found
+3270,female,77433,301.83,Harris County_US
+3271,female,78572,301.45,Mission_US
+3278,female,1610,,not found
+3279,female,1610,,not found
+3280,female,76112,301.34,Fort Worth_US
+3282,female,6108,,not found
+3283,female,1610,,not found
+3284,female,78249,302.08,San Antonio_US
+3285,female,76112,301.34,Fort Worth_US
+3286,female,1610,,not found
+3287,female,78249,302.08,San Antonio_US
+3290,female,37660,287.39,Kingsport_US
+3293,female,78249,302.08,San Antonio_US
+3295,female,77433,301.83,Harris County_US
+3296,female,2131,,not found
+3298,female,10011,290.4,New York_US
+3300,female,78249,302.08,San Antonio_US
+3302,female,79912,299.47,El Paso_US
+3303,female,33186,300.41,Miami-Dade County_US
+3306,female,14223,287.19,Tonawanda_US
+3307,female,33012,300.94,Hialeah_US
+3308,female,24736,287.12,Matoaka_US
+3309,female,72118,296.26,Pulaski County_US
+3312,female,24736,287.12,Matoaka_US
+3314,female,2131,,not found
+3319,female,33950,298.35,Charlotte Park_US
+3325,female,24736,287.12,Matoaka_US
+3326,female,33415,300.88,Palm Beach County_US
+3329,female,24736,287.12,Matoaka_US
+3336,female,19145,289.93,Philadelphia_US
+3338,female,24736,287.12,Matoaka_US
+3339,female,19145,289.93,Philadelphia_US
+3340,female,33415,300.88,Palm Beach County_US
+3342,female,77433,301.83,Harris County_US
+3343,female,77433,301.83,Harris County_US
+3344,female,72601,290.9,Harrison_US
+3346,female,24736,287.12,Matoaka_US
+3348,female,72601,290.9,Harrison_US
+3353,female,24736,287.12,Matoaka_US
+3354,female,33411,300.81,Palm Beach County_US
+3355,female,19145,289.93,Philadelphia_US
+3356,female,76544,302.66,Bell County_US
+3357,female,78249,302.08,San Antonio_US
+3364,female,33415,300.88,Palm Beach County_US
+3366,female,92105,297.91,San Diego_US
+3369,female,19446,288.7,Upper Gwynedd Township_US
+3370,female,33415,300.88,Palm Beach County_US
+3371,female,72601,290.9,Harrison_US
+3374,female,33415,300.88,Palm Beach County_US
+3375,female,27529,293.64,Wake County_US
+3379,female,33415,300.88,Palm Beach County_US
+3380,female,21401,292.24,Anne Arundel County_US
+3381,female,72601,290.9,Harrison_US
+3383,female,44224,286.58,Stow_US
+3389,female,50317,289.84,Polk County_US
+3390,female,72601,290.9,Harrison_US
+3395,female,24201,285.89,Bristol_US
+3397,female,27529,293.64,Wake County_US
+3398,female,93308,304.82,Kern County_US
+3403,female,92122,297.22,San Diego_US
+3404,female,70719,300.15,West Baton Rouge Parish_US
+3406,female,68512,291.88,Lincoln_US
+3407,female,68512,291.88,Lincoln_US
+3408,female,24201,285.89,Bristol_US
+3410,female,60502,287.11,Aurora_US
+3413,female,27529,293.64,Wake County_US
+3414,female,68512,291.88,Lincoln_US
+3415,female,27529,293.64,Wake County_US
+3418,female,24557,291.07,Pittsylvania County_US
+3420,female,27529,293.64,Wake County_US
+3421,female,27529,293.64,Wake County_US
+3422,female,68512,291.88,Lincoln_US
+3428,female,48223,285.76,Detroit_US
+3429,female,48223,285.76,Detroit_US
+3431,female,48223,285.76,Detroit_US
+3436,female,24557,291.07,Pittsylvania County_US
+3438,female,72227,295.76,Little Rock_US
+3439,female,48223,285.76,Detroit_US
+3440,female,48223,285.76,Detroit_US
+3444,female,7111,,not found
+3447,female,72227,295.76,Little Rock_US
+3450,female,24557,291.07,Pittsylvania County_US
+3451,female,48223,285.76,Detroit_US
+3453,female,48223,285.76,Detroit_US
+3456,female,40051,289.48,Nelson County_US
+3460,female,22191,292.93,Woodbridge_US
+3462,female,60194,285.98,Schaumburg_US
+3469,female,48858,283.61,Mount Pleasant_US
+3472,female,8021,,not found
+3481,female,27534,296.32,Wayne County_US
+3484,female,34667,299.71,Pasco County_US
+3485,female,11233,290.64,New York_US
+3487,female,85202,307.78,Mesa_US
+3489,female,13676,286.35,Potsdam_US
+3490,female,17331,288.73,Hanover_US
+3491,female,85202,307.78,Mesa_US
+3492,female,85202,307.78,Mesa_US
+3494,female,20002,292.57,Washington_US
+3495,female,24557,291.07,Pittsylvania County_US
+3496,female,13676,286.35,Potsdam_US
+3498,female,24019,291.18,Botetourt County_US
+3504,female,13676,286.35,Potsdam_US
+3507,female,29583,296.9,Florence County_US
+3509,female,55437,288.47,Bloomington_US
+3510,female,25839,287.93,Raleigh County_US
+3512,female,29583,296.9,Florence County_US
+3513,female,70816,299.78,Baton Rouge_US
+3516,female,78586,299.84,San Benito_US
+3518,female,2025,,not found
+3520,female,70816,299.78,Baton Rouge_US
+3521,female,3220,,not found
+3522,female,29479,295.28,Berkeley County_US
+3524,female,78586,299.84,San Benito_US
+3525,female,39073,299.46,Florence_US
+3526,female,78586,299.84,San Benito_US
+3527,female,53202,283.98,Milwaukee_US
+3528,female,48220,285.96,Ferndale_US
+3531,female,74145,296.32,Tulsa_US
+3533,female,44256,286.34,Medina_US
+3534,female,74145,296.32,Tulsa_US
+3535,female,74145,296.32,Tulsa_US
+3536,female,78586,299.84,San Benito_US
+3543,female,74145,296.32,Tulsa_US
+3545,female,74145,296.32,Tulsa_US
+3546,female,60435,287.92,Joliet_US
+3548,female,75454,301.36,Melissa_US
+3549,female,78586,299.84,San Benito_US
+3551,female,75454,301.36,Melissa_US
+3553,female,40504,291.4,Lexington_US
+3554,female,40504,291.4,Lexington_US
+3557,female,78586,299.84,San Benito_US
+3559,female,28405,297.36,New Hanover County_US
+3562,female,25839,287.93,Raleigh County_US
+3568,female,46226,289.64,Indianapolis_US
+3569,female,62203,292.82,East Saint Louis_US
+3574,female,47905,288.33,Lafayette_US
+3578,female,47905,288.33,Lafayette_US
+3579,female,77701,299.04,Beaumont_US
+3581,female,62203,292.82,East Saint Louis_US
+3583,female,14222,287.15,Buffalo_US
+3585,female,29611,292.81,Greenville County_US
+3586,female,77701,299.04,Beaumont_US
+3590,female,64127,290.96,Kansas City_US
+3591,female,29611,292.81,Greenville County_US
+3592,female,77701,299.04,Beaumont_US
+3599,female,46222,289.83,Indianapolis_US
+3600,female,46222,289.83,Indianapolis_US
+3602,female,29611,292.81,Greenville County_US
+3605,female,46222,289.83,Indianapolis_US
+3607,female,46222,289.83,Indianapolis_US
+3611,female,78228,302.65,San Antonio_US
+3614,female,78228,302.65,San Antonio_US
+3617,female,46222,289.83,Indianapolis_US
+3622,female,27869,291.17,Rich Square_US
+3625,female,73018,295.11,Chickasha_US
+3626,female,73018,295.11,Chickasha_US
+3627,female,48312,286.15,Sterling Heights_US
+3628,female,73018,295.11,Chickasha_US
+3630,female,48312,286.15,Sterling Heights_US
+3631,female,48312,286.15,Sterling Heights_US
+3632,female,73018,295.11,Chickasha_US
+3633,female,65757,290.52,Strafford_US
+3636,female,48312,286.15,Sterling Heights_US
+3637,female,8611,,not found
+3638,female,8611,,not found
+3640,female,48312,286.15,Sterling Heights_US
+3643,female,8611,,not found
+3647,female,65757,290.52,Strafford_US
+3652,female,65757,290.52,Strafford_US
+3654,female,65757,290.52,Strafford_US
+3655,female,48141,285.62,Inkster_US
+3656,female,76528,301.16,Coryell County_US
+3661,female,76528,301.16,Coryell County_US
+3667,female,73018,295.11,Chickasha_US
+3676,female,76103,301.23,Fort Worth_US
+3677,female,76103,301.23,Fort Worth_US
+3678,female,77037,302.43,Harris County_US
+3679,female,76103,301.23,Fort Worth_US
+3683,female,48141,285.62,Inkster_US
+3684,female,76103,301.23,Fort Worth_US
+3687,female,98232,291.35,Skagit County_US
+3689,female,48141,285.62,Inkster_US
+3690,female,76103,301.23,Fort Worth_US
+3692,female,55430,288.2,Brooklyn Center_US
+3696,female,77657,297.77,Lumberton_US
+3697,female,77657,297.77,Lumberton_US
+3701,female,20002,292.57,Washington_US
+3703,female,20002,292.57,Washington_US
+3710,female,54751,286.96,Menomonie_US
+3711,female,20002,292.57,Washington_US
+3713,female,62002,292.22,Madison County_US
+3714,female,20002,292.57,Washington_US
+3715,female,78723,302.44,Austin_US
+3716,female,78723,302.44,Austin_US
+3717,female,20002,292.57,Washington_US
+3719,female,20002,292.57,Washington_US
+3721,female,20002,292.57,Washington_US
+3722,female,27589,291.67,Warren County_US
+3724,female,27589,291.67,Warren County_US
+3726,female,27589,291.67,Warren County_US
+3728,female,27589,291.67,Warren County_US
+3729,female,27589,291.67,Warren County_US
+3730,female,27589,291.67,Warren County_US
+3731,female,27589,291.67,Warren County_US
+3733,female,27589,291.67,Warren County_US
+3736,female,27589,291.67,Warren County_US
+3737,female,27589,291.67,Warren County_US
+3738,female,27589,291.67,Warren County_US
+3744,female,62025,291.07,Edwardsville_US
+3745,female,38134,294.89,Memphis_US
+3746,female,28801,287.61,Asheville_US
+3750,female,35044,293.59,Talladega County_US
+3751,female,62025,291.07,Edwardsville_US
+3755,female,35044,293.59,Talladega County_US
+3760,female,38134,294.89,Memphis_US
+3766,female,38134,294.89,Memphis_US
+3771,female,38134,294.89,Memphis_US
+3778,female,60502,287.11,Aurora_US
+3779,female,35044,293.59,Talladega County_US
+3780,female,35044,293.59,Talladega County_US
+3782,female,35044,293.59,Talladega County_US
+3784,female,62025,291.07,Edwardsville_US
+3789,female,92020,298.67,El Cajon_US
+3790,female,60502,287.11,Aurora_US
+3794,female,78210,302.71,San Antonio_US
+3795,female,78210,302.71,San Antonio_US
+3796,female,10469,290.71,New York_US
+3799,female,78210,302.71,San Antonio_US
+3800,female,3104,,not found
+3801,female,3104,,not found
+3802,female,95209,302.34,Stockton_US
+3803,female,78210,302.71,San Antonio_US
+3804,female,62025,291.07,Edwardsville_US
+3805,female,40117,288.47,Meade County_US
+3807,female,95209,302.34,Stockton_US
+3808,female,3104,,not found
+3810,female,92010,296.82,Carlsbad_US
+3812,female,76109,301.14,Fort Worth_US
+3815,female,60502,287.11,Aurora_US
+3817,female,3104,,not found
+3819,female,60502,287.11,Aurora_US
+3822,female,65301,291.89,Sedalia_US
+3824,female,60502,287.11,Aurora_US
+3826,female,6855,,not found
+3828,female,65301,291.89,Sedalia_US
+3829,female,60502,287.11,Aurora_US
+3840,female,28422,298.22,Brunswick County_US
+3844,female,28422,298.22,Brunswick County_US
+3846,female,28422,298.22,Brunswick County_US
+3848,female,36832,294.8,Auburn_US
+3849,female,28422,298.22,Brunswick County_US
+3850,female,30252,293.8,Henry County_US
+3851,female,28422,298.22,Brunswick County_US
+3855,female,77831,298.72,Grimes County_US
+3860,female,30252,293.8,Henry County_US
+3863,female,91910,298.44,Chula Vista_US
+3867,female,28422,298.22,Brunswick County_US
+3870,female,65301,291.89,Sedalia_US
+3873,female,65301,291.89,Sedalia_US
+3874,female,30252,293.8,Henry County_US
+3875,female,91910,298.44,Chula Vista_US
+3876,female,28422,298.22,Brunswick County_US
+3877,female,30252,293.8,Henry County_US
+3882,female,30906,295.85,Augusta_US
+3884,female,11369,290.81,New York_US
+3885,female,30252,293.8,Henry County_US
+3887,female,30458,294.5,Statesboro_US
+3890,female,30906,295.85,Augusta_US
+3892,female,34614,298.2,Hernando County_US
+3894,female,91910,298.44,Chula Vista_US
+3896,female,36832,294.8,Auburn_US
+3897,female,30252,293.8,Henry County_US
+3904,female,13676,286.35,Potsdam_US
+3905,female,91910,298.44,Chula Vista_US
+3917,female,90291,299.61,Los Angeles_US
+3918,female,90291,299.61,Los Angeles_US
+3919,female,19140,289.42,Philadelphia_US
+3920,female,11369,290.81,New York_US
+3921,female,30906,295.85,Augusta_US
+3922,female,30906,295.85,Augusta_US
+3928,female,90291,299.61,Los Angeles_US
+3930,female,90291,299.61,Los Angeles_US
+3931,female,30906,295.85,Augusta_US
+3933,female,11364,291.15,New York_US
+3937,female,19140,289.42,Philadelphia_US
+3938,female,90291,299.61,Los Angeles_US
+3940,female,11369,290.81,New York_US
+3941,female,19140,289.42,Philadelphia_US
+3942,female,95220,301.33,San Joaquin County_US
+3944,female,89031,305.51,North Las Vegas_US
+3946,female,30906,295.85,Augusta_US
+3953,female,19140,289.42,Philadelphia_US
+3957,female,90291,299.61,Los Angeles_US
+3959,female,95220,301.33,San Joaquin County_US
+3963,female,95220,301.33,San Joaquin County_US
+3964,female,90064,300.36,Los Angeles_US
+3966,female,95220,301.33,San Joaquin County_US
+3967,female,95121,295.2,San Jose_US
+3968,female,89031,305.51,North Las Vegas_US
+3972,female,77581,301.63,Pearland_US
+3973,female,77581,301.63,Pearland_US
+3974,female,39071,299.47,Flora_US
+3976,female,39071,299.47,Flora_US
+3979,female,11219,290.42,New York_US
+3989,female,93308,304.82,Kern County_US
+3990,female,93308,304.82,Kern County_US
+3991,female,48219,285.73,Detroit_US
+3993,female,67401,290.36,Saline County_US
+3996,female,55372,288.36,Prior Lake_US
+4001,female,48212,286.23,Hamtramck_US
+4002,female,48219,285.73,Detroit_US
+4003,female,39501,298.57,Gulfport_US
+4005,female,48219,285.73,Detroit_US
+4006,female,7107,,not found
+4008,female,39209,300.19,Jackson_US
+4016,female,93308,304.82,Kern County_US
+4018,female,93308,304.82,Kern County_US
+4020,female,93308,304.82,Kern County_US
+4022,female,7107,,not found
+4023,female,7107,,not found
+4026,female,20165,291.69,Cascades_US
+4027,female,48219,285.73,Detroit_US
+4028,female,8053,,not found
+4029,female,8053,,not found
+4030,female,30329,293.88,DeKalb County_US
+4031,female,8053,,not found
+4032,female,48219,285.73,Detroit_US
+4035,female,39073,299.46,Florence_US
+4036,female,7107,,not found
+4041,female,76017,300.23,Arlington_US
+4042,female,30329,293.88,DeKalb County_US
+4043,female,48219,285.73,Detroit_US
+4044,female,76017,300.23,Arlington_US
+4048,female,48219,285.73,Detroit_US
+4049,female,85225,307.75,Chandler_US
+4050,female,76017,300.23,Arlington_US
+4051,female,7107,,not found
+4054,female,85225,307.75,Chandler_US
+4055,female,39073,299.46,Florence_US
+4059,female,85225,307.75,Chandler_US
+4061,female,10461,290.93,New York_US
+4069,female,98661,299.81,Vancouver_US
+4073,female,27869,291.17,Rich Square_US
+4074,female,30558,293.56,Maysville_US
+4076,female,98661,299.81,Vancouver_US
+4077,female,1604,,not found
+4081,female,7107,,not found
+4083,female,98661,299.81,Vancouver_US
+4084,female,27869,291.17,Rich Square_US
+4085,female,30558,293.56,Maysville_US
+4086,female,98272,293.36,Monroe_US
+4087,female,98661,299.81,Vancouver_US
+4089,female,7107,,not found
+4095,female,62702,290.77,Sangamon County_US
+4096,female,39073,299.46,Florence_US
+4100,female,97219,299.36,Portland_US
+4104,female,93923,289.26,Monterey County_US
+4106,female,97219,299.36,Portland_US
+4109,female,63401,289.96,Hannibal_US
+4113,female,28518,296.56,Duplin County_US
+4114,female,80816,282.67,Teller County_US
+4115,female,32176,299.25,Volusia County_US
+4117,female,76116,300.98,Fort Worth_US
+4118,female,89110,306.15,Las Vegas_US
+4119,female,32176,299.25,Volusia County_US
+4121,female,76116,300.98,Fort Worth_US
+4123,female,70560,300.22,New Iberia_US
+4124,female,70560,300.22,New Iberia_US
+4125,female,92691,298.54,Mission Viejo_US
+4126,female,80816,282.67,Teller County_US
+4127,female,70560,300.22,New Iberia_US
+4128,female,39073,299.46,Florence_US
+4129,female,70560,300.22,New Iberia_US
+4130,female,39073,299.46,Florence_US
+4133,female,44509,287.3,Youngstown_US
+4134,female,92691,298.54,Mission Viejo_US
+4137,female,25839,287.93,Raleigh County_US
+4142,female,92691,298.54,Mission Viejo_US
+4147,female,80816,282.67,Teller County_US
+4149,female,34759,298.97,Polk County_US
+4151,female,70560,300.22,New Iberia_US
+4153,female,11224,290.56,New York_US
+4154,female,34759,298.97,Polk County_US
+4157,female,25839,287.93,Raleigh County_US
+4159,female,32725,298.02,Deltona_US
+4160,female,11224,290.56,New York_US
+4164,female,39073,299.46,Florence_US
+4165,female,25839,287.93,Raleigh County_US
+4169,female,39073,299.46,Florence_US
+4173,female,95667,301.0,El Dorado County_US
+4174,female,80816,282.67,Teller County_US
+4178,female,25839,287.93,Raleigh County_US
+4179,female,34759,298.97,Polk County_US
+4180,female,32725,298.02,Deltona_US
+4183,female,37811,288.84,Hawkins County_US
+4184,female,80816,282.67,Teller County_US
+4186,female,92691,298.54,Mission Viejo_US
+4187,female,70560,300.22,New Iberia_US
+4188,female,34759,298.97,Polk County_US
+4195,female,11224,290.56,New York_US
+4196,female,75149,300.83,Mesquite_US
+4197,female,92691,298.54,Mission Viejo_US
+4198,female,34759,298.97,Polk County_US
+4199,female,37811,288.84,Hawkins County_US
+4200,female,80816,282.67,Teller County_US
+4201,female,37210,294.65,Nashville_US
+4203,female,95667,301.0,El Dorado County_US
+4204,female,11224,290.56,New York_US
+4206,female,37811,288.84,Hawkins County_US
+4210,female,37811,288.84,Hawkins County_US
+4211,female,95667,301.0,El Dorado County_US
+4213,female,11224,290.56,New York_US
+4215,female,24293,287.39,Wise_US
+4216,female,92691,298.54,Mission Viejo_US
+4218,female,11224,290.56,New York_US
+4219,female,34759,298.97,Polk County_US
+4220,female,4096,,not found
+4222,female,37811,288.84,Hawkins County_US
+4224,female,37811,288.84,Hawkins County_US
+4227,female,11224,290.56,New York_US
+4230,female,80816,282.67,Teller County_US
+4232,female,11224,290.56,New York_US
+4234,female,24293,287.39,Wise_US
+4235,female,37865,290.25,Sevier County_US
+4238,female,34667,299.71,Pasco County_US
+4239,female,24293,287.39,Wise_US
+4240,female,31904,297.03,Columbus_US
+4241,female,37811,288.84,Hawkins County_US
+4242,female,10011,290.4,New York_US
+4245,female,37811,288.84,Hawkins County_US
+4247,female,34667,299.71,Pasco County_US
+4250,female,4096,,not found
+4251,female,76017,300.23,Arlington_US
+4256,female,91767,301.49,Pomona_US
+4258,female,4096,,not found
+4260,female,49835,284.61,Garden Township_US
+4262,female,24293,287.39,Wise_US
+4264,female,77015,302.25,Houston_US
+4265,female,29349,292.47,Spartanburg County_US
+4266,female,76017,300.23,Arlington_US
+4267,female,34667,299.71,Pasco County_US
+4269,female,93308,304.82,Kern County_US
+4272,female,34667,299.71,Pasco County_US
+4275,female,93308,304.82,Kern County_US
+4276,female,13903,285.69,Binghamton_US
+4278,female,34667,299.71,Pasco County_US
+4281,female,93308,304.82,Kern County_US
+4282,female,77386,301.78,Montgomery County_US
+4283,female,93308,304.82,Kern County_US
+4284,female,43623,287.03,Toledo_US
+4285,female,77386,301.78,Montgomery County_US
+4286,female,75028,302.19,Flower Mound_US
+4288,female,77386,301.78,Montgomery County_US
+2,male,98409,294.3,Tacoma_US
+3,male,39740,295.71,Lowndes County_US
+4,male,33168,301.05,Miami-Dade County_US
+9,male,33168,301.05,Miami-Dade County_US
+11,male,11354,291.01,New York_US
+12,male,29461,295.7,Moncks Corner_US
+14,male,39531,298.27,Biloxi_US
+19,male,24095,291.55,Bedford County_US
+21,male,30238,293.32,Clayton County_US
+22,male,35006,294.82,Jefferson County_US
+24,male,98409,294.3,Tacoma_US
+25,male,28269,292.35,Charlotte_US
+27,male,28269,292.35,Charlotte_US
+28,male,24095,291.55,Bedford County_US
+30,male,24095,291.55,Bedford County_US
+36,male,29461,295.7,Moncks Corner_US
+40,male,29461,295.7,Moncks Corner_US
+43,male,92109,297.54,San Diego_US
+46,male,98409,294.3,Tacoma_US
+47,male,92109,297.54,San Diego_US
+51,male,92109,297.54,San Diego_US
+54,male,98409,294.3,Tacoma_US
+59,male,92336,302.64,Fontana_US
+63,male,98409,294.3,Tacoma_US
+64,male,30238,293.32,Clayton County_US
+67,male,92336,302.64,Fontana_US
+80,male,34753,299.36,Mascotte_US
+84,male,32218,296.78,Jacksonville_US
+85,male,95123,294.84,San Jose_US
+87,male,34753,299.36,Mascotte_US
+88,male,27408,291.12,Greensboro_US
+92,male,34753,299.36,Mascotte_US
+93,male,39740,295.71,Lowndes County_US
+94,male,95123,294.84,San Jose_US
+95,male,95123,294.84,San Jose_US
+101,male,92336,302.64,Fontana_US
+108,male,34753,299.36,Mascotte_US
+111,male,33584,299.88,Hillsborough County_US
+112,male,92336,302.64,Fontana_US
+113,male,34753,299.36,Mascotte_US
+114,male,92336,302.64,Fontana_US
+119,male,39740,295.71,Lowndes County_US
+122,male,30907,295.72,Columbia County_US
+124,male,34753,299.36,Mascotte_US
+126,male,32730,298.39,Seminole County_US
+129,male,2152,,not found
+132,male,17602,288.74,Lancaster_US
+137,male,17602,288.74,Lancaster_US
+138,male,44256,286.34,Medina_US
+142,male,33584,299.88,Hillsborough County_US
+145,male,17602,288.74,Lancaster_US
+146,male,30907,295.72,Columbia County_US
+150,male,10458,290.52,New York_US
+151,male,76119,300.87,Fort Worth_US
+153,male,78109,302.33,Converse_US
+154,male,33584,299.88,Hillsborough County_US
+157,male,75462,298.22,Reno_US
+161,male,30907,295.72,Columbia County_US
+163,male,73159,295.52,Oklahoma City_US
+164,male,17602,288.74,Lancaster_US
+166,male,30907,295.72,Columbia County_US
+168,male,2152,,not found
+171,male,30907,295.72,Columbia County_US
+172,male,2152,,not found
+174,male,33584,299.88,Hillsborough County_US
+175,male,78109,302.33,Converse_US
+177,male,75052,300.07,Grand Prairie_US
+179,male,95330,302.73,Lathrop_US
+180,male,86406,307.83,Mohave County_US
+181,male,95330,302.73,Lathrop_US
+183,male,22204,292.38,Arlington_US
+186,male,19082,289.55,Upper Darby_US
+189,male,6051,,not found
+190,male,37087,292.56,Lebanon_US
+194,male,73110,295.5,Midwest City_US
+195,male,6051,,not found
+196,male,73110,295.5,Midwest City_US
+205,male,71909,295.15,Hot Springs Village_US
+208,male,71909,295.15,Hot Springs Village_US
+211,male,53024,283.62,Grafton_US
+212,male,53024,283.62,Grafton_US
+216,male,22204,292.38,Arlington_US
+217,male,98043,292.22,Mountlake Terrace_US
+218,male,36551,298.0,Loxley_US
+227,male,37087,292.56,Lebanon_US
+229,male,37087,292.56,Lebanon_US
+233,male,17512,288.28,Columbia_US
+236,male,22204,292.38,Arlington_US
+237,male,17512,288.28,Columbia_US
+241,male,49307,285.65,Big Rapids_US
+242,male,22204,292.38,Arlington_US
+244,male,22204,292.38,Arlington_US
+245,male,49307,285.65,Big Rapids_US
+248,male,49307,285.65,Big Rapids_US
+252,male,90011,299.36,Los Angeles_US
+254,male,32431,296.53,Jackson County_US
+255,male,48167,284.92,Northville_US
+257,male,61101,286.51,Rockford_US
+259,male,49307,285.65,Big Rapids_US
+262,male,77388,301.96,Harris County_US
+263,male,48167,284.92,Northville_US
+265,male,77388,301.96,Harris County_US
+266,male,77388,301.96,Harris County_US
+268,male,77803,298.83,Bryan_US
+270,male,32431,296.53,Jackson County_US
+271,male,77803,298.83,Bryan_US
+272,male,77388,301.96,Harris County_US
+274,male,30215,292.97,Fayette County_US
+277,male,77803,298.83,Bryan_US
+280,male,30215,292.97,Fayette County_US
+281,male,77803,298.83,Bryan_US
+285,male,30215,292.97,Fayette County_US
+286,male,46368,287.14,Portage_US
+287,male,77803,298.83,Bryan_US
+296,male,30215,292.97,Fayette County_US
+300,male,60016,286.39,Des Plaines_US
+306,male,85034,308.02,Phoenix_US
+307,male,30215,292.97,Fayette County_US
+309,male,10469,290.71,New York_US
+315,male,90001,298.74,Los Angeles County_US
+316,male,30215,292.97,Fayette County_US
+336,male,46561,287.39,Osceola_US
+338,male,46561,287.39,Osceola_US
+342,male,79703,299.15,Midland_US
+348,male,46561,287.39,Osceola_US
+350,male,85034,308.02,Phoenix_US
+352,male,46561,287.39,Osceola_US
+363,male,62441,288.1,Marshall_US
+365,male,48167,284.92,Northville_US
+367,male,62441,288.1,Marshall_US
+373,male,85034,308.02,Phoenix_US
+375,male,16508,286.82,Erie_US
+377,male,48167,284.92,Northville_US
+378,male,38587,290.01,White County_US
+379,male,62441,288.1,Marshall_US
+381,male,48858,283.61,Mount Pleasant_US
+382,male,33313,301.4,Coral Springs_US
+385,male,25508,289.33,Chapmanville_US
+389,male,44106,287.48,Cleveland_US
+393,male,48167,284.92,Northville_US
+396,male,78648,302.66,Luling_US
+397,male,19134,289.64,Philadelphia_US
+402,male,79415,298.73,Lubbock_US
+404,male,13060,287.2,Town of Elbridge_US
+405,male,49508,286.09,Grand Rapids_US
+407,male,29571,296.44,Marion County_US
+408,male,29571,296.44,Marion County_US
+413,male,33313,301.4,Coral Springs_US
+415,male,48167,284.92,Northville_US
+417,male,13060,287.2,Town of Elbridge_US
+425,male,77059,301.58,Houston_US
+431,male,19134,289.64,Philadelphia_US
+432,male,24736,287.12,Matoaka_US
+433,male,19134,289.64,Philadelphia_US
+434,male,73127,295.34,Oklahoma City_US
+435,male,19134,289.64,Philadelphia_US
+436,male,77469,302.02,Fort Bend County_US
+438,male,91709,301.36,Chino Hills_US
+439,male,39082,298.74,Simpson County_US
+445,male,46738,286.68,Garrett_US
+448,male,63640,287.48,Farmington_US
+451,male,77389,301.7,Harris County_US
+453,male,49508,286.09,Grand Rapids_US
+457,male,19140,289.42,Philadelphia_US
+467,male,49508,286.09,Grand Rapids_US
+469,male,63640,287.48,Farmington_US
+471,male,32405,298.64,Panama City_US
+478,male,98002,294.55,Auburn_US
+479,male,96727,298.29,Hawaiʻi County_US
+480,male,24014,291.88,Roanoke_US
+488,male,31602,295.71,Lowndes County_US
+490,male,40047,289.69,Mount Washington_US
+493,male,49508,286.09,Grand Rapids_US
+494,male,24014,291.88,Roanoke_US
+498,male,92582,303.61,San Jacinto_US
+499,male,49508,286.09,Grand Rapids_US
+500,male,55331,288.13,Shorewood_US
+503,male,55721,282.67,Cohasset_US
+510,male,29229,295.92,Richland County_US
+511,male,55331,288.13,Shorewood_US
+513,male,16602,287.45,Altoona_US
+516,male,77502,301.94,Pasadena_US
+518,male,79605,300.4,Abilene_US
+520,male,77502,301.94,Pasadena_US
+528,male,95076,290.7,Watsonville_US
+534,male,29229,295.92,Richland County_US
+535,male,45203,289.02,Cincinnati_US
+538,male,55721,282.67,Cohasset_US
+540,male,61102,286.56,Winnebago_US
+543,male,92115,297.86,San Diego_US
+545,male,61102,286.56,Winnebago_US
+546,male,61102,286.56,Winnebago_US
+548,male,61102,286.56,Winnebago_US
+549,male,55721,282.67,Cohasset_US
+552,male,95111,295.05,San Jose_US
+553,male,49835,284.61,Garden Township_US
+556,male,95111,295.05,San Jose_US
+558,male,61102,286.56,Winnebago_US
+563,male,95111,295.05,San Jose_US
+565,male,6762,,not found
+566,male,27545,293.55,Wake County_US
+570,male,95111,295.05,San Jose_US
+571,male,29229,295.92,Richland County_US
+574,male,6762,,not found
+585,male,92887,300.77,Yorba Linda_US
+587,male,76017,300.23,Arlington_US
+589,male,48017,285.86,Clawson_US
+591,male,28441,297.29,Sampson County_US
+592,male,98002,294.55,Auburn_US
+594,male,57719,288.97,Box Elder_US
+595,male,98002,294.55,Auburn_US
+600,male,21613,294.41,Cambridge_US
+607,male,6762,,not found
+611,male,62995,289.43,Vienna_US
+613,male,21613,294.41,Cambridge_US
+615,male,55721,282.67,Cohasset_US
+617,male,60634,286.71,Chicago_US
+624,male,55721,282.67,Cohasset_US
+625,male,8069,,not found
+632,male,75211,300.8,Dallas_US
+634,male,8069,,not found
+638,male,8069,,not found
+641,male,96819,300.05,Honolulu_US
+642,male,75001,301.67,Carrollton_US
+646,male,32256,296.89,Jacksonville_US
+647,male,19720,290.13,New Castle County_US
+649,male,8069,,not found
+650,male,75001,301.67,Carrollton_US
+653,male,5086,,not found
+657,male,79415,298.73,Lubbock_US
+659,male,75001,301.67,Carrollton_US
+660,male,19720,290.13,New Castle County_US
+662,male,75001,301.67,Carrollton_US
+664,male,57719,288.97,Box Elder_US
+667,male,27545,293.55,Wake County_US
+668,male,75001,301.67,Carrollton_US
+670,male,75211,300.8,Dallas_US
+671,male,13060,287.2,Town of Elbridge_US
+673,male,8069,,not found
+675,male,11377,290.69,New York_US
+676,male,27545,293.55,Wake County_US
+677,male,75211,300.8,Dallas_US
+679,male,75211,300.8,Dallas_US
+682,male,8069,,not found
+685,male,8069,,not found
+686,male,19720,290.13,New Castle County_US
+690,male,31082,294.0,Washington County_US
+691,male,27545,293.55,Wake County_US
+692,male,21206,291.92,Baltimore_US
+701,male,27545,293.55,Wake County_US
+704,male,92021,298.43,El Cajon_US
+710,male,62565,290.54,Shelby County_US
+712,male,52806,288.79,Davenport_US
+713,male,75001,301.67,Carrollton_US
+715,male,54615,287.75,Jackson County_US
+716,male,44120,286.94,Cleveland_US
+719,male,62565,290.54,Shelby County_US
+721,male,67060,292.66,Haysville_US
+724,male,2891,,not found
+729,male,44120,286.94,Cleveland_US
+737,male,44120,286.94,Cleveland_US
+739,male,46260,289.43,Indianapolis_US
+740,male,44120,286.94,Cleveland_US
+743,male,44120,286.94,Cleveland_US
+746,male,75211,300.8,Dallas_US
+747,male,60634,286.71,Chicago_US
+748,male,21206,291.92,Baltimore_US
+749,male,60634,286.71,Chicago_US
+752,male,32256,296.89,Jacksonville_US
+755,male,92021,298.43,El Cajon_US
+761,male,34474,298.54,Marion County_US
+766,male,66607,290.75,Topeka_US
+767,male,72601,290.9,Harrison_US
+769,male,6489,,not found
+771,male,28092,291.94,Lincoln County_US
+772,male,75225,301.41,University Park_US
+773,male,75225,301.41,University Park_US
+776,male,34748,299.1,Lake County_US
+777,male,28092,291.94,Lincoln County_US
+790,male,66104,290.83,Kansas City_US
+801,male,77089,301.67,Houston_US
+802,male,77089,301.67,Houston_US
+805,male,32431,296.53,Jackson County_US
+808,male,62441,288.1,Marshall_US
+809,male,11003,291.5,Town of Hempstead_US
+812,male,89110,306.15,Las Vegas_US
+815,male,8010,,not found
+822,male,2148,,not found
+826,male,55720,283.15,Cloquet_US
+829,male,26003,288.5,Ohio County_US
+836,male,91360,297.46,Thousand Oaks_US
+838,male,92887,300.77,Yorba Linda_US
+843,male,26003,288.5,Ohio County_US
+848,male,26003,288.5,Ohio County_US
+850,male,36301,297.93,Houston County_US
+851,male,36301,297.93,Houston County_US
+852,male,26003,288.5,Ohio County_US
+855,male,26003,288.5,Ohio County_US
+862,male,26003,288.5,Ohio County_US
+868,male,26003,288.5,Ohio County_US
+871,male,41179,288.85,Lewis County_US
+874,male,50014,288.27,Story County_US
+881,male,29170,295.67,Springdale_US
+882,male,30311,293.62,Atlanta_US
+883,male,50014,288.27,Story County_US
+885,male,29073,295.31,Lexington County_US
+886,male,90017,300.2,Los Angeles_US
+887,male,11221,290.64,New York_US
+897,male,43224,288.21,Clinton Township_US
+899,male,14052,286.48,East Aurora_US
+900,male,43224,288.21,Clinton Township_US
+901,male,43224,288.21,Clinton Township_US
+907,male,33060,301.31,Pompano Beach_US
+908,male,11751,291.97,Suffolk County_US
+909,male,32431,296.53,Jackson County_US
+915,male,37664,287.14,Kingsport_US
+919,male,48507,284.74,Flint Township_US
+921,male,95388,303.59,Merced County_US
+922,male,27858,297.37,Greenville_US
+926,male,42754,291.58,Grayson County_US
+929,male,27263,291.11,Guilford County_US
+930,male,79938,295.33,Hudspeth County_US
+932,male,2148,,not found
+936,male,92505,302.82,Riverside_US
+940,male,1879,,not found
+944,male,92505,302.82,Riverside_US
+947,male,55311,287.9,Maple Grove_US
+951,male,83864,291.07,Ponderay_US
+954,male,1879,,not found
+960,male,1879,,not found
+961,male,92505,302.82,Riverside_US
+962,male,92505,302.82,Riverside_US
+964,male,1879,,not found
+965,male,92505,302.82,Riverside_US
+967,male,85140,306.81,Pinal County_US
+970,male,1879,,not found
+972,male,1879,,not found
+975,male,92505,302.82,Riverside_US
+976,male,50314,289.62,Des Moines_US
+977,male,2026,,not found
+979,male,75074,301.43,Plano_US
+980,male,46996,287.37,Pulaski County_US
+983,male,6489,,not found
+986,male,29464,297.19,Charleston County_US
+989,male,35904,293.49,Gadsden_US
+990,male,37660,287.39,Kingsport_US
+993,male,24557,291.07,Pittsylvania County_US
+994,male,11581,291.59,Town of Hempstead_US
+995,male,33024,301.39,Pembroke Pines_US
+996,male,33024,301.39,Pembroke Pines_US
+998,male,27516,292.69,Orange County_US
+1007,male,37643,287.12,Elizabethton_US
+1011,male,20903,292.05,Silver Spring_US
+1013,male,17404,287.73,Manchester Township_US
+1017,male,65714,290.69,Nixa_US
+1026,male,19601,288.38,Reading_US
+1027,male,78227,302.68,San Antonio_US
+1028,male,43953,286.53,Jefferson County_US
+1029,male,78227,302.68,San Antonio_US
+1031,male,43953,286.53,Jefferson County_US
+1032,male,6851,,not found
+1034,male,78227,302.68,San Antonio_US
+1036,male,4957,,not found
+1039,male,92109,297.54,San Diego_US
+1045,male,18109,288.31,Hanover Township_US
+1051,male,30907,295.72,Columbia County_US
+1053,male,1945,,not found
+1056,male,39730,296.26,Aberdeen_US
+1059,male,20853,291.57,Montgomery County_US
+1061,male,21213,291.96,Baltimore_US
+1065,male,14701,286.46,Jamestown_US
+1066,male,35020,294.9,Bessemer_US
+1074,male,21229,291.74,Baltimore_US
+1082,male,70374,300.66,Lafourche Parish_US
+1086,male,76028,300.33,Burleson_US
+1090,male,70374,300.66,Lafourche Parish_US
+1091,male,70374,300.66,Lafourche Parish_US
+1092,male,70374,300.66,Lafourche Parish_US
+1096,male,70374,300.66,Lafourche Parish_US
+1100,male,47240,287.08,Decatur County_US
+1102,male,7758,,not found
+1103,male,23513,293.88,Norfolk_US
+1104,male,98199,292.84,Seattle_US
+1106,male,24477,290.72,Augusta County_US
+1109,male,24477,290.72,Augusta County_US
+1111,male,24477,290.72,Augusta County_US
+1112,male,24477,290.72,Augusta County_US
+1114,male,33313,301.4,Coral Springs_US
+1116,male,33436,300.98,Palm Beach County_US
+1117,male,33334,301.39,Broward County_US
+1119,male,4938,,not found
+1124,male,29571,296.44,Marion County_US
+1126,male,2148,,not found
+1127,male,60623,287.24,Chicago_US
+1131,male,60623,287.24,Chicago_US
+1132,male,2148,,not found
+1134,male,29571,296.44,Marion County_US
+1135,male,34785,299.04,Wildwood_US
+1137,male,60623,287.24,Chicago_US
+1140,male,80401,289.39,Jefferson County_US
+1143,male,60623,287.24,Chicago_US
+1146,male,29571,296.44,Marion County_US
+1148,male,29571,296.44,Marion County_US
+1149,male,37049,292.2,Robertson County_US
+1150,male,98199,292.84,Seattle_US
+1151,male,60623,287.24,Chicago_US
+1153,male,29571,296.44,Marion County_US
+1156,male,60623,287.24,Chicago_US
+1160,male,33578,300.25,Hillsborough County_US
+1163,male,33578,300.25,Hillsborough County_US
+1165,male,98199,292.84,Seattle_US
+1168,male,70454,298.34,Ponchatoula_US
+1170,male,38079,293.39,Lake County_US
+1171,male,70454,298.34,Ponchatoula_US
+1174,male,15061,287.03,Center Township_US
+1175,male,15061,287.03,Center Township_US
+1177,male,15061,287.03,Center Township_US
+1180,male,85037,308.08,Phoenix_US
+1181,male,17028,287.75,Dauphin County_US
+1183,male,72834,294.79,Yell County_US
+1185,male,85037,308.08,Phoenix_US
+1190,male,17028,287.75,Dauphin County_US
+1194,male,37052,291.81,Montgomery County_US
+1197,male,8527,,not found
+1201,male,93308,304.82,Kern County_US
+1204,male,85205,307.5,Mesa_US
+1205,male,89101,306.62,Las Vegas_US
+1206,male,37766,288.23,Campbell County_US
+1211,male,37766,288.23,Campbell County_US
+1212,male,85205,307.5,Mesa_US
+1215,male,27534,296.32,Wayne County_US
+1216,male,27534,296.32,Wayne County_US
+1227,male,33137,301.05,Miami_US
+1232,male,97222,300.09,Milwaukie_US
+1233,male,97222,300.09,Milwaukie_US
+1234,male,38571,288.65,Cumberland County_US
+1235,male,33137,301.05,Miami_US
+1239,male,68005,291.65,Bellevue_US
+1240,male,97222,300.09,Milwaukie_US
+1245,male,33137,301.05,Miami_US
+1247,male,60585,287.62,Will County_US
+1248,male,34785,299.04,Wildwood_US
+1256,male,33137,301.05,Miami_US
+1260,male,96792,299.73,Waianae_US
+1261,male,94043,294.05,Mountain View_US
+1262,male,89031,305.51,North Las Vegas_US
+1265,male,77389,301.7,Harris County_US
+1267,male,77389,301.7,Harris County_US
+1272,male,77389,301.7,Harris County_US
+1274,male,77389,301.7,Harris County_US
+1275,male,33137,301.05,Miami_US
+1276,male,97754,299.57,Prineville_US
+1281,male,89031,305.51,North Las Vegas_US
+1282,male,97754,299.57,Prineville_US
+1285,male,97754,299.57,Prineville_US
+1290,male,97754,299.57,Prineville_US
+1292,male,89031,305.51,North Las Vegas_US
+1293,male,77029,302.36,Houston_US
+1300,male,45218,288.16,Greenhills_US
+1301,male,77029,302.36,Houston_US
+1303,male,97754,299.57,Prineville_US
+1305,male,77339,302.19,Houston_US
+1308,male,63366,292.54,Saint Charles County_US
+1309,male,47596,291.61,Knox County_US
+1310,male,47596,291.61,Knox County_US
+1312,male,22192,292.31,Prince William County_US
+1314,male,95765,304.51,Rocklin_US
+1316,male,83864,291.07,Ponderay_US
+1323,male,8060,,not found
+1324,male,32526,299.31,Escambia County_US
+1326,male,32526,299.31,Escambia County_US
+1337,male,71075,293.44,Springhill_US
+1342,male,71075,293.44,Springhill_US
+1343,male,31093,294.75,Warner Robins_US
+1353,male,31093,294.75,Warner Robins_US
+1355,male,31093,294.75,Warner Robins_US
+1358,male,75501,296.72,Bowie County_US
+1359,male,77029,302.36,Houston_US
+1361,male,36301,297.93,Houston County_US
+1364,male,36301,297.93,Houston County_US
+1366,male,75501,296.72,Bowie County_US
+1371,male,26280,288.16,Mill Creek_US
+1373,male,26280,288.16,Mill Creek_US
+1377,male,85037,308.08,Phoenix_US
+1381,male,26508,288.75,Monongalia County_US
+1387,male,98043,292.22,Mountlake Terrace_US
+1390,male,26508,288.75,Monongalia County_US
+1392,male,98043,292.22,Mountlake Terrace_US
+1393,male,85037,308.08,Phoenix_US
+1396,male,98043,292.22,Mountlake Terrace_US
+1397,male,20705,291.99,Beltsville_US
+1398,male,98043,292.22,Mountlake Terrace_US
+1400,male,98043,292.22,Mountlake Terrace_US
+1401,male,94533,296.05,Fairfield_US
+1409,male,98043,292.22,Mountlake Terrace_US
+1411,male,26508,288.75,Monongalia County_US
+1412,male,98043,292.22,Mountlake Terrace_US
+1413,male,60110,285.53,Carpentersville_US
+1414,male,77029,302.36,Houston_US
+1418,male,20705,291.99,Beltsville_US
+1425,male,29073,295.31,Lexington County_US
+1426,male,34448,297.94,Citrus County_US
+1428,male,26508,288.75,Monongalia County_US
+1429,male,60110,285.53,Carpentersville_US
+1432,male,77029,302.36,Houston_US
+1435,male,91915,298.56,Chula Vista_US
+1436,male,60110,285.53,Carpentersville_US
+1438,male,26508,288.75,Monongalia County_US
+1440,male,26508,288.75,Monongalia County_US
+1442,male,26508,288.75,Monongalia County_US
+1443,male,30120,293.18,Cartersville_US
+1445,male,57104,286.16,Sioux Falls_US
+1449,male,29306,292.94,Spartanburg County_US
+1451,male,57104,286.16,Sioux Falls_US
+1455,male,74948,294.49,Sequoyah County_US
+1457,male,27203,291.15,Randolph County_US
+1462,male,34711,299.42,Clermont_US
+1464,male,75702,299.0,Tyler_US
+1466,male,75702,299.0,Tyler_US
+1468,male,57104,286.16,Sioux Falls_US
+1475,male,84044,293.4,Magna_US
+1477,male,84044,293.4,Magna_US
+1482,male,29340,292.26,Gaffney_US
+1483,male,75702,299.0,Tyler_US
+1485,male,34711,299.42,Clermont_US
+1491,male,75702,299.0,Tyler_US
+1495,male,34711,299.42,Clermont_US
+1496,male,84044,293.4,Magna_US
+1499,male,90710,296.82,Los Angeles_US
+1503,male,34711,299.42,Clermont_US
+1506,male,37052,291.81,Montgomery County_US
+1510,male,90710,296.82,Los Angeles_US
+1523,male,60452,287.99,Oak Forest_US
+1524,male,60452,287.99,Oak Forest_US
+1525,male,60452,287.99,Oak Forest_US
+1528,male,84044,293.4,Magna_US
+1529,male,95111,295.05,San Jose_US
+1531,male,60452,287.99,Oak Forest_US
+1534,male,84044,293.4,Magna_US
+1536,male,76126,300.72,Tarrant County_US
+1540,male,92701,299.71,Santa Ana_US
+1543,male,17202,287.86,Guilford Township_US
+1545,male,67501,290.44,Hutchinson_US
+1547,male,67501,290.44,Hutchinson_US
+1550,male,33313,301.4,Coral Springs_US
+1551,male,85225,307.75,Chandler_US
+1553,male,67501,290.44,Hutchinson_US
+1554,male,61101,286.51,Rockford_US
+1556,male,61101,286.51,Rockford_US
+1558,male,8043,,not found
+1560,male,55311,287.9,Maple Grove_US
+1561,male,61101,286.51,Rockford_US
+1563,male,55311,287.9,Maple Grove_US
+1567,male,17202,287.86,Guilford Township_US
+1571,male,74011,296.56,Broken Arrow_US
+1574,male,70401,298.15,Tangipahoa Parish_US
+1575,male,61101,286.51,Rockford_US
+1585,male,61101,286.51,Rockford_US
+1587,male,90011,299.36,Los Angeles_US
+1588,male,67501,290.44,Hutchinson_US
+1590,male,55311,287.9,Maple Grove_US
+1591,male,60452,287.99,Oak Forest_US
+1592,male,90011,299.36,Los Angeles_US
+1593,male,32054,294.91,Union County_US
+1598,male,90011,299.36,Los Angeles_US
+1600,male,90011,299.36,Los Angeles_US
+1605,male,90011,299.36,Los Angeles_US
+1607,male,60452,287.99,Oak Forest_US
+1608,male,55311,287.9,Maple Grove_US
+1611,male,67501,290.44,Hutchinson_US
+1612,male,60452,287.99,Oak Forest_US
+1615,male,32054,294.91,Union County_US
+1617,male,74368,291.79,Delaware County_US
+1621,male,82435,290.92,Park County_US
+1623,male,48141,285.62,Inkster_US
+1624,male,56031,285.89,Fairmont_US
+1626,male,34711,299.42,Clermont_US
+1627,male,48141,285.62,Inkster_US
+1630,male,48141,285.62,Inkster_US
+1631,male,67501,290.44,Hutchinson_US
+1632,male,56031,285.89,Fairmont_US
+1635,male,67501,290.44,Hutchinson_US
+1637,male,56031,285.89,Fairmont_US
+1638,male,77494,302.0,Fort Bend County_US
+1640,male,75402,298.97,Greenville_US
+1641,male,67501,290.44,Hutchinson_US
+1663,male,98043,292.22,Mountlake Terrace_US
+1665,male,98036,292.37,Brier_US
+1669,male,98043,292.22,Mountlake Terrace_US
+1675,male,60502,287.11,Aurora_US
+1676,male,33060,301.31,Pompano Beach_US
+1677,male,38655,296.18,Lafayette County_US
+1678,male,33060,301.31,Pompano Beach_US
+1679,male,90011,299.36,Los Angeles_US
+1680,male,98043,292.22,Mountlake Terrace_US
+1683,male,37918,289.89,Knoxville_US
+1685,male,38063,292.85,Ripley_US
+1687,male,33060,301.31,Pompano Beach_US
+1689,male,98043,292.22,Mountlake Terrace_US
+1690,male,27263,291.11,Guilford County_US
+1692,male,17202,287.86,Guilford Township_US
+1693,male,27263,291.11,Guilford County_US
+1698,male,42501,290.24,Pulaski County_US
+1703,male,17202,287.86,Guilford Township_US
+1704,male,77037,302.43,Harris County_US
+1706,male,37918,289.89,Knoxville_US
+1712,male,30019,293.91,Gwinnett County_US
+1718,male,2148,,not found
+1719,male,80011,290.92,Aurora_US
+1720,male,63628,288.84,Bonne Terre_US
+1727,male,71430,298.35,Rapides Parish_US
+1728,male,78130,301.92,New Braunfels_US
+1729,male,99701,283.41,Fairbanks_US
+1730,male,80011,290.92,Aurora_US
+1731,male,2148,,not found
+1733,male,30019,293.91,Gwinnett County_US
+1735,male,61604,290.96,Peoria_US
+1736,male,78109,302.33,Converse_US
+1737,male,80011,290.92,Aurora_US
+1742,male,34746,299.0,Osceola County_US
+1746,male,78109,302.33,Converse_US
+1747,male,37918,289.89,Knoxville_US
+1748,male,64801,291.29,Joplin_US
+1754,male,2148,,not found
+1757,male,78130,301.92,New Braunfels_US
+1759,male,55311,287.9,Maple Grove_US
+1761,male,98043,292.22,Mountlake Terrace_US
+1763,male,98043,292.22,Mountlake Terrace_US
+1767,male,98043,292.22,Mountlake Terrace_US
+1770,male,80011,290.92,Aurora_US
+1771,male,55311,287.9,Maple Grove_US
+1772,male,64801,291.29,Joplin_US
+1773,male,78130,301.92,New Braunfels_US
+1777,male,80011,290.92,Aurora_US
+1780,male,13750,286.33,Town of Davenport_US
+1781,male,92532,301.23,Lake Elsinore_US
+1789,male,34741,298.98,Kissimmee_US
+1794,male,60643,287.73,Chicago_US
+1795,male,19140,289.42,Philadelphia_US
+1799,male,77386,301.78,Montgomery County_US
+1804,male,34741,298.98,Kissimmee_US
+1806,male,84604,293.09,Provo_US
+1807,male,19140,289.42,Philadelphia_US
+1813,male,75233,300.52,Dallas_US
+1820,male,30153,293.13,Rockmart_US
+1821,male,34741,298.98,Kissimmee_US
+1823,male,73801,291.57,Woodward_US
+1824,male,30153,293.13,Rockmart_US
+1825,male,73801,291.57,Woodward_US
+1826,male,73801,291.57,Woodward_US
+1827,male,34741,298.98,Kissimmee_US
+1831,male,19140,289.42,Philadelphia_US
+1834,male,78130,301.92,New Braunfels_US
+1835,male,40228,290.0,Louisville_US
+1841,male,47715,291.62,Evansville_US
+1843,male,76234,301.06,Decatur_US
+1847,male,80234,289.9,Westminster_US
+1853,male,83402,292.52,Idaho Falls_US
+1856,male,6489,,not found
+1857,male,40228,290.0,Louisville_US
+1858,male,83402,292.52,Idaho Falls_US
+1865,male,46406,287.32,Gary_US
+1871,male,46406,287.32,Gary_US
+1872,male,85037,308.08,Phoenix_US
+1877,male,40228,290.0,Louisville_US
+1879,male,40228,290.0,Louisville_US
+1881,male,97222,300.09,Milwaukie_US
+1883,male,85037,308.08,Phoenix_US
+1888,male,8060,,not found
+1893,male,46406,287.32,Gary_US
+1894,male,73801,291.57,Woodward_US
+1896,male,33446,300.97,Palm Beach County_US
+1898,male,33446,300.97,Palm Beach County_US
+1904,male,92691,298.54,Mission Viejo_US
+1905,male,15370,288.85,Greene County_US
+1906,male,31021,295.73,Laurens County_US
+1907,male,80751,290.33,Sterling_US
+1910,male,78028,299.94,Kerrville_US
+1912,male,99508,285.19,Anchorage_US
+1913,male,99508,285.19,Anchorage_US
+1923,male,28412,297.63,New Hanover County_US
+1924,male,99508,285.19,Anchorage_US
+1926,male,99508,285.19,Anchorage_US
+1933,male,28412,297.63,New Hanover County_US
+1935,male,48745,285.1,Mikado Township_US
+1938,male,95519,287.6,Humboldt County_US
+1941,male,48745,285.1,Mikado Township_US
+1945,male,28412,297.63,New Hanover County_US
+1947,male,30241,293.45,LaGrange_US
+1949,male,50317,289.84,Polk County_US
+1951,male,48745,285.1,Mikado Township_US
+1954,male,87732,285.51,Mora County_US
+1955,male,29468,295.55,Berkeley County_US
+1958,male,57067,289.92,Yankton County_US
+1959,male,48745,285.1,Mikado Township_US
+1961,male,87732,285.51,Mora County_US
+1962,male,48745,285.1,Mikado Township_US
+1966,male,48745,285.1,Mikado Township_US
+1968,male,87732,285.51,Mora County_US
+1969,male,57067,289.92,Yankton County_US
+1971,male,57067,289.92,Yankton County_US
+1972,male,57067,289.92,Yankton County_US
+1973,male,87732,285.51,Mora County_US
+1977,male,57067,289.92,Yankton County_US
+1978,male,93035,294.97,Oxnard_US
+1982,male,60188,286.53,Carol Stream_US
+1984,male,87732,285.51,Mora County_US
+1988,male,87732,285.51,Mora County_US
+1989,male,46217,290.22,Indianapolis_US
+1991,male,87732,285.51,Mora County_US
+1995,male,46217,290.22,Indianapolis_US
+2005,male,93312,305.03,Kern County_US
+2007,male,93312,305.03,Kern County_US
+2015,male,92115,297.86,San Diego_US
+2019,male,1841,,not found
+2020,male,1841,,not found
+2021,male,27288,291.34,Eden_US
+2025,male,30096,293.95,Duluth_US
+2030,male,8086,,not found
+2031,male,1841,,not found
+2035,male,18109,288.31,Hanover Township_US
+2040,male,18109,288.31,Hanover Township_US
+2041,male,90002,298.42,Los Angeles_US
+2042,male,8901,,not found
+2054,male,1841,,not found
+2057,male,32608,296.01,Alachua County_US
+2060,male,72764,291.98,Washington County_US
+2061,male,1841,,not found
+2065,male,1841,,not found
+2066,male,84044,293.4,Magna_US
+2068,male,93035,294.97,Oxnard_US
+2074,male,43228,287.93,Columbus_US
+2077,male,93035,294.97,Oxnard_US
+2083,male,19403,289.0,West Norriton Township_US
+2084,male,43525,287.28,Haskins_US
+2085,male,96003,302.22,Redding_US
+2092,male,33777,300.69,Pinellas Park_US
+2095,male,96003,302.22,Redding_US
+2096,male,92887,300.77,Yorba Linda_US
+2100,male,92887,300.77,Yorba Linda_US
+2106,male,19403,289.0,West Norriton Township_US
+2109,male,11003,291.5,Town of Hempstead_US
+2112,male,30132,292.71,Dallas_US
+2114,male,19403,289.0,West Norriton Township_US
+2116,male,96003,302.22,Redding_US
+2118,male,90660,299.81,Pico Rivera_US
+2124,male,92109,297.54,San Diego_US
+2125,male,96003,302.22,Redding_US
+2134,male,29583,296.9,Florence County_US
+2136,male,93001,294.99,Ventura County_US
+2141,male,93001,294.99,Ventura County_US
+2144,male,93001,294.99,Ventura County_US
+2146,male,93035,294.97,Oxnard_US
+2149,male,19403,289.0,West Norriton Township_US
+2153,male,60657,286.94,Chicago_US
+2159,male,77433,301.83,Harris County_US
+2163,male,75092,300.1,Sherman_US
+2169,male,99004,293.51,Cheney_US
+2171,male,46227,290.13,Indianapolis_US
+2172,male,11220,290.22,New York_US
+2174,male,10460,290.73,New York_US
+2176,male,33101,301.1,Miami_US
+2178,male,76522,301.81,Coryell County_US
+2181,male,37128,293.06,Murfreesboro_US
+2182,male,76522,301.81,Coryell County_US
+2188,male,33023,301.28,Miramar_US
+2190,male,18201,285.37,Hazleton_US
+2191,male,45338,288.43,Lewisburg_US
+2192,male,37128,293.06,Murfreesboro_US
+2198,male,75092,300.1,Sherman_US
+2199,male,61726,288.77,Chenoa_US
+2200,male,38703,298.88,Greenville_US
+2208,male,55311,287.9,Maple Grove_US
+2210,male,33616,300.48,Tampa_US
+2213,male,61726,288.77,Chenoa_US
+2214,male,46227,290.13,Indianapolis_US
+2218,male,61726,288.77,Chenoa_US
+2223,male,61726,288.77,Chenoa_US
+2224,male,76522,301.81,Coryell County_US
+2225,male,71851,295.06,Howard County_US
+2228,male,90604,299.52,El Monte_US
+2229,male,33616,300.48,Tampa_US
+2233,male,60443,288.04,Matteson_US
+2237,male,33616,300.48,Tampa_US
+2238,male,30477,297.26,Wadley_US
+2241,male,96003,302.22,Redding_US
+2242,male,96003,302.22,Redding_US
+2243,male,64840,290.89,Newton County_US
+2244,male,33616,300.48,Tampa_US
+2245,male,72764,291.98,Washington County_US
+2246,male,30477,297.26,Wadley_US
+2248,male,6234,,not found
+2249,male,64840,290.89,Newton County_US
+2250,male,64840,290.89,Newton County_US
+2256,male,48911,285.07,Lansing_US
+2257,male,11751,291.97,Suffolk County_US
+2258,male,30477,297.26,Wadley_US
+2261,male,11751,291.97,Suffolk County_US
+2265,male,30477,297.26,Wadley_US
+2269,male,30477,297.26,Wadley_US
+2270,male,47714,291.62,Evansville_US
+2271,male,64840,290.89,Newton County_US
+2272,male,6877,,not found
+2273,male,30132,292.71,Dallas_US
+2274,male,30477,297.26,Wadley_US
+2278,male,93001,294.99,Ventura County_US
+2290,male,33411,300.81,Palm Beach County_US
+2291,male,30132,292.71,Dallas_US
+2292,male,33411,300.81,Palm Beach County_US
+2298,male,33773,300.66,Pinellas Park_US
+2303,male,52033,289.49,Jones County_US
+2304,male,33411,300.81,Palm Beach County_US
+2305,male,33773,300.66,Pinellas Park_US
+2306,male,33773,300.66,Pinellas Park_US
+2307,male,48473,284.3,Gaines Township_US
+2308,male,53081,284.55,Sheboygan_US
+2309,male,77502,301.94,Pasadena_US
+2316,male,36271,293.3,Ohatchee_US
+2317,male,11751,291.97,Suffolk County_US
+2328,male,75402,298.97,Greenville_US
+2329,male,42749,288.41,Hart County_US
+2330,male,52033,289.49,Jones County_US
+2335,male,75402,298.97,Greenville_US
+2336,male,20853,291.57,Montgomery County_US
+2338,male,49437,285.32,Montague_US
+2340,male,52033,289.49,Jones County_US
+2341,male,75402,298.97,Greenville_US
+2342,male,42749,288.41,Hart County_US
+2346,male,75402,298.97,Greenville_US
+2355,male,75402,298.97,Greenville_US
+2356,male,14701,286.46,Jamestown_US
+2357,male,46032,289.33,Carmel_US
+2358,male,52033,289.49,Jones County_US
+2362,male,46032,289.33,Carmel_US
+2363,male,14701,286.46,Jamestown_US
+2364,male,14701,286.46,Jamestown_US
+2367,male,20853,291.57,Montgomery County_US
+2370,male,77471,301.95,Rosenberg_US
+2372,male,46032,289.33,Carmel_US
+2377,male,46032,289.33,Carmel_US
+2383,male,57067,289.92,Yankton County_US
+2384,male,98516,295.02,Thurston County_US
+2386,male,46405,287.07,Lake Station_US
+2387,male,57067,289.92,Yankton County_US
+2392,male,46406,287.32,Gary_US
+2397,male,46406,287.32,Gary_US
+2405,male,20833,291.4,Montgomery County_US
+2408,male,20833,291.4,Montgomery County_US
+2409,male,11751,291.97,Suffolk County_US
+2414,male,11950,291.88,Suffolk County_US
+2422,male,33974,299.43,Lee County_US
+2423,male,40601,289.7,Franklin County_US
+2425,male,95667,301.0,El Dorado County_US
+2426,male,40601,289.7,Franklin County_US
+2431,male,11950,291.88,Suffolk County_US
+2433,male,78133,301.48,Comal County_US
+2437,male,89032,305.43,North Las Vegas_US
+2441,male,40601,289.7,Franklin County_US
+2443,male,40601,289.7,Franklin County_US
+2445,male,40601,289.7,Franklin County_US
+2446,male,40601,289.7,Franklin County_US
+2448,male,40601,289.7,Franklin County_US
+2455,male,98682,299.83,Vancouver_US
+2456,male,24201,285.89,Bristol_US
+2458,male,32621,295.59,Bronson_US
+2459,male,29464,297.19,Charleston County_US
+2460,male,95961,303.92,Yuba County_US
+2461,male,94526,293.24,Danville_US
+2462,male,47905,288.33,Lafayette_US
+2464,male,29464,297.19,Charleston County_US
+2465,male,24201,285.89,Bristol_US
+2467,male,47905,288.33,Lafayette_US
+2472,male,7663,,not found
+2473,male,32621,295.59,Bronson_US
+2476,male,47905,288.33,Lafayette_US
+2478,male,47905,288.33,Lafayette_US
+2479,male,30071,293.92,Norcross_US
+2481,male,36312,297.69,Ashford_US
+2482,male,60618,286.92,Chicago_US
+2483,male,30071,293.92,Norcross_US
+2485,male,47905,288.33,Lafayette_US
+2486,male,36051,294.42,Autauga County_US
+2487,male,10805,291.08,New Rochelle_US
+2488,male,34474,298.54,Marion County_US
+2489,male,32621,295.59,Bronson_US
+2490,male,90230,299.4,Culver City_US
+2493,male,60618,286.92,Chicago_US
+2498,male,18509,286.78,Scranton_US
+2502,male,10805,291.08,New Rochelle_US
+2506,male,30071,293.92,Norcross_US
+2507,male,7663,,not found
+2509,male,78227,302.68,San Antonio_US
+2510,male,60618,286.92,Chicago_US
+2511,male,43302,287.66,Marion_US
+2515,male,30071,293.92,Norcross_US
+2517,male,16101,287.25,New Castle_US
+2518,male,83336,293.27,Heyburn_US
+2521,male,32621,295.59,Bronson_US
+2522,male,16101,287.25,New Castle_US
+2525,male,46221,290.08,Indianapolis_US
+2526,male,26032,287.01,Brooke County_US
+2527,male,46221,290.08,Indianapolis_US
+2533,male,98682,299.83,Vancouver_US
+2534,male,85140,306.81,Pinal County_US
+2535,male,43302,287.66,Marion_US
+2538,male,46221,290.08,Indianapolis_US
+2542,male,46221,290.08,Indianapolis_US
+2544,male,46221,290.08,Indianapolis_US
+2545,male,1845,,not found
+2546,male,81007,290.48,Pueblo County_US
+2550,male,78227,302.68,San Antonio_US
+2551,male,1845,,not found
+2552,male,46221,290.08,Indianapolis_US
+2553,male,46221,290.08,Indianapolis_US
+2556,male,2760,,not found
+2557,male,46221,290.08,Indianapolis_US
+2559,male,2760,,not found
+2560,male,60618,286.92,Chicago_US
+2561,male,2760,,not found
+2562,male,11751,291.97,Suffolk County_US
+2563,male,8096,,not found
+2569,male,77336,302.11,Houston_US
+2570,male,2760,,not found
+2576,male,46406,287.32,Gary_US
+2577,male,68801,290.46,Grand Island_US
+2578,male,2760,,not found
+2579,male,20004,292.71,Washington_US
+2580,male,20004,292.71,Washington_US
+2581,male,11751,291.97,Suffolk County_US
+2583,male,66104,290.83,Kansas City_US
+2586,male,30034,294.04,DeKalb County_US
+2587,male,98683,299.64,Vancouver_US
+2601,male,19966,293.01,Sussex County_US
+2602,male,19966,293.01,Sussex County_US
+2603,male,49507,286.15,Grand Rapids_US
+2604,male,68801,290.46,Grand Island_US
+2605,male,19966,293.01,Sussex County_US
+2606,male,46406,287.32,Gary_US
+2609,male,49507,286.15,Grand Rapids_US
+2610,male,19966,293.01,Sussex County_US
+2611,male,19966,293.01,Sussex County_US
+2612,male,19966,293.01,Sussex County_US
+2613,male,85140,306.81,Pinal County_US
+2616,male,19966,293.01,Sussex County_US
+2617,male,34667,299.71,Pasco County_US
+2618,male,49507,286.15,Grand Rapids_US
+2622,male,19966,293.01,Sussex County_US
+2623,male,19966,293.01,Sussex County_US
+2627,male,36083,295.05,Tuskegee_US
+2632,male,36083,295.05,Tuskegee_US
+2638,male,36083,295.05,Tuskegee_US
+2640,male,36083,295.05,Tuskegee_US
+2641,male,1845,,not found
+2642,male,94565,296.34,Pittsburg_US
+2644,male,79424,299.3,Lubbock_US
+2645,male,25839,287.93,Raleigh County_US
+2646,male,1845,,not found
+2647,male,31029,294.13,Monroe County_US
+2648,male,25839,287.93,Raleigh County_US
+2649,male,19602,288.46,Reading_US
+2651,male,25839,287.93,Raleigh County_US
+2652,male,1845,,not found
+2655,male,77581,301.63,Pearland_US
+2656,male,18064,287.88,Nazareth_US
+2657,male,27408,291.12,Greensboro_US
+2661,male,18064,287.88,Nazareth_US
+2664,male,37166,289.05,DeKalb County_US
+2665,male,30132,292.71,Dallas_US
+2666,male,34667,299.71,Pasco County_US
+2670,male,25839,287.93,Raleigh County_US
+2671,male,70816,299.78,Baton Rouge_US
+2673,male,20772,293.06,Prince George's County_US
+2674,male,46406,287.32,Gary_US
+2677,male,70816,299.78,Baton Rouge_US
+2678,male,49858,283.89,Menominee_US
+2679,male,1610,,not found
+2683,male,25839,287.93,Raleigh County_US
+2685,male,1610,,not found
+2689,male,70816,299.78,Baton Rouge_US
+2690,male,36083,295.05,Tuskegee_US
+2691,male,46217,290.22,Indianapolis_US
+2696,male,70816,299.78,Baton Rouge_US
+2697,male,89138,302.75,Las Vegas_US
+2698,male,1610,,not found
+2699,male,98661,299.81,Vancouver_US
+2705,male,48047,286.15,Chesterfield Township_US
+2708,male,76018,300.08,Arlington_US
+2709,male,70816,299.78,Baton Rouge_US
+2710,male,44129,286.84,Parma_US
+2714,male,46217,290.22,Indianapolis_US
+2716,male,32817,298.61,Alafaya_US
+2719,male,89138,302.75,Las Vegas_US
+2723,male,44129,286.84,Parma_US
+2724,male,32817,298.61,Alafaya_US
+2725,male,46217,290.22,Indianapolis_US
+2726,male,33009,301.32,Broward County_US
+2727,male,36083,295.05,Tuskegee_US
+2732,male,33141,301.14,North Bay Village_US
+2733,male,46217,290.22,Indianapolis_US
+2735,male,46217,290.22,Indianapolis_US
+2736,male,46217,290.22,Indianapolis_US
+2738,male,44129,286.84,Parma_US
+2739,male,46217,290.22,Indianapolis_US
+2741,male,44129,286.84,Parma_US
+2742,male,46217,290.22,Indianapolis_US
+2743,male,39643,296.88,Marion County_US
+2747,male,75234,302.08,Farmers Branch_US
+2749,male,75234,302.08,Farmers Branch_US
+2753,male,48047,286.15,Chesterfield Township_US
+2758,male,34474,298.54,Marion County_US
+2766,male,42754,291.58,Grayson County_US
+2777,male,48047,286.15,Chesterfield Township_US
+2781,male,48047,286.15,Chesterfield Township_US
+2783,male,60543,287.61,Oswego_US
+2786,male,13041,287.64,Town of Clay_US
+2787,male,13041,287.64,Town of Clay_US
+2789,male,48047,286.15,Chesterfield Township_US
+2790,male,21213,291.96,Baltimore_US
+2791,male,48047,286.15,Chesterfield Township_US
+2794,male,7017,,not found
+2795,male,13041,287.64,Town of Clay_US
+2805,male,13041,287.64,Town of Clay_US
+2806,male,7017,,not found
+2807,male,19530,288.0,Kutztown_US
+2808,male,19530,288.0,Kutztown_US
+2809,male,76528,301.16,Coryell County_US
+2810,male,42754,291.58,Grayson County_US
+2811,male,30024,294.29,Gwinnett County_US
+2815,male,10460,290.73,New York_US
+2816,male,48017,285.86,Clawson_US
+2818,male,46307,287.21,Crown Point_US
+2819,male,21213,291.96,Baltimore_US
+2821,male,4401,,not found
+2822,male,21213,291.96,Baltimore_US
+2823,male,75243,301.47,Dallas_US
+2826,male,64836,290.69,Carthage_US
+2827,male,60163,286.92,Berkeley_US
+2829,male,60163,286.92,Berkeley_US
+2830,male,43081,288.32,Westerville_US
+2832,male,43081,288.32,Westerville_US
+2839,male,24266,285.36,Russell County_US
+2843,male,31709,296.91,Americus_US
+2844,male,20783,292.18,Adelphi_US
+2845,male,34772,298.48,Osceola County_US
+2847,male,24266,285.36,Russell County_US
+2849,male,31709,296.91,Americus_US
+2850,male,40051,289.48,Nelson County_US
+2852,male,24266,285.36,Russell County_US
+2853,male,20783,292.18,Adelphi_US
+2854,male,54235,284.27,Sturgeon Bay_US
+2859,male,31709,296.91,Americus_US
+2864,male,18017,288.37,Hanover Township_US
+2866,male,40051,289.48,Nelson County_US
+2871,male,72764,291.98,Washington County_US
+2872,male,28216,292.25,Charlotte_US
+2873,male,76039,302.14,Euless_US
+2876,male,40051,289.48,Nelson County_US
+2877,male,38801,296.7,Tupelo_US
+2880,male,44301,286.65,Akron_US
+2881,male,63110,293.3,Saint Louis_US
+2883,male,40051,289.48,Nelson County_US
+2885,male,55449,287.69,Blaine_US
+2887,male,27263,291.11,Guilford County_US
+2888,male,95367,303.22,Riverbank_US
+2889,male,18017,288.37,Hanover Township_US
+2896,male,18017,288.37,Hanover Township_US
+2902,male,27263,291.11,Guilford County_US
+2903,male,27263,291.11,Guilford County_US
+2906,male,62203,292.82,East Saint Louis_US
+2907,male,89103,305.22,Spring Valley_US
+2909,male,37849,289.89,Knox County_US
+2910,male,7107,,not found
+2911,male,62203,292.82,East Saint Louis_US
+2912,male,18017,288.37,Hanover Township_US
+2913,male,11373,290.9,New York_US
+2914,male,27263,291.11,Guilford County_US
+2916,male,6605,,not found
+2917,male,30101,293.1,Cobb County_US
+2918,male,95367,303.22,Riverbank_US
+2939,male,73112,295.49,Oklahoma City_US
+2940,male,21120,289.93,Baltimore County_US
+2948,male,24557,291.07,Pittsylvania County_US
+2950,male,4938,,not found
+2956,male,21120,289.93,Baltimore County_US
+2959,male,21120,289.93,Baltimore County_US
+2964,male,49835,284.61,Garden Township_US
+2968,male,15650,286.99,Unity Township_US
+2971,male,21619,293.3,Chester_US
+2973,male,28906,290.97,Cherokee County_US
+2975,male,75092,300.1,Sherman_US
+2977,male,6605,,not found
+2979,male,18064,287.88,Nazareth_US
+2980,male,33063,301.23,Coral Springs_US
+2982,male,28328,297.12,Clinton_US
+2983,male,27534,296.32,Wayne County_US
+2985,male,21619,293.3,Chester_US
+2986,male,2131,,not found
+2987,male,21120,289.93,Baltimore County_US
+2992,male,20165,291.69,Cascades_US
+2995,male,27534,296.32,Wayne County_US
+3002,male,2131,,not found
+3004,male,33063,301.23,Coral Springs_US
+3005,male,28328,297.12,Clinton_US
+3006,male,33012,300.94,Hialeah_US
+3007,male,28328,297.12,Clinton_US
+3008,male,15650,286.99,Unity Township_US
+3010,male,21120,289.93,Baltimore County_US
+3014,male,2131,,not found
+3016,male,78934,300.88,Columbus_US
+3017,male,93725,305.36,Fresno County_US
+3018,male,15650,286.99,Unity Township_US
+3019,male,28328,297.12,Clinton_US
+3021,male,20165,291.69,Cascades_US
+3022,male,21120,289.93,Baltimore County_US
+3023,male,28328,297.12,Clinton_US
+3024,male,28328,297.12,Clinton_US
+3025,male,77450,302.08,Harris County_US
+3036,male,33063,301.23,Coral Springs_US
+3038,male,2131,,not found
+3039,male,33012,300.94,Hialeah_US
+3041,male,2131,,not found
+3047,male,33480,300.91,Palm Beach_US
+3048,male,28906,290.97,Cherokee County_US
+3050,male,27516,292.69,Orange County_US
+3053,male,27534,296.32,Wayne County_US
+3054,male,44313,286.72,Akron_US
+3055,male,33480,300.91,Palm Beach_US
+3061,male,91702,301.74,Azusa_US
+3062,male,28906,290.97,Cherokee County_US
+3064,male,70816,299.78,Baton Rouge_US
+3065,male,27534,296.32,Wayne County_US
+3068,male,78210,302.71,San Antonio_US
+3071,male,20165,291.69,Cascades_US
+3073,male,78210,302.71,San Antonio_US
+3075,male,28906,290.97,Cherokee County_US
+3078,male,36330,296.0,Enterprise_US
+3079,male,28906,290.97,Cherokee County_US
+3080,male,33881,299.55,Winter Haven_US
+3081,male,37130,293.11,Murfreesboro_US
+3089,male,78210,302.71,San Antonio_US
+3095,male,33610,299.99,Tampa_US
+3096,male,78210,302.71,San Antonio_US
+3098,male,37130,293.11,Murfreesboro_US
+3099,male,33063,301.23,Coral Springs_US
+3101,male,93010,296.32,Camarillo_US
+3104,male,78210,302.71,San Antonio_US
+3105,male,98272,293.36,Monroe_US
+3108,male,10805,291.08,New Rochelle_US
+3109,male,37130,293.11,Murfreesboro_US
+3110,male,67401,290.36,Saline County_US
+3111,male,98272,293.36,Monroe_US
+3112,male,44256,286.34,Medina_US
+3113,male,10805,291.08,New Rochelle_US
+3114,male,60187,286.68,Wheaton_US
+3115,male,98272,293.36,Monroe_US
+3118,male,2302,,not found
+3119,male,67401,290.36,Saline County_US
+3120,male,37130,293.11,Murfreesboro_US
+3121,male,98272,293.36,Monroe_US
+3133,male,37130,293.11,Murfreesboro_US
+3134,male,98272,293.36,Monroe_US
+3137,male,24201,285.89,Bristol_US
+3139,male,37130,293.11,Murfreesboro_US
+3154,male,67401,290.36,Saline County_US
+3158,male,10805,291.08,New Rochelle_US
+3159,male,20011,292.11,Washington_US
+3161,male,67401,290.36,Saline County_US
+3163,male,28037,292.37,Lincoln County_US
+3164,male,33417,300.79,Palm Beach County_US
+3165,male,10805,291.08,New Rochelle_US
+3167,male,67401,290.36,Saline County_US
+3168,male,45601,287.34,Chillicothe_US
+3170,male,27516,292.69,Orange County_US
+3171,male,45601,287.34,Chillicothe_US
+3172,male,60625,286.84,Chicago_US
+3174,male,10805,291.08,New Rochelle_US
+3179,male,10805,291.08,New Rochelle_US
+3180,male,77433,301.83,Harris County_US
+3186,male,19021,289.41,Bristol Township_US
+3187,male,45601,287.34,Chillicothe_US
+3190,male,11552,291.63,Town of Hempstead_US
+3191,male,92083,297.09,Vista_US
+3200,male,92083,297.09,Vista_US
+3202,male,37660,287.39,Kingsport_US
+3203,male,92083,297.09,Vista_US
+3207,male,92083,297.09,Vista_US
+3210,male,35803,294.56,Huntsville_US
+3212,male,92083,297.09,Vista_US
+3218,male,35803,294.56,Huntsville_US
+3219,male,32204,296.99,Jacksonville_US
+3220,male,37660,287.39,Kingsport_US
+3221,male,31709,296.91,Americus_US
+3223,male,92083,297.09,Vista_US
+3230,male,33012,300.94,Hialeah_US
+3231,male,37660,287.39,Kingsport_US
+3232,male,60502,287.11,Aurora_US
+3233,male,78572,301.45,Mission_US
+3236,male,33012,300.94,Hialeah_US
+3237,male,78572,301.45,Mission_US
+3239,male,78572,301.45,Mission_US
+3240,male,33012,300.94,Hialeah_US
+3241,male,60435,287.92,Joliet_US
+3243,male,37660,287.39,Kingsport_US
+3245,male,2760,,not found
+3246,male,60502,287.11,Aurora_US
+3247,male,33012,300.94,Hialeah_US
+3248,male,78572,301.45,Mission_US
+3249,male,2760,,not found
+3250,male,60435,287.92,Joliet_US
+3251,male,37660,287.39,Kingsport_US
+3253,male,37660,287.39,Kingsport_US
+3255,male,78572,301.45,Mission_US
+3257,male,2760,,not found
+3258,male,78572,301.45,Mission_US
+3261,male,60502,287.11,Aurora_US
+3262,male,1610,,not found
+3264,male,2131,,not found
+3267,male,91306,301.56,Los Angeles_US
+3269,male,78572,301.45,Mission_US
+3272,male,2760,,not found
+3273,male,2760,,not found
+3274,male,77433,301.83,Harris County_US
+3275,male,78572,301.45,Mission_US
+3281,male,78249,302.08,San Antonio_US
+3288,male,2131,,not found
+3289,male,1610,,not found
+3291,male,78249,302.08,San Antonio_US
+3292,male,76116,300.98,Fort Worth_US
+3294,male,2131,,not found
+3297,male,92887,300.77,Yorba Linda_US
+3305,male,37660,287.39,Kingsport_US
+3310,male,27517,293.31,Chapel Hill_US
+3311,male,33181,301.16,Miami-Dade County_US
+3315,male,77038,302.31,Harris County_US
+3316,male,45177,287.16,Wilmington_US
+3317,male,29020,297.37,Kershaw County_US
+3318,male,61054,287.71,Mount Morris_US
+3320,male,72601,290.9,Harrison_US
+3321,male,33012,300.94,Hialeah_US
+3322,male,24736,287.12,Matoaka_US
+3323,male,76544,302.66,Bell County_US
+3324,male,33415,300.88,Palm Beach County_US
+3327,male,77433,301.83,Harris County_US
+3328,male,17404,287.73,Manchester Township_US
+3330,male,33415,300.88,Palm Beach County_US
+3331,male,72601,290.9,Harrison_US
+3332,male,2131,,not found
+3333,male,17404,287.73,Manchester Township_US
+3341,male,19145,289.93,Philadelphia_US
+3345,male,33415,300.88,Palm Beach County_US
+3347,male,19145,289.93,Philadelphia_US
+3349,male,2131,,not found
+3350,male,33411,300.81,Palm Beach County_US
+3351,male,3741,,not found
+3352,male,19145,289.93,Philadelphia_US
+3358,male,19145,289.93,Philadelphia_US
+3359,male,39501,298.57,Gulfport_US
+3360,male,33411,300.81,Palm Beach County_US
+3361,male,3741,,not found
+3362,male,19145,289.93,Philadelphia_US
+3363,male,78249,302.08,San Antonio_US
+3365,male,19145,289.93,Philadelphia_US
+3367,male,3741,,not found
+3368,male,15224,287.25,Pittsburgh_US
+3372,male,31907,297.14,Columbus_US
+3373,male,19145,289.93,Philadelphia_US
+3382,male,72601,290.9,Harrison_US
+3384,male,20603,293.14,Charles County_US
+3385,male,72601,290.9,Harrison_US
+3386,male,75092,300.1,Sherman_US
+3387,male,27529,293.64,Wake County_US
+3388,male,27529,293.64,Wake County_US
+3391,male,24201,285.89,Bristol_US
+3392,male,27529,293.64,Wake County_US
+3393,male,72601,290.9,Harrison_US
+3399,male,72601,290.9,Harrison_US
+3401,male,48223,285.76,Detroit_US
+3402,male,27529,293.64,Wake County_US
+3405,male,27529,293.64,Wake County_US
+3409,male,27529,293.64,Wake County_US
+3411,male,15236,286.95,Baldwin_US
+3412,male,15236,286.95,Baldwin_US
+3416,male,29601,293.04,Greenville_US
+3417,male,68512,291.88,Lincoln_US
+3423,male,27529,293.64,Wake County_US
+3424,male,27529,293.64,Wake County_US
+3426,male,60502,287.11,Aurora_US
+3430,male,55433,287.79,Coon Rapids_US
+3432,male,27889,297.36,Pitt County_US
+3434,male,48223,285.76,Detroit_US
+3435,male,48223,285.76,Detroit_US
+3437,male,48223,285.76,Detroit_US
+3441,male,48223,285.76,Detroit_US
+3442,male,24557,291.07,Pittsylvania County_US
+3443,male,72227,295.76,Little Rock_US
+3446,male,48223,285.76,Detroit_US
+3448,male,48223,285.76,Detroit_US
+3452,male,39564,299.04,Jackson County_US
+3454,male,33311,301.41,Fort Lauderdale_US
+3455,male,40051,289.48,Nelson County_US
+3459,male,33610,299.99,Tampa_US
+3461,male,22191,292.93,Woodbridge_US
+3463,male,22191,292.93,Woodbridge_US
+3464,male,14580,287.63,Webster_US
+3465,male,14580,287.63,Webster_US
+3468,male,14580,287.63,Webster_US
+3470,male,39730,296.26,Aberdeen_US
+3471,male,48858,283.61,Mount Pleasant_US
+3473,male,78244,302.36,Bexar County_US
+3474,male,30114,293.28,Canton_US
+3475,male,27534,296.32,Wayne County_US
+3476,male,27534,296.32,Wayne County_US
+3478,male,27534,296.32,Wayne County_US
+3482,male,76114,301.42,River Oaks_US
+3483,male,14623,287.42,Henrietta_US
+3486,male,70816,299.78,Baton Rouge_US
+3488,male,70816,299.78,Baton Rouge_US
+3493,male,85202,307.78,Mesa_US
+3497,male,70816,299.78,Baton Rouge_US
+3499,male,72903,294.38,Fort Smith_US
+3500,male,28425,297.16,Burgaw_US
+3501,male,91977,297.55,San Diego County_US
+3502,male,13676,286.35,Potsdam_US
+3503,male,30815,295.93,Augusta_US
+3505,male,29583,296.9,Florence County_US
+3508,male,25839,287.93,Raleigh County_US
+3511,male,55437,288.47,Bloomington_US
+3515,male,43331,287.87,Stokes Township_US
+3517,male,55372,288.36,Prior Lake_US
+3519,male,75789,297.53,Cherokee County_US
+3530,male,93551,302.26,Los Angeles County_US
+3532,male,44256,286.34,Medina_US
+3537,male,44256,286.34,Medina_US
+3538,male,74145,296.32,Tulsa_US
+3540,male,74145,296.32,Tulsa_US
+3542,male,74145,296.32,Tulsa_US
+3547,male,78586,299.84,San Benito_US
+3552,male,78586,299.84,San Benito_US
+3555,male,78586,299.84,San Benito_US
+3556,male,44256,286.34,Medina_US
+3558,male,28134,292.14,Pineville_US
+3560,male,92227,307.6,Brawley_US
+3561,male,25839,287.93,Raleigh County_US
+3563,male,60435,287.92,Joliet_US
+3564,male,92227,307.6,Brawley_US
+3565,male,62203,292.82,East Saint Louis_US
+3566,male,53703,285.79,Madison_US
+3567,male,15009,287.0,Brighton Township_US
+3571,male,62203,292.82,East Saint Louis_US
+3572,male,62203,292.82,East Saint Louis_US
+3575,male,77701,299.04,Beaumont_US
+3577,male,62203,292.82,East Saint Louis_US
+3580,male,29611,292.81,Greenville County_US
+3582,male,29611,292.81,Greenville County_US
+3584,male,14222,287.15,Buffalo_US
+3587,male,29611,292.81,Greenville County_US
+3588,male,64127,290.96,Kansas City_US
+3589,male,64127,290.96,Kansas City_US
+3593,male,29611,292.81,Greenville County_US
+3594,male,46226,289.64,Indianapolis_US
+3595,male,29611,292.81,Greenville County_US
+3597,male,29611,292.81,Greenville County_US
+3601,male,46222,289.83,Indianapolis_US
+3603,male,46222,289.83,Indianapolis_US
+3604,male,22191,292.93,Woodbridge_US
+3606,male,78228,302.65,San Antonio_US
+3608,male,46222,289.83,Indianapolis_US
+3609,male,22191,292.93,Woodbridge_US
+3610,male,46222,289.83,Indianapolis_US
+3613,male,46222,289.83,Indianapolis_US
+3619,male,46222,289.83,Indianapolis_US
+3620,male,46222,289.83,Indianapolis_US
+3621,male,27869,291.17,Rich Square_US
+3623,male,27869,291.17,Rich Square_US
+3629,male,29583,296.9,Florence County_US
+3634,male,32703,298.89,Orange County_US
+3635,male,73018,295.11,Chickasha_US
+3639,male,48312,286.15,Sterling Heights_US
+3642,male,65757,290.52,Strafford_US
+3644,male,65757,290.52,Strafford_US
+3645,male,48312,286.15,Sterling Heights_US
+3648,male,65757,290.52,Strafford_US
+3649,male,65757,290.52,Strafford_US
+3651,male,65757,290.52,Strafford_US
+3653,male,76528,301.16,Coryell County_US
+3657,male,65757,290.52,Strafford_US
+3658,male,65757,290.52,Strafford_US
+3659,male,76528,301.16,Coryell County_US
+3660,male,65757,290.52,Strafford_US
+3662,male,62644,289.77,Havana_US
+3663,male,65757,290.52,Strafford_US
+3664,male,62644,289.77,Havana_US
+3665,male,65757,290.52,Strafford_US
+3666,male,65757,290.52,Strafford_US
+3669,male,77037,302.43,Harris County_US
+3670,male,76103,301.23,Fort Worth_US
+3671,male,76103,301.23,Fort Worth_US
+3672,male,76103,301.23,Fort Worth_US
+3674,male,76103,301.23,Fort Worth_US
+3680,male,76103,301.23,Fort Worth_US
+3681,male,76103,301.23,Fort Worth_US
+3682,male,76103,301.23,Fort Worth_US
+3685,male,77037,302.43,Harris County_US
+3691,male,39440,298.09,Laurel_US
+3693,male,28216,292.25,Charlotte_US
+3694,male,77657,297.77,Lumberton_US
+3695,male,89032,305.43,North Las Vegas_US
+3698,male,78210,302.71,San Antonio_US
+3699,male,20002,292.57,Washington_US
+3700,male,20002,292.57,Washington_US
+3702,male,29642,292.52,Pickens County_US
+3704,male,20002,292.57,Washington_US
+3705,male,78723,302.44,Austin_US
+3706,male,34747,299.09,Osceola County_US
+3707,male,20002,292.57,Washington_US
+3718,male,78723,302.44,Austin_US
+3720,male,78723,302.44,Austin_US
+3723,male,78723,302.44,Austin_US
+3725,male,20002,292.57,Washington_US
+3727,male,27589,291.67,Warren County_US
+3732,male,27589,291.67,Warren County_US
+3734,male,27589,291.67,Warren County_US
+3735,male,27589,291.67,Warren County_US
+3740,male,38134,294.89,Memphis_US
+3743,male,38134,294.89,Memphis_US
+3747,male,38134,294.89,Memphis_US
+3748,male,28801,287.61,Asheville_US
+3749,male,38134,294.89,Memphis_US
+3753,male,38134,294.89,Memphis_US
+3754,male,28801,287.61,Asheville_US
+3757,male,38134,294.89,Memphis_US
+3758,male,35044,293.59,Talladega County_US
+3762,male,38134,294.89,Memphis_US
+3765,male,38134,294.89,Memphis_US
+3767,male,35044,293.59,Talladega County_US
+3769,male,35044,293.59,Talladega County_US
+3770,male,35044,293.59,Talladega County_US
+3772,male,62025,291.07,Edwardsville_US
+3773,male,38134,294.89,Memphis_US
+3774,male,35044,293.59,Talladega County_US
+3775,male,35044,293.59,Talladega County_US
+3776,male,55441,288.24,Plymouth_US
+3777,male,55441,288.24,Plymouth_US
+3781,male,55441,288.24,Plymouth_US
+3783,male,60502,287.11,Aurora_US
+3785,male,35044,293.59,Talladega County_US
+3786,male,80816,282.67,Teller County_US
+3787,male,99006,294.62,Deer Park_US
+3792,male,10469,290.71,New York_US
+3793,male,10469,290.71,New York_US
+3798,male,10469,290.71,New York_US
+3806,male,3104,,not found
+3809,male,3104,,not found
+3811,male,92010,296.82,Carlsbad_US
+3813,male,3104,,not found
+3816,male,65301,291.89,Sedalia_US
+3818,male,92010,296.82,Carlsbad_US
+3821,male,65301,291.89,Sedalia_US
+3825,male,65301,291.89,Sedalia_US
+3827,male,33156,300.5,Miami-Dade County_US
+3830,male,28422,298.22,Brunswick County_US
+3831,male,28422,298.22,Brunswick County_US
+3832,male,30252,293.8,Henry County_US
+3833,male,28422,298.22,Brunswick County_US
+3834,male,60502,287.11,Aurora_US
+3835,male,28422,298.22,Brunswick County_US
+3838,male,30252,293.8,Henry County_US
+3839,male,28422,298.22,Brunswick County_US
+3841,male,60502,287.11,Aurora_US
+3843,male,30252,293.8,Henry County_US
+3845,male,30252,293.8,Henry County_US
+3847,male,35803,294.56,Huntsville_US
+3853,male,98520,291.74,Aberdeen_US
+3854,male,77831,298.72,Grimes County_US
+3856,male,28422,298.22,Brunswick County_US
+3857,male,91910,298.44,Chula Vista_US
+3858,male,65301,291.89,Sedalia_US
+3859,male,28422,298.22,Brunswick County_US
+3861,male,65301,291.89,Sedalia_US
+3862,male,30252,293.8,Henry County_US
+3864,male,28422,298.22,Brunswick County_US
+3866,male,65301,291.89,Sedalia_US
+3868,male,28422,298.22,Brunswick County_US
+3871,male,91910,298.44,Chula Vista_US
+3872,male,30252,293.8,Henry County_US
+3878,male,91910,298.44,Chula Vista_US
+3879,male,77831,298.72,Grimes County_US
+3880,male,90291,299.61,Los Angeles_US
+3881,male,30252,293.8,Henry County_US
+3883,male,77831,298.72,Grimes County_US
+3886,male,91910,298.44,Chula Vista_US
+3888,male,30252,293.8,Henry County_US
+3889,male,65301,291.89,Sedalia_US
+3891,male,91910,298.44,Chula Vista_US
+3893,male,65301,291.89,Sedalia_US
+3895,male,13676,286.35,Potsdam_US
+3898,male,73122,295.27,Warr Acres_US
+3899,male,34614,298.2,Hernando County_US
+3900,male,34614,298.2,Hernando County_US
+3901,male,13676,286.35,Potsdam_US
+3902,male,30906,295.85,Augusta_US
+3906,male,11369,290.81,New York_US
+3907,male,13676,286.35,Potsdam_US
+3908,male,30906,295.85,Augusta_US
+3909,male,62203,292.82,East Saint Louis_US
+3910,male,91910,298.44,Chula Vista_US
+3912,male,73122,295.27,Warr Acres_US
+3913,male,11369,290.81,New York_US
+3915,male,30906,295.85,Augusta_US
+3916,male,11369,290.81,New York_US
+3923,male,90291,299.61,Los Angeles_US
+3924,male,30906,295.85,Augusta_US
+3926,male,73122,295.27,Warr Acres_US
+3929,male,11369,290.81,New York_US
+3932,male,30906,295.85,Augusta_US
+3934,male,95220,301.33,San Joaquin County_US
+3935,male,90291,299.61,Los Angeles_US
+3936,male,11369,290.81,New York_US
+3943,male,90291,299.61,Los Angeles_US
+3945,male,30906,295.85,Augusta_US
+3947,male,19140,289.42,Philadelphia_US
+3948,male,90291,299.61,Los Angeles_US
+3949,male,90291,299.61,Los Angeles_US
+3950,male,30906,295.85,Augusta_US
+3951,male,30906,295.85,Augusta_US
+3952,male,95220,301.33,San Joaquin County_US
+3954,male,56031,285.89,Fairmont_US
+3955,male,96707,299.65,Kapolei_US
+3958,male,19140,289.42,Philadelphia_US
+3961,male,10004,290.4,New York_US
+3965,male,38008,293.5,Bolivar_US
+3969,male,67052,291.88,Goddard_US
+3970,male,56031,285.89,Fairmont_US
+3971,male,77581,301.63,Pearland_US
+3975,male,67052,291.88,Goddard_US
+3977,male,95220,301.33,San Joaquin County_US
+3978,male,39071,299.47,Flora_US
+3980,male,39071,299.47,Flora_US
+3981,male,79045,294.64,Hereford_US
+3982,male,79045,294.64,Hereford_US
+3983,male,93308,304.82,Kern County_US
+3984,male,29642,292.52,Pickens County_US
+3985,male,93308,304.82,Kern County_US
+3986,male,77099,302.27,Houston_US
+3987,male,20782,292.4,Hyattsville_US
+3988,male,70592,300.26,Youngsville_US
+3994,male,48219,285.73,Detroit_US
+3995,male,29642,292.52,Pickens County_US
+3997,male,48219,285.73,Detroit_US
+4000,male,48219,285.73,Detroit_US
+4004,male,72227,295.76,Little Rock_US
+4007,male,39501,298.57,Gulfport_US
+4009,male,98661,299.81,Vancouver_US
+4010,male,7465,,not found
+4011,male,7107,,not found
+4012,male,39501,298.57,Gulfport_US
+4013,male,39501,298.57,Gulfport_US
+4014,male,39501,298.57,Gulfport_US
+4015,male,7107,,not found
+4017,male,72227,295.76,Little Rock_US
+4019,male,47374,288.48,Richmond_US
+4021,male,72227,295.76,Little Rock_US
+4024,male,20165,291.69,Cascades_US
+4025,male,48219,285.73,Detroit_US
+4037,male,48219,285.73,Detroit_US
+4038,male,39073,299.46,Florence_US
+4040,male,76017,300.23,Arlington_US
+4045,male,48219,285.73,Detroit_US
+4046,male,39073,299.46,Florence_US
+4047,male,93923,289.26,Monterey County_US
+4052,male,85225,307.75,Chandler_US
+4053,male,85225,307.75,Chandler_US
+4056,male,76017,300.23,Arlington_US
+4057,male,85225,307.75,Chandler_US
+4058,male,85225,307.75,Chandler_US
+4060,male,85225,307.75,Chandler_US
+4062,male,85225,307.75,Chandler_US
+4063,male,85225,307.75,Chandler_US
+4064,male,7107,,not found
+4065,male,85225,307.75,Chandler_US
+4066,male,45209,288.87,Cincinnati_US
+4067,male,27869,291.17,Rich Square_US
+4068,male,98661,299.81,Vancouver_US
+4070,male,30558,293.56,Maysville_US
+4071,male,7107,,not found
+4072,male,93923,289.26,Monterey County_US
+4075,male,98661,299.81,Vancouver_US
+4082,male,7107,,not found
+4088,male,39073,299.46,Florence_US
+4091,male,28518,296.56,Duplin County_US
+4097,male,34759,298.97,Polk County_US
+4098,male,28518,296.56,Duplin County_US
+4099,male,63401,289.96,Hannibal_US
+4101,male,7107,,not found
+4102,male,28518,296.56,Duplin County_US
+4103,male,62702,290.77,Sangamon County_US
+4105,male,39073,299.46,Florence_US
+4107,male,28518,296.56,Duplin County_US
+4108,male,39073,299.46,Florence_US
+4111,male,39073,299.46,Florence_US
+4112,male,28518,296.56,Duplin County_US
+4116,male,32176,299.25,Volusia County_US
+4131,male,80816,282.67,Teller County_US
+4132,male,92691,298.54,Mission Viejo_US
+4135,male,70560,300.22,New Iberia_US
+4138,male,11224,290.56,New York_US
+4140,male,70560,300.22,New Iberia_US
+4141,male,11224,290.56,New York_US
+4143,male,39073,299.46,Florence_US
+4144,male,70560,300.22,New Iberia_US
+4146,male,34759,298.97,Polk County_US
+4148,male,32725,298.02,Deltona_US
+4150,male,25839,287.93,Raleigh County_US
+4152,male,39073,299.46,Florence_US
+4155,male,44509,287.3,Youngstown_US
+4156,male,92691,298.54,Mission Viejo_US
+4158,male,70560,300.22,New Iberia_US
+4171,male,92691,298.54,Mission Viejo_US
+4172,male,37811,288.84,Hawkins County_US
+4175,male,70560,300.22,New Iberia_US
+4176,male,34759,298.97,Polk County_US
+4177,male,34759,298.97,Polk County_US
+4181,male,75149,300.83,Mesquite_US
+4189,male,34759,298.97,Polk County_US
+4190,male,92691,298.54,Mission Viejo_US
+4192,male,37811,288.84,Hawkins County_US
+4193,male,34759,298.97,Polk County_US
+4194,male,37811,288.84,Hawkins County_US
+4207,male,34759,298.97,Polk County_US
+4209,male,34759,298.97,Polk County_US
+4212,male,75149,300.83,Mesquite_US
+4214,male,24293,287.39,Wise_US
+4221,male,95667,301.0,El Dorado County_US
+4223,male,80816,282.67,Teller County_US
+4225,male,92691,298.54,Mission Viejo_US
+4228,male,92691,298.54,Mission Viejo_US
+4231,male,37811,288.84,Hawkins County_US
+4233,male,10011,290.4,New York_US
+4236,male,10011,290.4,New York_US
+4244,male,34667,299.71,Pasco County_US
+4246,male,80816,282.67,Teller County_US
+4248,male,37811,288.84,Hawkins County_US
+4249,male,24293,287.39,Wise_US
+4252,male,77015,302.25,Houston_US
+4253,male,49835,284.61,Garden Township_US
+4254,male,24293,287.39,Wise_US
+4255,male,49835,284.61,Garden Township_US
+4257,male,24293,287.39,Wise_US
+4259,male,24293,287.39,Wise_US
+4261,male,49835,284.61,Garden Township_US
+4263,male,49835,284.61,Garden Township_US
+4268,male,75028,302.19,Flower Mound_US
+4270,male,43623,287.03,Toledo_US
+4271,male,43623,287.03,Toledo_US
+4273,male,75028,302.19,Flower Mound_US
+4277,male,43623,287.03,Toledo_US
+4287,male,93308,304.82,Kern County_US
+1,non_binary,10977,289.0,Spring Valley_US
+5,non_binary,24095,291.55,Bedford County_US
+8,non_binary,24095,291.55,Bedford County_US
+13,non_binary,35006,294.82,Jefferson County_US
+15,non_binary,11354,291.01,New York_US
+20,non_binary,85140,306.81,Pinal County_US
+23,non_binary,75228,301.1,Dallas_US
+26,non_binary,98409,294.3,Tacoma_US
+29,non_binary,29461,295.7,Moncks Corner_US
+31,non_binary,77656,297.86,Hardin County_US
+33,non_binary,98409,294.3,Tacoma_US
+35,non_binary,98409,294.3,Tacoma_US
+39,non_binary,92109,297.54,San Diego_US
+41,non_binary,77407,302.11,Fort Bend County_US
+42,non_binary,98409,294.3,Tacoma_US
+45,non_binary,31411,298.27,Chatham County_US
+48,non_binary,30238,293.32,Clayton County_US
+49,non_binary,98409,294.3,Tacoma_US
+52,non_binary,98409,294.3,Tacoma_US
+57,non_binary,98409,294.3,Tacoma_US
+66,non_binary,77450,302.08,Harris County_US
+70,non_binary,39740,295.71,Lowndes County_US
+71,non_binary,92336,302.64,Fontana_US
+72,non_binary,31320,296.16,Liberty County_US
+75,non_binary,95123,294.84,San Jose_US
+76,non_binary,77656,297.86,Hardin County_US
+78,non_binary,25705,289.09,Cabell County_US
+83,non_binary,27408,291.12,Greensboro_US
+89,non_binary,92336,302.64,Fontana_US
+110,non_binary,34753,299.36,Mascotte_US
+116,non_binary,33584,299.88,Hillsborough County_US
+117,non_binary,92336,302.64,Fontana_US
+120,non_binary,36551,298.0,Loxley_US
+123,non_binary,33584,299.88,Hillsborough County_US
+125,non_binary,63653,289.28,Leadwood_US
+133,non_binary,30907,295.72,Columbia County_US
+135,non_binary,10458,290.52,New York_US
+140,non_binary,30907,295.72,Columbia County_US
+147,non_binary,78109,302.33,Converse_US
+149,non_binary,73159,295.52,Oklahoma City_US
+156,non_binary,78109,302.33,Converse_US
+158,non_binary,10458,290.52,New York_US
+165,non_binary,17602,288.74,Lancaster_US
+167,non_binary,78109,302.33,Converse_US
+169,non_binary,30907,295.72,Columbia County_US
+170,non_binary,10456,290.57,New York_US
+176,non_binary,41835,288.04,Letcher County_US
+178,non_binary,95330,302.73,Lathrop_US
+187,non_binary,86406,307.83,Mohave County_US
+191,non_binary,30907,295.72,Columbia County_US
+193,non_binary,6051,,not found
+198,non_binary,21229,291.74,Baltimore_US
+199,non_binary,57325,288.36,Brule County_US
+201,non_binary,30180,292.15,Villa Rica_US
+203,non_binary,6051,,not found
+209,non_binary,37087,292.56,Lebanon_US
+213,non_binary,73110,295.5,Midwest City_US
+215,non_binary,49307,285.65,Big Rapids_US
+220,non_binary,71909,295.15,Hot Springs Village_US
+221,non_binary,30907,295.72,Columbia County_US
+223,non_binary,75402,298.97,Greenville_US
+225,non_binary,92019,298.63,San Diego County_US
+231,non_binary,49307,285.65,Big Rapids_US
+238,non_binary,49307,285.65,Big Rapids_US
+240,non_binary,71909,295.15,Hot Springs Village_US
+247,non_binary,49307,285.65,Big Rapids_US
+249,non_binary,49307,285.65,Big Rapids_US
+256,non_binary,32431,296.53,Jackson County_US
+258,non_binary,48167,284.92,Northville_US
+260,non_binary,77388,301.96,Harris County_US
+261,non_binary,61101,286.51,Rockford_US
+267,non_binary,80503,289.53,Longmont_US
+269,non_binary,30215,292.97,Fayette County_US
+278,non_binary,60016,286.39,Des Plaines_US
+282,non_binary,77388,301.96,Harris County_US
+284,non_binary,17512,288.28,Columbia_US
+289,non_binary,10311,289.97,New York_US
+290,non_binary,17512,288.28,Columbia_US
+292,non_binary,71909,295.15,Hot Springs Village_US
+294,non_binary,46368,287.14,Portage_US
+298,non_binary,46368,287.14,Portage_US
+312,non_binary,30215,292.97,Fayette County_US
+314,non_binary,85034,308.02,Phoenix_US
+317,non_binary,10469,290.71,New York_US
+319,non_binary,85034,308.02,Phoenix_US
+320,non_binary,77388,301.96,Harris County_US
+321,non_binary,30215,292.97,Fayette County_US
+324,non_binary,83704,295.01,Boise_US
+325,non_binary,85034,308.02,Phoenix_US
+327,non_binary,71909,295.15,Hot Springs Village_US
+329,non_binary,46561,287.39,Osceola_US
+331,non_binary,71909,295.15,Hot Springs Village_US
+333,non_binary,46561,287.39,Osceola_US
+334,non_binary,85297,307.39,Gilbert_US
+335,non_binary,85034,308.02,Phoenix_US
+344,non_binary,71909,295.15,Hot Springs Village_US
+349,non_binary,46561,287.39,Osceola_US
+351,non_binary,44106,287.48,Cleveland_US
+354,non_binary,67601,292.24,Hays_US
+358,non_binary,46561,287.39,Osceola_US
+359,non_binary,46561,287.39,Osceola_US
+361,non_binary,62441,288.1,Marshall_US
+362,non_binary,77388,301.96,Harris County_US
+366,non_binary,17512,288.28,Columbia_US
+368,non_binary,36551,298.0,Loxley_US
+371,non_binary,48167,284.92,Northville_US
+376,non_binary,18052,288.38,Whitehall_US
+383,non_binary,38587,290.01,White County_US
+384,non_binary,78109,302.33,Converse_US
+387,non_binary,46947,287.75,Logansport_US
+388,non_binary,32801,298.79,Orlando_US
+391,non_binary,33313,301.4,Coral Springs_US
+392,non_binary,38587,290.01,White County_US
+394,male,77015,302.25,Houston_US
+398,male,29571,296.44,Marion County_US
+406,male,92019,298.63,San Diego County_US
+411,male,49508,286.09,Grand Rapids_US
+412,male,92019,298.63,San Diego County_US
+414,male,13060,287.2,Town of Elbridge_US
+416,male,89131,305.09,Las Vegas_US
+418,male,29571,296.44,Marion County_US
+421,male,21209,291.48,Baltimore_US
+422,male,49508,286.09,Grand Rapids_US
+423,male,90047,298.17,Los Angeles_US
+426,male,18017,288.37,Hanover Township_US
+427,non_binary,43081,288.32,Westerville_US
+428,non_binary,19134,289.64,Philadelphia_US
+430,non_binary,92860,302.42,Norco_US
+437,non_binary,19134,289.64,Philadelphia_US
+440,non_binary,19134,289.64,Philadelphia_US
+441,non_binary,63640,287.48,Farmington_US
+442,female,19134,289.64,Philadelphia_US
+450,female,63640,287.48,Farmington_US
+455,female,76667,302.54,Mexia_US
+461,female,49508,286.09,Grand Rapids_US
+462,female,29073,295.31,Lexington County_US
+463,female,83704,295.01,Boise_US
+465,female,32405,298.64,Panama City_US
+466,female,63640,287.48,Farmington_US
+468,female,95076,290.7,Watsonville_US
+470,female,90005,300.5,Los Angeles_US
+473,female,32405,298.64,Panama City_US
+475,female,32405,298.64,Panama City_US
+485,female,43081,288.32,Westerville_US
+487,non_binary,29229,295.92,Richland County_US
+491,non_binary,77502,301.94,Pasadena_US
+495,female,29229,295.92,Richland County_US
+497,non_binary,77502,301.94,Pasadena_US
+505,non_binary,29229,295.92,Richland County_US
+506,non_binary,49508,286.09,Grand Rapids_US
+507,non_binary,27410,290.98,Greensboro_US
+514,non_binary,55721,282.67,Cohasset_US
+515,non_binary,95076,290.7,Watsonville_US
+517,non_binary,80022,291.05,Commerce City_US
+519,non_binary,49508,286.09,Grand Rapids_US
+523,non_binary,45203,289.02,Cincinnati_US
+524,non_binary,55721,282.67,Cohasset_US
+526,non_binary,11201,290.42,New York_US
+529,non_binary,77502,301.94,Pasadena_US
+531,non_binary,97211,299.94,Portland_US
+533,non_binary,30045,293.92,Gwinnett County_US
+537,non_binary,46406,287.32,Gary_US
+542,non_binary,61102,286.56,Winnebago_US
+551,non_binary,61102,286.56,Winnebago_US
+555,non_binary,91709,301.36,Chino Hills_US
+557,non_binary,55721,282.67,Cohasset_US
+559,non_binary,61102,286.56,Winnebago_US
+567,non_binary,55721,282.67,Cohasset_US
+572,non_binary,91709,301.36,Chino Hills_US
+576,blank,57719,288.97,Box Elder_US
+577,female,29431,295.52,Berkeley County_US
+582,non_binary,36104,296.43,Montgomery_US
+583,blank,48317,285.81,Shelby Charter Township_US
+588,female,91789,301.19,Walnut_US
+590,blank,98002,294.55,Auburn_US
+593,female,91789,301.19,Walnut_US
+596,male,5086,,not found
+597,blank,91789,301.19,Walnut_US
+598,female,6762,,not found
+603,female,75211,300.8,Dallas_US
+604,male,5086,,not found
+605,non_binary,75211,300.8,Dallas_US
+608,non_binary,60634,286.71,Chicago_US
+610,non_binary,75211,300.8,Dallas_US
+618,non_binary,75211,300.8,Dallas_US
+620,non_binary,61102,286.56,Winnebago_US
+626,non_binary,75211,300.8,Dallas_US
+630,non_binary,8069,,not found
+633,non_binary,60634,286.71,Chicago_US
+636,non_binary,8069,,not found
+643,non_binary,8069,,not found
+645,non_binary,75211,300.8,Dallas_US
+652,non_binary,75001,301.67,Carrollton_US
+654,non_binary,55721,282.67,Cohasset_US
+661,non_binary,27545,293.55,Wake County_US
+663,non_binary,19720,290.13,New Castle County_US
+665,non_binary,75001,301.67,Carrollton_US
+666,non_binary,75211,300.8,Dallas_US
+672,non_binary,27545,293.55,Wake County_US
+674,non_binary,75001,301.67,Carrollton_US
+683,non_binary,27545,293.55,Wake County_US
+687,non_binary,27545,293.55,Wake County_US
+689,non_binary,27545,293.55,Wake County_US
+694,non_binary,27545,293.55,Wake County_US
+695,non_binary,21206,291.92,Baltimore_US
+697,non_binary,27545,293.55,Wake County_US
+699,non_binary,27545,293.55,Wake County_US
+706,non_binary,21206,291.92,Baltimore_US
+707,non_binary,91789,301.19,Walnut_US
+709,non_binary,44281,286.16,Wadsworth_US
+714,non_binary,52806,288.79,Davenport_US
+717,non_binary,62565,290.54,Shelby County_US
+718,non_binary,52806,288.79,Davenport_US
+720,non_binary,52806,288.79,Davenport_US
+722,non_binary,89138,302.75,Las Vegas_US
+723,non_binary,61101,286.51,Rockford_US
+727,non_binary,62565,290.54,Shelby County_US
+732,non_binary,13060,287.2,Town of Elbridge_US
+733,non_binary,75001,301.67,Carrollton_US
+734,non_binary,44120,286.94,Cleveland_US
+735,non_binary,75001,301.67,Carrollton_US
+736,non_binary,25901,288.0,Oak Hill_US
+741,non_binary,66215,291.16,Lenexa_US
+742,non_binary,42718,288.99,Campbellsville_US
+744,non_binary,44120,286.94,Cleveland_US
+745,non_binary,61101,286.51,Rockford_US
+750,non_binary,60634,286.71,Chicago_US
+751,non_binary,60634,286.71,Chicago_US
+753,non_binary,20706,292.27,Prince George's County_US
+757,non_binary,34748,299.1,Lake County_US
+759,non_binary,28092,291.94,Lincoln County_US
+760,non_binary,62565,290.54,Shelby County_US
+762,non_binary,34748,299.1,Lake County_US
+763,non_binary,77060,302.33,Houston_US
+764,non_binary,28092,291.94,Lincoln County_US
+768,non_binary,28092,291.94,Lincoln County_US
+779,non_binary,32256,296.89,Jacksonville_US
+783,non_binary,32256,296.89,Jacksonville_US
+785,non_binary,5156,,not found
+786,non_binary,32256,296.89,Jacksonville_US
+787,non_binary,5156,,not found
+789,non_binary,32256,296.89,Jacksonville_US
+793,non_binary,77089,301.67,Houston_US
+795,non_binary,6489,,not found
+796,non_binary,62441,288.1,Marshall_US
+798,non_binary,46227,290.13,Indianapolis_US
+799,non_binary,63366,292.54,Saint Charles County_US
+800,non_binary,27513,293.38,Cary_US
+803,non_binary,77089,301.67,Houston_US
+804,non_binary,29016,295.9,Richland County_US
+806,non_binary,93516,307.8,Boron_US
+807,non_binary,28092,291.94,Lincoln County_US
+811,non_binary,6063,,not found
+813,non_binary,75702,299.0,Tyler_US
+814,non_binary,34748,299.1,Lake County_US
+816,non_binary,35630,295.91,Florence_US
+820,non_binary,78572,301.45,Mission_US
+828,non_binary,33801,299.8,Lakeland_US
+830,non_binary,36301,297.93,Houston County_US
+831,non_binary,36301,297.93,Houston County_US
+832,non_binary,27560,293.57,Morrisville_US
+833,non_binary,2148,,not found
+837,non_binary,11201,290.42,New York_US
+839,non_binary,2148,,not found
+842,non_binary,27560,293.57,Morrisville_US
+844,non_binary,26003,288.5,Ohio County_US
+845,non_binary,36301,297.93,Houston County_US
+849,non_binary,32405,298.64,Panama City_US
+853,blank,4005,,not found
+854,non_binary,36301,297.93,Houston County_US
+856,non_binary,26003,288.5,Ohio County_US
+857,non_binary,1752,,not found
+859,non_binary,36301,297.93,Houston County_US
+861,non_binary,26003,288.5,Ohio County_US
+865,non_binary,29170,295.67,Springdale_US
+866,blank,26003,288.5,Ohio County_US
+867,non_binary,29108,295.76,Newberry_US
+869,non_binary,8060,,not found
+870,non_binary,50014,288.27,Story County_US
+872,non_binary,48503,284.33,Flint_US
+873,non_binary,48210,286.26,Detroit_US
+877,non_binary,98272,293.36,Monroe_US
+891,non_binary,49080,286.16,Gun Plain Charter Township_US
+893,non_binary,29073,295.31,Lexington County_US
+896,blank,50014,288.27,Story County_US
+898,blank,14052,286.48,East Aurora_US
+902,blank,14052,286.48,East Aurora_US
+903,blank,50014,288.27,Story County_US
+904,non_binary,50014,288.27,Story County_US
+905,non_binary,82435,290.92,Park County_US
+914,non_binary,50014,288.27,Story County_US
+923,blank,84044,293.4,Magna_US
+925,female,60156,285.47,Lake in the Hills_US
+927,non_binary,31709,296.91,Americus_US
+931,blank,2148,,not found
+934,female,2148,,not found
+941,blank,1879,,not found
+945,female,1879,,not found
+949,male,1879,,not found
+952,blank,1879,,not found
+953,female,95240,303.53,Lodi_US
+957,female,1879,,not found
+959,male,83864,291.07,Ponderay_US
+966,non_binary,83864,291.07,Ponderay_US
+971,non_binary,92505,302.82,Riverside_US
+974,non_binary,77037,302.43,Harris County_US
+984,non_binary,92505,302.82,Riverside_US
+987,non_binary,31316,295.65,Long County_US
+991,non_binary,30096,293.95,Duluth_US
+992,non_binary,33024,301.39,Pembroke Pines_US
+1000,non_binary,26301,289.61,Clarksburg_US
+1001,non_binary,77037,302.43,Harris County_US
+1002,non_binary,72027,291.65,Conway County_US
+1005,non_binary,31316,295.65,Long County_US
+1008,non_binary,92064,297.69,Poway_US
+1012,blank,6489,,not found
+1015,blank,78227,302.68,San Antonio_US
+1018,blank,78227,302.68,San Antonio_US
+1019,blank,83501,296.22,Nez Perce County_US
+1020,non_binary,78227,302.68,San Antonio_US
+1023,non_binary,78227,302.68,San Antonio_US
+1024,non_binary,19083,289.23,Haverford Township_US
+1030,non_binary,55331,288.13,Shorewood_US
+1037,non_binary,33437,300.93,Palm Beach County_US
+1038,non_binary,89706,297.22,Carson City_US
+1040,blank,33556,300.04,Hillsborough County_US
+1042,blank,92109,297.54,San Diego_US
+1043,non_binary,48150,285.42,Livonia_US
+1046,non_binary,23072,292.9,Gloucester County_US
+1047,non_binary,20783,292.18,Adelphi_US
+1048,non_binary,44820,287.08,Bucyrus_US
+1049,non_binary,19601,288.38,Reading_US
+1055,non_binary,27516,292.69,Orange County_US
+1057,non_binary,1945,,not found
+1063,non_binary,14701,286.46,Jamestown_US
+1070,non_binary,71438,297.52,Rapides Parish_US
+1071,non_binary,71438,297.52,Rapides Parish_US
+1077,blank,14701,286.46,Jamestown_US
+1078,blank,71438,297.52,Rapides Parish_US
+1085,blank,70374,300.66,Lafourche Parish_US
+1088,non_binary,70374,300.66,Lafourche Parish_US
+1089,non_binary,70374,300.66,Lafourche Parish_US
+1093,non_binary,70374,300.66,Lafourche Parish_US
+1095,non_binary,70374,300.66,Lafourche Parish_US
+1097,non_binary,30096,293.95,Duluth_US
+1099,non_binary,34711,299.42,Clermont_US
+1101,non_binary,34205,299.6,Bradenton_US
+1113,non_binary,19136,289.54,Philadelphia_US
+1121,non_binary,88260,297.62,Lovington_US
+1123,non_binary,60623,287.24,Chicago_US
+1129,non_binary,29571,296.44,Marion County_US
+1130,non_binary,14213,287.2,Buffalo_US
+1133,blank,29571,296.44,Marion County_US
+1138,female,29571,296.44,Marion County_US
+1141,non_binary,77803,298.83,Bryan_US
+1155,blank,29571,296.44,Marion County_US
+1157,female,77803,298.83,Bryan_US
+1159,blank,29571,296.44,Marion County_US
+1161,female,75218,301.27,Dallas_US
+1162,male,60623,287.24,Chicago_US
+1166,blank,20912,292.18,Takoma Park_US
+1169,female,70454,298.34,Ponchatoula_US
+1172,female,15061,287.03,Center Township_US
+1176,male,93422,292.29,Atascadero_US
+1178,non_binary,62995,289.43,Vienna_US
+1179,non_binary,85037,308.08,Phoenix_US
+1184,non_binary,85037,308.08,Phoenix_US
+1189,non_binary,98661,299.81,Vancouver_US
+1191,non_binary,85037,308.08,Phoenix_US
+1195,non_binary,37766,288.23,Campbell County_US
+1198,non_binary,37766,288.23,Campbell County_US
+1199,non_binary,37766,288.23,Campbell County_US
+1200,non_binary,37766,288.23,Campbell County_US
+1207,non_binary,37766,288.23,Campbell County_US
+1213,blank,60452,287.99,Oak Forest_US
+1214,blank,60432,288.28,Joliet_US
+1217,blank,55420,288.68,Bloomington_US
+1218,non_binary,60452,287.99,Oak Forest_US
+1222,non_binary,76522,301.81,Coryell County_US
+1223,non_binary,29303,292.62,Spartanburg County_US
+1225,non_binary,29303,292.62,Spartanburg County_US
+1228,non_binary,38571,288.65,Cumberland County_US
+1231,non_binary,97222,300.09,Milwaukie_US
+1241,non_binary,97222,300.09,Milwaukie_US
+1251,non_binary,33137,301.05,Miami_US
+1252,non_binary,33137,301.05,Miami_US
+1253,non_binary,95826,305.12,Elk Grove_US
+1257,non_binary,89031,305.51,North Las Vegas_US
+1259,blank,89031,305.51,North Las Vegas_US
+1264,blank,89031,305.51,North Las Vegas_US
+1269,non_binary,89031,305.51,North Las Vegas_US
+1270,non_binary,77389,301.7,Harris County_US
+1273,non_binary,89031,305.51,North Las Vegas_US
+1277,non_binary,89031,305.51,North Las Vegas_US
+1279,non_binary,33137,301.05,Miami_US
+1283,non_binary,97457,297.66,Douglas County_US
+1284,non_binary,93725,305.36,Fresno County_US
+1287,blank,77389,301.7,Harris County_US
+1288,blank,97754,299.57,Prineville_US
+1295,blank,33145,300.85,Miami_US
+1297,non_binary,37052,291.81,Montgomery County_US
+1298,non_binary,89031,305.51,North Las Vegas_US
+1299,non_binary,45218,288.16,Greenhills_US
+1302,blank,45218,288.16,Greenhills_US
+1306,blank,77339,302.19,Houston_US
+1307,non_binary,63366,292.54,Saint Charles County_US
+1311,non_binary,83864,291.07,Ponderay_US
+1319,non_binary,71075,293.44,Springhill_US
+1327,non_binary,32526,299.31,Escambia County_US
+1328,blank,71075,293.44,Springhill_US
+1332,non_binary,97754,299.57,Prineville_US
+1335,blank,71075,293.44,Springhill_US
+1338,blank,70501,299.68,Lafayette_US
+1339,non_binary,70501,299.68,Lafayette_US
+1341,non_binary,37013,294.18,Nashville_US
+1345,non_binary,75501,296.72,Bowie County_US
+1346,non_binary,75501,296.72,Bowie County_US
+1347,blank,71075,293.44,Springhill_US
+1348,female,71075,293.44,Springhill_US
+1349,non_binary,75501,296.72,Bowie County_US
+1350,blank,71075,293.44,Springhill_US
+1352,female,71075,293.44,Springhill_US
+1356,blank,75033,301.9,Celina_US
+1367,female,75501,296.72,Bowie County_US
+1374,male,75033,301.9,Celina_US
+1375,blank,85037,308.08,Phoenix_US
+1379,female,20705,291.99,Beltsville_US
+1383,female,26508,288.75,Monongalia County_US
+1388,male,75501,296.72,Bowie County_US
+1402,non_binary,26508,288.75,Monongalia County_US
+1403,non_binary,85037,308.08,Phoenix_US
+1404,non_binary,98043,292.22,Mountlake Terrace_US
+1405,non_binary,98043,292.22,Mountlake Terrace_US
+1407,non_binary,20705,291.99,Beltsville_US
+1415,non_binary,60110,285.53,Carpentersville_US
+1416,non_binary,60110,285.53,Carpentersville_US
+1421,non_binary,60110,285.53,Carpentersville_US
+1423,non_binary,60110,285.53,Carpentersville_US
+1424,blank,60110,285.53,Carpentersville_US
+1431,blank,75501,296.72,Bowie County_US
+1433,non_binary,26508,288.75,Monongalia County_US
+1434,non_binary,13750,286.33,Town of Davenport_US
+1444,non_binary,77029,302.36,Houston_US
+1446,non_binary,32825,298.46,Alafaya_US
+1448,non_binary,57104,286.16,Sioux Falls_US
+1450,non_binary,57104,286.16,Sioux Falls_US
+1453,non_binary,57104,286.16,Sioux Falls_US
+1458,non_binary,57104,286.16,Sioux Falls_US
+1459,non_binary,75702,299.0,Tyler_US
+1461,blank,75702,299.0,Tyler_US
+1471,blank,34711,299.42,Clermont_US
+1473,non_binary,75702,299.0,Tyler_US
+1474,non_binary,34711,299.42,Clermont_US
+1476,blank,34711,299.42,Clermont_US
+1479,female,34711,299.42,Clermont_US
+1480,non_binary,37766,288.23,Campbell County_US
+1481,blank,84044,293.4,Magna_US
+1484,female,34711,299.42,Clermont_US
+1487,blank,75702,299.0,Tyler_US
+1488,female,75702,299.0,Tyler_US
+1490,male,34711,299.42,Clermont_US
+1497,blank,34711,299.42,Clermont_US
+1498,female,84044,293.4,Magna_US
+1502,female,90710,296.82,Los Angeles_US
+1504,male,84044,293.4,Magna_US
+1507,non_binary,67045,290.36,Eureka_US
+1508,non_binary,34711,299.42,Clermont_US
+1509,non_binary,84044,293.4,Magna_US
+1513,blank,76126,300.72,Tarrant County_US
+1515,non_binary,26508,288.75,Monongalia County_US
+1516,non_binary,84044,293.4,Magna_US
+1518,non_binary,60452,287.99,Oak Forest_US
+1520,non_binary,60452,287.99,Oak Forest_US
+1522,blank,33313,301.4,Coral Springs_US
+1532,non_binary,40047,289.69,Mount Washington_US
+1535,non_binary,40047,289.69,Mount Washington_US
+1541,non_binary,85140,306.81,Pinal County_US
+1546,non_binary,17202,287.86,Guilford Township_US
+1548,non_binary,67501,290.44,Hutchinson_US
+1552,non_binary,75126,300.37,Forney_US
+1555,non_binary,67501,290.44,Hutchinson_US
+1559,non_binary,61101,286.51,Rockford_US
+1562,non_binary,67501,290.44,Hutchinson_US
+1569,non_binary,61101,286.51,Rockford_US
+1573,non_binary,90011,299.36,Los Angeles_US
+1578,non_binary,90011,299.36,Los Angeles_US
+1579,non_binary,55311,287.9,Maple Grove_US
+1582,non_binary,90011,299.36,Los Angeles_US
+1586,blank,49507,286.15,Grand Rapids_US
+1595,non_binary,61101,286.51,Rockford_US
+1601,blank,90011,299.36,Los Angeles_US
+1603,blank,75051,300.85,Grand Prairie_US
+1606,non_binary,90001,298.74,Los Angeles County_US
+1610,non_binary,55311,287.9,Maple Grove_US
+1613,non_binary,77494,302.0,Fort Bend County_US
+1616,non_binary,90011,299.36,Los Angeles_US
+1619,non_binary,48141,285.62,Inkster_US
+1620,non_binary,48141,285.62,Inkster_US
+1625,non_binary,99701,283.41,Fairbanks_US
+1628,non_binary,82435,290.92,Park County_US
+1633,non_binary,82435,290.92,Park County_US
+1636,non_binary,82435,290.92,Park County_US
+1642,non_binary,82435,290.92,Park County_US
+1643,non_binary,46224,289.68,Indianapolis_US
+1644,non_binary,63118,293.23,Saint Louis_US
+1645,blank,67501,290.44,Hutchinson_US
+1647,blank,67501,290.44,Hutchinson_US
+1651,blank,37918,289.89,Knoxville_US
+1653,non_binary,98043,292.22,Mountlake Terrace_US
+1654,non_binary,37918,289.89,Knoxville_US
+1658,non_binary,37918,289.89,Knoxville_US
+1659,non_binary,77062,301.53,Houston_US
+1670,non_binary,37918,289.89,Knoxville_US
+1671,non_binary,98043,292.22,Mountlake Terrace_US
+1682,blank,85042,307.84,Phoenix_US
+1691,non_binary,37918,289.89,Knoxville_US
+1694,non_binary,37918,289.89,Knoxville_US
+1699,non_binary,37918,289.89,Knoxville_US
+1701,non_binary,77037,302.43,Harris County_US
+1705,non_binary,33060,301.31,Pompano Beach_US
+1707,non_binary,37918,289.89,Knoxville_US
+1710,non_binary,76112,301.34,Fort Worth_US
+1711,non_binary,37918,289.89,Knoxville_US
+1713,non_binary,92532,301.23,Lake Elsinore_US
+1714,blank,80011,290.92,Aurora_US
+1715,non_binary,99701,283.41,Fairbanks_US
+1716,non_binary,80011,290.92,Aurora_US
+1717,non_binary,76112,301.34,Fort Worth_US
+1722,non_binary,37918,289.89,Knoxville_US
+1724,non_binary,80011,290.92,Aurora_US
+1726,non_binary,30019,293.91,Gwinnett County_US
+1732,non_binary,95407,290.47,Santa Rosa_US
+1734,blank,78130,301.92,New Braunfels_US
+1740,female,78109,302.33,Converse_US
+1741,non_binary,48317,285.81,Shelby Charter Township_US
+1743,blank,78130,301.92,New Braunfels_US
+1744,female,78109,302.33,Converse_US
+1745,blank,80011,290.92,Aurora_US
+1750,female,78130,301.92,New Braunfels_US
+1751,male,78109,302.33,Converse_US
+1752,blank,64801,291.29,Joplin_US
+1760,female,80011,290.92,Aurora_US
+1762,female,98043,292.22,Mountlake Terrace_US
+1766,male,13440,286.52,City of Rome_US
+1768,non_binary,78130,301.92,New Braunfels_US
+1769,non_binary,98043,292.22,Mountlake Terrace_US
+1775,non_binary,80011,290.92,Aurora_US
+1778,non_binary,80011,290.92,Aurora_US
+1779,non_binary,92532,301.23,Lake Elsinore_US
+1782,non_binary,80011,290.92,Aurora_US
+1783,non_binary,80011,290.92,Aurora_US
+1786,non_binary,92532,301.23,Lake Elsinore_US
+1787,non_binary,92081,296.98,Vista_US
+1788,non_binary,13750,286.33,Town of Davenport_US
+1791,non_binary,34741,298.98,Kissimmee_US
+1792,non_binary,34746,299.0,Osceola County_US
+1793,non_binary,19140,289.42,Philadelphia_US
+1797,non_binary,19140,289.42,Philadelphia_US
+1800,non_binary,60643,287.73,Chicago_US
+1801,non_binary,75126,300.37,Forney_US
+1802,non_binary,11706,292.0,Suffolk County_US
+1808,non_binary,33024,301.39,Pembroke Pines_US
+1809,non_binary,76112,301.34,Fort Worth_US
+1811,non_binary,34741,298.98,Kissimmee_US
+1814,non_binary,34741,298.98,Kissimmee_US
+1818,non_binary,6489,,not found
+1819,non_binary,19140,289.42,Philadelphia_US
+1829,non_binary,6489,,not found
+1830,non_binary,19140,289.42,Philadelphia_US
+1832,non_binary,30577,292.28,Toccoa_US
+1833,non_binary,94580,292.05,Alameda County_US
+1838,non_binary,40228,290.0,Louisville_US
+1839,non_binary,92587,302.1,Riverside County_US
+1840,non_binary,40228,290.0,Louisville_US
+1845,non_binary,11003,291.5,Town of Hempstead_US
+1850,non_binary,40228,290.0,Louisville_US
+1851,non_binary,6489,,not found
+1852,non_binary,40228,290.0,Louisville_US
+1859,non_binary,40228,290.0,Louisville_US
+1860,non_binary,93638,306.02,Madera County_US
+1861,non_binary,83402,292.52,Idaho Falls_US
+1862,non_binary,85037,308.08,Phoenix_US
+1866,non_binary,97222,300.09,Milwaukie_US
+1867,non_binary,40228,290.0,Louisville_US
+1873,non_binary,38008,293.5,Bolivar_US
+1876,non_binary,85037,308.08,Phoenix_US
+1878,non_binary,46406,287.32,Gary_US
+1884,non_binary,40228,290.0,Louisville_US
+1885,non_binary,40228,290.0,Louisville_US
+1887,non_binary,37643,287.12,Elizabethton_US
+1890,non_binary,46406,287.32,Gary_US
+1892,non_binary,46406,287.32,Gary_US
+1899,non_binary,97222,300.09,Milwaukie_US
+1900,non_binary,33446,300.97,Palm Beach County_US
+1901,non_binary,8060,,not found
+1902,non_binary,62286,291.26,Sparta_US
+1903,non_binary,8540,,not found
+1911,non_binary,11751,291.97,Suffolk County_US
+1918,non_binary,77074,302.45,Houston_US
+1919,non_binary,99508,285.19,Anchorage_US
+1922,non_binary,28412,297.63,New Hanover County_US
+1925,non_binary,28412,297.63,New Hanover County_US
+1927,non_binary,23324,293.69,Chesapeake_US
+1928,non_binary,28412,297.63,New Hanover County_US
+1929,non_binary,19140,289.42,Philadelphia_US
+1931,non_binary,99508,285.19,Anchorage_US
+1934,non_binary,10011,290.4,New York_US
+1936,non_binary,28412,297.63,New Hanover County_US
+1943,non_binary,28694,286.52,Ashe County_US
+1946,non_binary,48745,285.1,Mikado Township_US
+1957,non_binary,45305,287.92,Bellbrook_US
+1975,non_binary,95388,303.59,Merced County_US
+1985,non_binary,60623,287.24,Chicago_US
+1986,non_binary,49835,284.61,Garden Township_US
+1990,non_binary,60188,286.53,Carol Stream_US
+1994,non_binary,2860,,not found
+1996,non_binary,92115,297.86,San Diego_US
+2000,non_binary,93312,305.03,Kern County_US
+2003,non_binary,36553,296.67,Washington County_US
+2004,non_binary,36553,296.67,Washington County_US
+2008,non_binary,36553,296.67,Washington County_US
+2009,non_binary,93312,305.03,Kern County_US
+2011,non_binary,72202,296.4,Little Rock_US
+2012,non_binary,33054,301.1,Miami-Dade County_US
+2014,non_binary,92115,297.86,San Diego_US
+2016,blank,92115,297.86,San Diego_US
+2023,female,30096,293.95,Duluth_US
+2026,non_binary,1841,,not found
+2027,blank,1841,,not found
+2028,female,30096,293.95,Duluth_US
+2032,blank,87111,295.63,Albuquerque_US
+2033,female,32514,298.94,Escambia County_US
+2034,male,30132,292.71,Dallas_US
+2036,blank,1841,,not found
+2044,female,37917,290.21,Knoxville_US
+2045,female,93035,294.97,Oxnard_US
+2047,male,19401,289.2,Norristown_US
+2058,non_binary,93035,294.97,Oxnard_US
+2063,non_binary,93035,294.97,Oxnard_US
+2064,non_binary,72764,291.98,Washington County_US
+2067,non_binary,72764,291.98,Washington County_US
+2070,non_binary,10460,290.73,New York_US
+2071,non_binary,89032,305.43,North Las Vegas_US
+2073,non_binary,45506,287.65,Springfield_US
+2076,non_binary,89032,305.43,North Las Vegas_US
+2082,non_binary,96003,302.22,Redding_US
+2086,non_binary,57067,289.92,Yankton County_US
+2087,non_binary,43228,287.93,Columbus_US
+2089,non_binary,72764,291.98,Washington County_US
+2091,non_binary,93035,294.97,Oxnard_US
+2098,non_binary,19403,289.0,West Norriton Township_US
+2101,non_binary,19403,289.0,West Norriton Township_US
+2103,non_binary,96003,302.22,Redding_US
+2105,non_binary,29583,296.9,Florence County_US
+2107,non_binary,42633,288.72,Monticello_US
+2115,non_binary,29583,296.9,Florence County_US
+2117,non_binary,29583,296.9,Florence County_US
+2119,non_binary,19403,289.0,West Norriton Township_US
+2120,non_binary,93001,294.99,Ventura County_US
+2121,non_binary,29583,296.9,Florence County_US
+2122,non_binary,93001,294.99,Ventura County_US
+2123,non_binary,29583,296.9,Florence County_US
+2127,non_binary,19403,289.0,West Norriton Township_US
+2128,non_binary,93001,294.99,Ventura County_US
+2129,non_binary,29583,296.9,Florence County_US
+2130,non_binary,93001,294.99,Ventura County_US
+2131,non_binary,49503,286.08,Grand Rapids_US
+2132,non_binary,29583,296.9,Florence County_US
+2133,non_binary,93001,294.99,Ventura County_US
+2135,non_binary,96003,302.22,Redding_US
+2137,non_binary,93001,294.99,Ventura County_US
+2143,non_binary,93001,294.99,Ventura County_US
+2147,non_binary,11751,291.97,Suffolk County_US
+2148,non_binary,42633,288.72,Monticello_US
+2151,non_binary,42633,288.72,Monticello_US
+2154,non_binary,75092,300.1,Sherman_US
+2156,non_binary,77433,301.83,Harris County_US
+2157,non_binary,33417,300.79,Palm Beach County_US
+2162,female,96003,302.22,Redding_US
+2166,female,42633,288.72,Monticello_US
+2167,non_binary,33463,300.94,Palm Beach County_US
+2183,non_binary,37128,293.06,Murfreesboro_US
+2185,non_binary,96003,302.22,Redding_US
+2194,non_binary,33101,301.1,Miami_US
+2196,non_binary,37128,293.06,Murfreesboro_US
+2201,non_binary,38703,298.88,Greenville_US
+2204,non_binary,36303,297.42,Dothan_US
+2205,non_binary,76522,301.81,Coryell County_US
+2206,non_binary,61726,288.77,Chenoa_US
+2207,non_binary,61726,288.77,Chenoa_US
+2212,non_binary,61726,288.77,Chenoa_US
+2215,non_binary,76522,301.81,Coryell County_US
+2216,non_binary,61726,288.77,Chenoa_US
+2219,non_binary,33616,300.48,Tampa_US
+2220,non_binary,61726,288.77,Chenoa_US
+2221,non_binary,46227,290.13,Indianapolis_US
+2230,non_binary,33417,300.79,Palm Beach County_US
+2232,non_binary,55311,287.9,Maple Grove_US
+2235,non_binary,33616,300.48,Tampa_US
+2240,non_binary,96003,302.22,Redding_US
+2251,non_binary,72764,291.98,Washington County_US
+2252,non_binary,30477,297.26,Wadley_US
+2254,non_binary,55720,283.15,Cloquet_US
+2259,non_binary,77053,302.16,Houston_US
+2262,non_binary,48911,285.07,Lansing_US
+2263,non_binary,25162,289.52,Pratt_US
+2275,non_binary,36693,298.7,Mobile_US
+2277,non_binary,92545,303.47,Hemet_US
+2279,non_binary,93001,294.99,Ventura County_US
+2281,non_binary,33411,300.81,Palm Beach County_US
+2283,non_binary,33411,300.81,Palm Beach County_US
+2285,non_binary,33411,300.81,Palm Beach County_US
+2286,blank,33411,300.81,Palm Beach County_US
+2287,female,33411,300.81,Palm Beach County_US
+2288,non_binary,33411,300.81,Palm Beach County_US
+2293,blank,27604,293.55,Raleigh_US
+2295,female,52033,289.49,Jones County_US
+2296,blank,91601,301.96,Los Angeles_US
+2300,female,77053,302.16,Houston_US
+2301,male,52623,289.16,Danville_US
+2310,blank,77502,301.94,Pasadena_US
+2312,female,70661,299.83,Calcasieu Parish_US
+2313,female,11751,291.97,Suffolk County_US
+2314,male,77502,301.94,Pasadena_US
+2318,non_binary,27713,293.38,Durham_US
+2322,blank,27713,293.38,Durham_US
+2331,female,75402,298.97,Greenville_US
+2333,blank,20853,291.57,Montgomery County_US
+2345,female,14701,286.46,Jamestown_US
+2347,male,49437,285.32,Montague_US
+2348,blank,27410,290.98,Greensboro_US
+2349,female,52033,289.49,Jones County_US
+2353,female,27410,290.98,Greensboro_US
+2354,male,20853,291.57,Montgomery County_US
+2360,non_binary,14701,286.46,Jamestown_US
+2361,non_binary,52033,289.49,Jones County_US
+2366,non_binary,46032,289.33,Carmel_US
+2369,non_binary,11378,290.69,New York_US
+2374,non_binary,11378,290.69,New York_US
+2376,non_binary,12203,288.56,Albany_US
+2378,non_binary,12203,288.56,Albany_US
+2379,non_binary,12203,288.56,Albany_US
+2381,non_binary,32621,295.59,Bronson_US
+2385,female,11228,290.43,New York_US
+2388,female,14701,286.46,Jamestown_US
+2389,female,27706,293.05,Durham_US
+2394,female,57067,289.92,Yankton County_US
+2395,non_binary,33186,300.41,Miami-Dade County_US
+2401,non_binary,1803,,not found
+2403,non_binary,39401,298.76,Hattiesburg_US
+2406,non_binary,78648,302.66,Luling_US
+2419,non_binary,29464,297.19,Charleston County_US
+2420,non_binary,23451,294.85,Virginia Beach_US
+2421,non_binary,11950,291.88,Suffolk County_US
+2434,male,33974,299.43,Lee County_US
+2435,blank,11950,291.88,Suffolk County_US
+2440,female,37321,292.34,Dayton_US
+2454,female,40601,289.7,Franklin County_US
+2466,male,47905,288.33,Lafayette_US
+2468,non_binary,75647,299.44,Gladewater_US
+2494,blank,46221,290.08,Indianapolis_US
+2495,non_binary,30071,293.92,Norcross_US
+2497,blank,47905,288.33,Lafayette_US
+2508,female,60618,286.92,Chicago_US
+2512,non_binary,10805,291.08,New Rochelle_US
+2513,non_binary,11751,291.97,Suffolk County_US
+2539,male,46221,290.08,Indianapolis_US
+2540,blank,60618,286.92,Chicago_US
+2541,female,1845,,not found
+2564,female,46221,290.08,Indianapolis_US
+2571,male,10805,291.08,New Rochelle_US
+2572,non_binary,32720,297.87,West De Land_US
+2588,blank,68801,290.46,Grand Island_US
+2590,non_binary,85140,306.81,Pinal County_US
+2592,blank,29669,292.97,West Pelzer_US
+2614,female,85041,307.97,Phoenix_US
+2615,non_binary,81503,292.33,Mesa County_US
+2620,non_binary,8086,,not found
+2633,female,1845,,not found
+2634,female,40336,289.91,Estill County_US
+2636,non_binary,8086,,not found
+2637,female,36083,295.05,Tuskegee_US
+2653,female,31029,294.13,Monroe County_US
+2654,non_binary,63123,293.26,Affton_US
+2658,male,31029,294.13,Monroe County_US
+2676,blank,1610,,not found
+2680,female,64836,290.69,Carthage_US
+2686,female,70816,299.78,Baton Rouge_US
+2700,male,44129,286.84,Parma_US
+2703,non_binary,89138,302.75,Las Vegas_US
+2704,blank,32817,298.61,Alafaya_US
+2713,male,46217,290.22,Indianapolis_US
+2720,blank,46217,290.22,Indianapolis_US
+2728,female,70816,299.78,Baton Rouge_US
+2730,female,46217,290.22,Indianapolis_US
+2745,male,46217,290.22,Indianapolis_US
+2746,non_binary,98661,299.81,Vancouver_US
+2748,blank,98661,299.81,Vancouver_US
+2759,non_binary,33009,301.32,Broward County_US
+2764,blank,30421,296.18,Collins_US
+2770,female,26354,289.94,Grafton_US
+2780,female,13041,287.64,Town of Clay_US
+2796,non_binary,46307,287.21,Crown Point_US
+2797,non_binary,77581,301.63,Pearland_US
+2799,non_binary,7017,,not found
+2804,non_binary,60163,286.92,Berkeley_US
+2828,non_binary,40444,291.22,Garrard County_US
+2831,non_binary,32408,298.78,Bay County_US
+2833,non_binary,14850,286.96,Ithaca_US
+2851,non_binary,18017,288.37,Hanover Township_US
+2855,non_binary,31709,296.91,Americus_US
+2858,male,18017,288.37,Hanover Township_US
+2882,blank,40051,289.48,Nelson County_US
+2886,female,72601,290.9,Harrison_US
+2899,female,72601,290.9,Harrison_US
+2920,male,28610,290.98,Catawba County_US
+2922,non_binary,6605,,not found
+2924,blank,80011,290.92,Aurora_US
+2932,non_binary,80011,290.92,Aurora_US
+2941,blank,63601,288.54,St. Francois County_US
+2957,female,21120,289.93,Baltimore County_US
+2958,non_binary,24557,291.07,Pittsylvania County_US
+2961,male,21120,289.93,Baltimore County_US
+2965,blank,21619,293.3,Chester_US
+2969,female,21120,289.93,Baltimore County_US
+2970,female,33063,301.23,Coral Springs_US
+2972,male,2131,,not found
+2988,non_binary,28328,297.12,Clinton_US
+2989,male,33063,301.23,Coral Springs_US
+2994,blank,28328,297.12,Clinton_US
+3011,female,20165,291.69,Cascades_US
+3013,female,33012,300.94,Hialeah_US
+3015,male,33063,301.23,Coral Springs_US
+3034,non_binary,21619,293.3,Chester_US
+3057,blank,28906,290.97,Cherokee County_US
+3060,non_binary,27534,296.32,Wayne County_US
+3067,blank,21619,293.3,Chester_US
+3100,female,11224,290.56,New York_US
+3123,non_binary,37130,293.11,Murfreesboro_US
+3125,blank,67401,290.36,Saline County_US
+3127,female,37130,293.11,Murfreesboro_US
+3136,blank,98272,293.36,Monroe_US
+3140,female,10805,291.08,New Rochelle_US
+3145,male,92630,299.01,Lake Forest_US
+3146,blank,44256,286.34,Medina_US
+3147,female,20603,293.14,Charles County_US
+3148,female,98272,293.36,Monroe_US
+3149,male,11756,291.74,Town of Hempstead_US
+3150,non_binary,67401,290.36,Saline County_US
+3155,blank,10805,291.08,New Rochelle_US
+3175,non_binary,45601,287.34,Chillicothe_US
+3178,blank,45601,287.34,Chillicothe_US
+3181,female,12205,288.58,Town of Colonie_US
+3189,male,45601,287.34,Chillicothe_US
+3194,blank,92083,297.09,Vista_US
+3197,female,92083,297.09,Vista_US
+3209,female,37660,287.39,Kingsport_US
+3224,male,92083,297.09,Vista_US
+3225,non_binary,32204,296.99,Jacksonville_US
+3227,male,32204,296.99,Jacksonville_US
+3235,blank,37660,287.39,Kingsport_US
+3268,female,78572,301.45,Mission_US
+3276,female,2760,,not found
+3277,male,27524,293.77,Johnston County_US
+3299,non_binary,1610,,not found
+3301,blank,77433,301.83,Harris County_US
+3304,non_binary,24736,287.12,Matoaka_US
+3313,blank,24736,287.12,Matoaka_US
+3334,female,82001,287.72,Cheyenne_US
+3335,non_binary,33415,300.88,Palm Beach County_US
+3337,female,72601,290.9,Harrison_US
+3376,non_binary,82001,287.72,Cheyenne_US
+3377,non_binary,19145,289.93,Philadelphia_US
+3378,non_binary,33415,300.88,Palm Beach County_US
+3394,blank,27529,293.64,Wake County_US
+3396,female,24201,285.89,Bristol_US
+3400,non_binary,27529,293.64,Wake County_US
+3419,blank,14224,287.16,West Seneca_US
+3425,female,24557,291.07,Pittsylvania County_US
+3427,blank,36832,294.8,Auburn_US
+3433,female,72227,295.76,Little Rock_US
+3445,male,48223,285.76,Detroit_US
+3449,blank,48223,285.76,Detroit_US
+3457,female,23704,294.03,Portsmouth_US
+3458,female,22191,292.93,Woodbridge_US
+3466,male,23704,294.03,Portsmouth_US
+3467,non_binary,2148,,not found
+3477,non_binary,30114,293.28,Canton_US
+3479,non_binary,27534,296.32,Wayne County_US
+3480,non_binary,27534,296.32,Wayne County_US
+3506,non_binary,13676,286.35,Potsdam_US
+3514,non_binary,44256,286.34,Medina_US
+3523,non_binary,34223,298.76,Sarasota County_US
+3529,non_binary,78586,299.84,San Benito_US
+3539,non_binary,3220,,not found
+3541,non_binary,74145,296.32,Tulsa_US
+3544,non_binary,78586,299.84,San Benito_US
+3550,non_binary,44256,286.34,Medina_US
+3570,non_binary,47905,288.33,Lafayette_US
+3573,non_binary,62203,292.82,East Saint Louis_US
+3576,non_binary,47905,288.33,Lafayette_US
+3596,non_binary,46222,289.83,Indianapolis_US
+3598,blank,29611,292.81,Greenville County_US
+3612,female,95367,303.22,Riverbank_US
+3615,non_binary,46222,289.83,Indianapolis_US
+3616,blank,46222,289.83,Indianapolis_US
+3618,female,27869,291.17,Rich Square_US
+3624,non_binary,27869,291.17,Rich Square_US
+3641,blank,8611,,not found
+3646,female,65757,290.52,Strafford_US
+3650,non_binary,76528,301.16,Coryell County_US
+3668,blank,62644,289.77,Havana_US
+3673,female,77037,302.43,Harris County_US
+3675,blank,76103,301.23,Fort Worth_US
+3686,female,48141,285.62,Inkster_US
+3688,male,76103,301.23,Fort Worth_US
+3708,blank,20002,292.57,Washington_US
+3709,non_binary,54751,286.96,Menomonie_US
+3712,blank,20002,292.57,Washington_US
+3739,female,27589,291.67,Warren County_US
+3741,non_binary,38134,294.89,Memphis_US
+3742,blank,38134,294.89,Memphis_US
+3752,female,38134,294.89,Memphis_US
+3756,blank,62025,291.07,Edwardsville_US
+3759,female,35044,293.59,Talladega County_US
+3761,male,35044,293.59,Talladega County_US
+3763,blank,15547,286.36,Jennerstown_US
+3764,female,62025,291.07,Edwardsville_US
+3768,female,15547,286.36,Jennerstown_US
+3788,male,35044,293.59,Talladega County_US
+3791,non_binary,10469,290.71,New York_US
+3797,non_binary,10469,290.71,New York_US
+3814,blank,3104,,not found
+3820,female,60502,287.11,Aurora_US
+3823,non_binary,60502,287.11,Aurora_US
+3836,blank,65301,291.89,Sedalia_US
+3837,female,30252,293.8,Henry County_US
+3842,blank,65301,291.89,Sedalia_US
+3852,female,65301,291.89,Sedalia_US
+3865,male,77831,298.72,Grimes County_US
+3869,blank,30252,293.8,Henry County_US
+3903,female,11369,290.81,New York_US
+3911,female,30906,295.85,Augusta_US
+3914,male,30906,295.85,Augusta_US
+3925,non_binary,90291,299.61,Los Angeles_US
+3927,non_binary,30906,295.85,Augusta_US
+3939,non_binary,90291,299.61,Los Angeles_US
+3956,non_binary,30906,295.85,Augusta_US
+3960,non_binary,30906,295.85,Augusta_US
+3962,blank,89031,305.51,North Las Vegas_US
+3992,female,48219,285.73,Detroit_US
+3998,non_binary,30442,295.73,Jenkins County_US
+3999,blank,55372,288.36,Prior Lake_US
+4033,female,8053,,not found
+4034,blank,48219,285.73,Detroit_US
+4039,female,7107,,not found
+4078,male,7107,,not found
+4079,blank,30558,293.56,Maysville_US
+4080,female,39073,299.46,Florence_US
+4090,female,63401,289.96,Hannibal_US
+4092,male,7107,,not found
+4093,non_binary,7107,,not found
+4094,non_binary,62702,290.77,Sangamon County_US
+4110,female,42101,289.78,Warren County_US
+4120,female,76013,301.02,Pantego_US
+4122,non_binary,80816,282.67,Teller County_US
+4136,blank,70560,300.22,New Iberia_US
+4139,female,44509,287.3,Youngstown_US
+4145,non_binary,75149,300.83,Mesquite_US
+4161,blank,34759,298.97,Polk County_US
+4162,female,80816,282.67,Teller County_US
+4163,blank,70560,300.22,New Iberia_US
+4166,female,34759,298.97,Polk County_US
+4167,male,34759,298.97,Polk County_US
+4168,blank,80816,282.67,Teller County_US
+4170,female,37811,288.84,Hawkins County_US
+4182,female,34759,298.97,Polk County_US
+4185,male,34759,298.97,Polk County_US
+4191,non_binary,70560,300.22,New Iberia_US
+4202,female,34759,298.97,Polk County_US
+4205,blank,24293,287.39,Wise_US
+4208,female,49835,284.61,Garden Township_US
+4217,male,80816,282.67,Teller County_US
+4226,blank,99801,283.97,Juneau_US
+4229,female,24293,287.39,Wise_US
+4237,female,4096,,not found
+4243,male,4096,,not found
+4274,non_binary,34667,299.71,Pasco County_US
+4279,blank,43623,287.03,Toledo_US
+4280,female,75028,302.19,Flower Mound_US

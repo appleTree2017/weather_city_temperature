@@ -1,0 +1,699 @@
+city,temperature,female%
+Aberdeen_US,294.75333333333333,
+Abilene_US,300.4,80.0
+Adelphi_US,292.18,40.0
+Affton_US,293.26,
+Akron_US,286.685,
+Alachua County_US,296.01,
+Alafaya_US,298.5725,
+Alameda County_US,292.05,
+Albany_US,288.56,25.0
+Albuquerque_US,295.63,
+Alexandria_US,300.08,100.0
+Altoona_US,287.45,
+Americus_US,296.91,40.0
+Anchorage_US,285.19,40.0
+Anderson County_US,293.28,100.0
+Anne Arundel County_US,292.24,100.0
+Arlington_US,297.08,40.0
+Ashe County_US,286.52,
+Asheville_US,287.61,33.333333333333336
+Ashford_US,297.69,
+Atascadero_US,292.29,
+Athens County_US,289.23,100.0
+Atlanta_US,293.9066666666667,66.66666666666667
+Auburn_US,294.6181818181818,54.54545454545455
+Augusta County_US,290.72,
+Augusta_US,295.85400000000004,35.0
+Aurora_US,288.96351351351353,35.13513513513514
+Austin_US,302.4785714285714,42.857142857142854
+Autauga County_US,294.42,
+Azusa_US,301.74,75.0
+Balch Springs_US,300.6,100.0
+Baldwin_US,286.95,
+Baltimore County_US,290.0141176470588,58.8235294117647
+Baltimore_US,291.8425,31.25
+Baton Rouge_US,299.78222222222223,50.0
+Bay County_US,298.78,
+Beaumont_US,299.04,75.0
+Bedford County_US,291.55,28.571428571428573
+Bedford_US,302.09,100.0
+Bell County_US,302.66,50.0
+Bellbrook_US,287.92,
+Bellevue_US,291.65,
+Beltrami County_US,283.17,100.0
+Beltsville_US,291.99,25.0
+Berkeley County_US,295.49,80.0
+Berkeley_US,286.92,40.0
+Bernice_US,297.27,100.0
+Berwyn_US,287.25,100.0
+Bessemer_US,294.9,
+Beverly Hills_US,300.89,100.0
+Bexar County_US,302.33000000000004,50.0
+Big Rapids_US,285.65,35.714285714285715
+Biloxi_US,298.27,
+Binghamton_US,285.69,100.0
+Blaine_US,287.69,
+Bloomington_US,288.54,33.333333333333336
+Bluefield_US,286.83,100.0
+Boise_US,295.00999999999993,85.71428571428571
+Bolivar_US,293.5,
+Bonne Terre_US,288.84,
+Boron_US,307.8,
+Botetourt County_US,291.18,100.0
+Bowie County_US,296.72,58.8235294117647
+Box Elder_US,288.97,50.0
+Bradenton_US,299.6,
+Brandon_US,300.06,100.0
+Brawley_US,307.6,
+Brier_US,292.37,66.66666666666667
+Brighton Township_US,287.0,
+Bristol Township_US,289.41,
+Bristol_US,285.89,55.55555555555556
+Broken Arrow_US,296.56,
+Bronson_US,295.59,28.571428571428573
+Brooke County_US,287.01,50.0
+Brooklyn Center_US,288.2,100.0
+Broward County_US,301.3433333333333,
+Brule County_US,288.36,
+Brunswick County_US,298.22,43.75
+Bryan_US,298.83,14.285714285714286
+Bucyrus_US,287.08,66.66666666666667
+Buffalo_US,287.16249999999997,50.0
+Burbank_US,302.01,100.0
+Burgaw_US,297.16,
+Burleson_US,300.33,
+Butler County_US,286.87,100.0
+Cabell County_US,289.09,
+Calcasieu Parish_US,299.83,100.0
+Camarillo_US,296.32,
+Cambridge_US,294.41,50.0
+Campbell County_US,288.23,
+Campbellsville_US,288.99,
+Canton_US,293.28,
+Cape Girardeau_US,290.85,100.0
+Carlsbad_US,296.82,33.333333333333336
+Carmel_US,289.33,16.666666666666668
+Carol Stream_US,286.53,50.0
+Carpentersville_US,285.53,42.857142857142854
+Carrollton_US,301.67,26.666666666666668
+Carson City_US,297.22,
+Cartersville_US,293.18,
+Carthage_US,290.69,66.66666666666667
+Cary_US,293.38,
+Cascades_US,291.69,55.55555555555556
+Cass County_US,290.36,100.0
+Catawba County_US,291.2766666666667,66.66666666666667
+Celina_US,301.9,60.0
+Center Township_US,287.03,50.0
+Central City_US,289.42,100.0
+Champaign_US,288.72,100.0
+Chandler_US,307.75,25.0
+Chapel Hill_US,293.31,
+Chapmanville_US,289.33,
+Charles County_US,293.14,66.66666666666667
+Charleston County_US,297.19,20.0
+Charlotte Park_US,298.35,100.0
+Charlotte_US,292.32,33.333333333333336
+Chatham County_US,298.27,
+Cheney_US,293.51,
+Chenoa_US,288.77,30.76923076923077
+Cherokee County_US,291.38,56.25
+Chesapeake_US,293.69,
+Chester_US,293.3,66.66666666666667
+Chesterfield County_US,290.56,100.0
+Chesterfield Township_US,286.15,14.285714285714286
+Cheyenne_US,287.72,50.0
+Chicago_US,286.9940384615385,51.92307692307692
+Chickasha_US,295.11,85.71428571428571
+Chillicothe_US,287.34,40.0
+Chino Hills_US,301.36,25.0
+Chula Vista_US,298.4509090909091,36.36363636363637
+Cicero_US,287.28,100.0
+Cincinnati_US,288.98249999999996,25.0
+Citrus County_US,297.94,
+City of Gainesville Municipal Boundaries_US,295.82,100.0
+City of Rome_US,286.52,
+Clarksburg_US,289.61,
+Clawson_US,285.86,
+Clayton County_US,293.32,25.0
+Clermont_US,299.42,20.0
+Cleveland_US,287.12833333333333,25.0
+Clinton Township_US,288.11249999999995,25.0
+Clinton_US,297.12,38.46153846153846
+Cloquet_US,283.15,33.333333333333336
+Clovis_US,294.23,100.0
+Cobb County_US,293.1,66.66666666666667
+Cohasset_US,282.67,28.571428571428573
+Collins_US,296.18,50.0
+Columbia County_US,295.72,35.294117647058826
+Columbia_US,288.28,61.53846153846154
+Columbus_US,291.056,60.0
+Comal County_US,301.48,
+Commerce City_US,291.05,
+Conroe_US,300.79,100.0
+Converse_US,302.33,43.75
+Conway County_US,291.65,
+Coon Rapids_US,287.79,
+Coral Springs_US,301.3194736842105,36.8421052631579
+Corvallis_US,298.29,100.0
+Coryell County_US,301.62428571428575,52.38095238095238
+Covington County_US,298.05,100.0
+Crown Point_US,287.21,
+Culver City_US,299.4,
+Cumberland County_US,288.65,
+Cupertino_US,294.1,100.0
+Dallas_US,297.47805555555556,47.22222222222222
+Danville_US,291.20000000000005,
+Dauphin County_US,287.75,
+Davenport_US,288.79,42.857142857142854
+Dayton_US,292.34,100.0
+DeKalb County_US,292.2866666666667,66.66666666666667
+Decatur County_US,287.08,
+Decatur_US,301.06,
+Deer Park_US,294.62,
+Delaware County_US,291.79,
+Deltona_US,298.02,66.66666666666667
+Derby_US,292.66,100.0
+Des Moines_US,289.62,
+Des Plaines_US,286.39,
+Detroit_US,285.7724242424242,48.484848484848484
+Dexter_US,293.77,100.0
+Dickinson County_US,286.87,100.0
+Dothan_US,297.42,
+Douglas County_US,297.66,
+Dubuque_US,290.15,100.0
+Duluth_US,293.95,50.0
+Duplin County_US,296.56,16.666666666666668
+Durham_US,293.27,66.66666666666667
+East Aurora_US,286.48,
+East Saint Louis_US,292.82,27.272727272727273
+Eden_US,291.34,
+Edgerton_US,285.48,100.0
+Edinburg_US,300.61,100.0
+Edwardsville_US,291.07,71.42857142857143
+El Cajon_US,298.51,33.333333333333336
+El Dorado County_US,301.0,60.0
+El Monte_US,299.52,
+El Paso_US,299.55,100.0
+Elizabethton_US,287.12,
+Elk Grove_US,305.065,50.0
+Enterprise_US,296.0,
+Erie_US,286.82,
+Escambia County_US,299.24833333333333,50.0
+Estill County_US,289.91,100.0
+Euless_US,302.14,50.0
+Eureka_US,290.36,50.0
+Evansville_US,291.62,
+Fairbanks_US,283.41,40.0
+Fairfield_US,296.05,
+Fairmont_US,285.89,
+Farmers Branch_US,302.08,66.66666666666667
+Farmington_US,287.48,62.5
+Fayette County_US,292.97,43.75
+Ferndale_US,285.96,100.0
+Flint Township_US,284.74,66.66666666666667
+Flint_US,284.33,
+Flora_US,299.47,50.0
+Florence County_US,296.955,50.0
+Florence_US,299.2627777777777,50.0
+Flower Mound_US,302.19,50.0
+Flushing_US,284.35,100.0
+Fontana_US,302.64,42.857142857142854
+Forney_US,300.37,50.0
+Fort Bend County_US,302.0325,
+Fort Lauderdale_US,301.41,
+Fort Smith_US,294.38,
+Fort Worth_US,301.18555555555554,48.148148148148145
+Franklin County_US,289.7,46.15384615384615
+Franklin_US,290.02,100.0
+Fresno County_US,305.36,
+Fresno_US,305.78,100.0
+Gadsden_US,293.49,
+Gaffney_US,292.26,
+Gaines Township_US,284.3,
+Garden Township_US,284.61,30.0
+Garrard County_US,291.22,
+Garrett_US,286.68,
+Gary_US,287.32,25.0
+Germantown_US,288.11,100.0
+Gilbert_US,307.39,
+Gladewater_US,299.44,
+Gloucester County_US,292.9,50.0
+Goddard_US,291.88,
+Grafton_US,285.7266666666667,33.333333333333336
+Grand Island_US,290.46,40.0
+Grand Prairie_US,300.33,33.333333333333336
+Grand Rapids_US,286.1015,30.0
+Grayson County_US,291.58,
+Great Neck Plaza_US,291.16,100.0
+Greece_US,287.76,100.0
+Greenbelt_US,292.18,100.0
+Greene County_US,288.85,
+Greenhills_US,288.16,25.0
+Greensboro_US,291.04,28.571428571428573
+Greenville County_US,292.87461538461537,46.15384615384615
+Greenville_US,298.48625000000004,31.25
+Grimes County_US,298.72,20.0
+Guilford County_US,291.1126666666667,53.333333333333336
+Guilford Township_US,287.86,50.0
+Gulfport_US,298.57,16.666666666666668
+Gun Plain Charter Township_US,286.16,
+Gwinnett County_US,293.96571428571434,28.571428571428573
+Hamtramck_US,286.23,100.0
+Hannibal_US,289.96,66.66666666666667
+Hanover Township_US,288.3515384615385,23.076923076923077
+Hanover_US,288.73,100.0
+Hardin County_US,297.86,
+Harris County_US,301.9886363636364,31.818181818181817
+Harrison_US,290.9,56.25
+Hart County_US,288.41,33.333333333333336
+Haskins_US,287.28,
+Hattiesburg_US,298.76,
+Havana_US,289.77,
+Haverford Township_US,289.23,
+Hawaiʻi County_US,299.57000000000005,50.0
+Hawkins County_US,288.84,64.28571428571429
+Hays_US,292.24,
+Haysville_US,292.66,
+Hazleton_US,285.37,
+Hemet_US,303.47,
+Henrietta_US,287.42,
+Henry County_US,293.8,43.75
+Hereford_US,294.64,
+Hernando County_US,298.2,33.333333333333336
+Heyburn_US,293.27,50.0
+Hialeah_US,300.94,53.333333333333336
+Hillsborough County_US,299.97555555555556,50.0
+Hogan Township_US,288.26,100.0
+Holland_US,286.15,100.0
+Honolulu_US,300.05,80.0
+Hot Springs Village_US,295.15,50.0
+Houston County_US,297.93,43.75
+Houston_US,302.1390322580645,32.25806451612903
+Howard County_US,295.06,
+Hudspeth County_US,295.33,
+Humboldt County_US,287.6,
+Huntsville_US,294.5025,25.0
+Hurricane_US,302.22,100.0
+Hutchinson_US,290.44,23.529411764705884
+Hyattsville_US,292.4,
+Idaho Falls_US,292.52,25.0
+Indianapolis_US,290.03067796610173,32.20338983050848
+Inkster_US,285.62,50.0
+Irvine_US,299.8,100.0
+Ithaca_US,286.96,66.66666666666667
+Jackson County_US,295.90299999999996,30.0
+Jackson_US,300.19,100.0
+Jacksonville_US,296.91052631578947,47.36842105263158
+Jamestown_US,286.46,50.0
+Jefferson County_US,289.7583333333333,16.666666666666668
+Jenkins County_US,295.73,
+Jennerstown_US,286.36,50.0
+Johnston County_US,293.72,66.66666666666667
+Joliet_US,287.992,20.0
+Jones County_US,289.49,66.66666666666667
+Joplin_US,291.29,50.0
+Juneau_US,283.97,
+Justice_US,287.64,100.0
+Kansas City_US,290.895,33.333333333333336
+Kapolei_US,299.65,
+Kern County_US,304.8752631578947,57.89473684210526
+Kerrville_US,299.94,
+Kershaw County_US,297.37,
+Kings County_US,304.31,100.0
+Kingsport_US,287.34,50.0
+Kissimmee_US,298.98,12.5
+Knox County_US,291.0366666666667,
+Knoxville_US,289.90999999999997,18.75
+Kutztown_US,288.0,33.333333333333336
+La Cañada Flintridge_US,300.04,100.0
+LaGrange_US,293.45,50.0
+Lafayette County_US,296.18,
+Lafayette_US,289.5911111111111,38.888888888888886
+Lafourche Parish_US,300.66,28.571428571428573
+Lake County_US,296.88,28.571428571428573
+Lake Elsinore_US,301.23,20.0
+Lake Forest_US,299.01,
+Lake Station_US,287.07,
+Lake in the Hills_US,285.47,100.0
+Lakeland_US,299.8,
+Lakewood_US,297.95,100.0
+Lancaster_US,288.74,54.54545454545455
+Lansing_US,285.07,
+Las Vegas_US,304.37624999999997,12.5
+Lathrop_US,302.73,
+Laurel_US,298.09,50.0
+Laurens County_US,295.73,
+Leadwood_US,289.28,66.66666666666667
+Lebanon_US,292.56,20.0
+Lee County_US,299.43,
+Lenexa_US,291.16,
+Letcher County_US,288.04,50.0
+Lewis County_US,288.85,
+Lewisburg_US,288.43,
+Lexington County_US,295.30428571428575,57.142857142857146
+Lexington_US,291.26,100.0
+Liberty County_US,296.16,50.0
+Lincoln County_US,291.99375,12.5
+Lincoln_US,291.88,80.0
+Little Rock_US,295.84,37.5
+Livonia_US,285.42,
+Lodi_US,303.53,100.0
+Logansport_US,287.75,
+Long County_US,295.65,33.333333333333336
+Longmont_US,289.53,50.0
+Los Angeles County_US,299.91333333333336,
+Los Angeles_US,299.4220930232558,37.2093023255814
+Los Lunas_US,295.17,100.0
+Louisville_US,290.0,29.41176470588235
+Lovington_US,297.62,
+Lowndes County_US,295.71,28.571428571428573
+Loxley_US,298.0,
+Lubbock_US,298.92,
+Luling_US,302.66,33.333333333333336
+Lumberton_US,297.77,66.66666666666667
+Madera County_US,306.02,50.0
+Madison County_US,292.22,100.0
+Madison_US,285.79,
+Magna_US,293.4,26.666666666666668
+Manchester Township_US,287.73,
+Mansfield_US,299.79,100.0
+Maple Grove_US,287.9,31.25
+Marion County_US,296.86095238095237,19.047619047619047
+Marion_US,287.66,66.66666666666667
+Marshall_US,288.1,14.285714285714286
+Mascotte_US,299.36,50.0
+Matoaka_US,287.12,63.63636363636363
+Matteson_US,288.04,
+Maysville_US,293.56,50.0
+McLean County_US,290.69,100.0
+Meade County_US,288.845,100.0
+Medina_US,286.34,46.666666666666664
+Melissa_US,301.36,100.0
+Memphis_US,294.9552631578947,42.10526315789474
+Menominee_US,283.89,
+Menomonie_US,286.96,50.0
+Merced County_US,303.59,
+Mesa County_US,292.33,
+Mesa_US,307.65999999999997,57.142857142857146
+Mesquite_US,300.83,25.0
+Mexia_US,302.54,100.0
+Miami-Dade County_US,300.84125,25.0
+Miami_US,301.05,45.0
+Midland_US,299.15,
+Midwest City_US,295.5,40.0
+Mikado Township_US,285.1,46.15384615384615
+Mill Creek_US,288.16,33.333333333333336
+Milwaukee_US,283.98,100.0
+Milwaukie_US,300.09,46.666666666666664
+Miramar_US,301.27,50.0
+Mission Viejo_US,298.54,46.15384615384615
+Mission_US,301.45,30.76923076923077
+Mobile_US,298.7,
+Mohave County_US,307.83,50.0
+Moncks Corner_US,295.7,
+Monongalia County_US,288.75,37.5
+Monroe County_US,294.13,33.333333333333336
+Monroe Township_US,285.79,100.0
+Monroe_US,293.36,41.666666666666664
+Montague_US,285.32,33.333333333333336
+Monterey County_US,289.26,33.333333333333336
+Montgomery County_US,294.16125,31.25
+Montgomery_US,296.43,
+Monticello_US,288.72,66.66666666666667
+Mora County_US,285.51,30.0
+Morristown_US,289.24,100.0
+Morrisville_US,293.57,33.333333333333336
+Mount Morris_US,287.71,
+Mount Pleasant_US,283.61,33.333333333333336
+Mount Washington_US,289.69,40.0
+Mountain View_US,294.05,66.66666666666667
+Mountlake Terrace_US,292.22,39.39393939393939
+Murfreesboro_US,293.09666666666664,26.666666666666668
+Nampa_US,296.6,100.0
+Nanticoke_US,286.98,100.0
+Naperville_US,287.43,100.0
+Nashville_US,294.53499999999997,75.0
+Nazareth_US,287.88,25.0
+Nelson County_US,289.4800000000001,60.0
+New Braunfels_US,301.92,22.22222222222222
+New Castle County_US,290.13,50.0
+New Castle_US,287.25,50.0
+New Hanover County_US,297.563,30.0
+New Iberia_US,300.21999999999997,42.857142857142854
+New Rochelle_US,291.08,35.294117647058826
+New York_US,290.6472222222222,50.0
+Newberry_US,295.76,
+Newport News_US,293.77,100.0
+Newton County_US,290.89,
+Nez Perce County_US,296.22,
+Niagara Falls_US,287.18,100.0
+Nixa_US,290.69,
+Norco_US,302.42,
+Norcross_US,293.92,16.666666666666668
+Norfolk_US,293.83500000000004,50.0
+Norristown_US,289.2,66.66666666666667
+North Bay Village_US,301.14,
+North Las Vegas_US,305.485652173913,34.78260869565217
+North Vernon_US,288.17,100.0
+Northville_US,284.92,
+Oak Forest_US,287.99,35.294117647058826
+Oak Hill_US,288.0,
+Oak Ridge_US,290.51,100.0
+Oakland_US,291.38,100.0
+Ohatchee_US,293.3,
+Ohio County_US,288.5,26.666666666666668
+Oklahoma City_US,295.472,20.0
+Onalaska_US,288.78,100.0
+Orange County_US,294.98625,37.5
+Orlando_US,298.9566666666667,66.66666666666667
+Osceola County_US,298.8925,
+Osceola_US,287.39,35.714285714285715
+Oswego_US,287.61,
+Otero County_US,291.19,100.0
+Ottawa_US,289.45,100.0
+Oxnard_US,294.97,22.22222222222222
+Palm Bay_US,299.82,100.0
+Palm Beach County_US,300.8383720930233,44.18604651162791
+Palm Beach_US,300.91,66.66666666666667
+Panama City_US,298.64,60.0
+Pantego_US,301.02,100.0
+Paradise_US,306.27,100.0
+Paragould_US,290.97,100.0
+Park County_US,290.92,40.0
+Parma_US,286.84,28.571428571428573
+Pasadena_US,301.94,27.272727272727273
+Pasco County_US,299.7328571428571,71.42857142857143
+Pearland_US,301.63,50.0
+Pembroke Pines_US,301.39,20.0
+Peoria_US,290.96,
+Perry County_US,290.43,100.0
+Pflugerville_US,302.02,100.0
+Philadelphia_US,289.62341463414634,34.146341463414636
+Phoenix_US,308.0442857142857,40.0
+Pickens County_US,292.52,
+Pico Rivera_US,299.81,
+Pinal County_US,306.81,14.285714285714286
+Pinellas Park_US,300.6642857142857,42.857142857142854
+Pineville_US,292.14,
+Pitt County_US,297.47,50.0
+Pittsburg_US,296.34,
+Pittsburgh_US,287.25,
+Pittsylvania County_US,291.07,55.55555555555556
+Plano_US,301.44,50.0
+Pleasant Prairie_US,284.99,100.0
+Plymouth_US,288.24,
+Polk County_US,298.14000000000004,45.45454545454545
+Pomona_US,301.49,100.0
+Pompano Beach_US,301.31,37.5
+Ponchatoula_US,298.34,33.333333333333336
+Ponderay_US,291.07,37.5
+Portage_US,287.14,
+Portland_US,299.55333333333334,66.66666666666667
+Portsmouth_US,294.03,50.0
+Potsdam_US,286.35,44.44444444444444
+Poway_US,297.69,50.0
+Prairie Township_US,287.63,100.0
+Pratt_US,289.52,50.0
+Prattville_US,295.45,100.0
+Prince George's County_US,292.66499999999996,
+Prince William County_US,292.31,
+Prineville_US,299.57,12.5
+Prior Lake_US,288.36,33.333333333333336
+Provo_US,293.09,
+Pueblo County_US,290.48,
+Pulaski County_US,289.05,71.42857142857143
+Raleigh County_US,287.93,57.89473684210526
+Raleigh_US,293.55,
+Randolph County_US,291.15,
+Rapides Parish_US,297.686,20.0
+Reading_US,288.3933333333333,50.0
+Redding_US,302.22,31.25
+Reno_US,298.22,
+Rich Square_US,291.17,50.0
+Richland County_US,295.918,40.0
+Richmond_US,288.48,
+Ripley_US,292.85,
+River Oaks_US,301.42,
+Riverbank_US,303.22,60.0
+Riverside County_US,307.52,50.0
+Riverside_US,302.82,42.857142857142854
+Roanoke_US,291.88,
+Robertson County_US,292.2,
+Rockford_US,286.51,36.8421052631579
+Rocklin_US,304.51,
+Rockmart_US,293.13,33.333333333333336
+Rockwall County_US,300.62,100.0
+Rosenberg_US,301.95,50.0
+Russell County_US,285.36,25.0
+Sacramento County_US,305.135,100.0
+Saint Charles County_US,292.54,25.0
+Saint Lawrence County_US,286.3,100.0
+Saint Louis_US,293.265,
+Saline County_US,290.36,53.333333333333336
+Sampson County_US,297.29,
+San Antonio_US,302.54999999999995,51.282051282051285
+San Benito_US,299.84,54.54545454545455
+San Diego County_US,298.4757142857143,42.857142857142854
+San Diego_US,297.6316666666667,33.333333333333336
+San Jacinto_US,303.61,66.66666666666667
+San Joaquin County_US,301.33,57.142857142857146
+San Jose_US,294.95,35.714285714285715
+Sangamon County_US,290.77,33.333333333333336
+Santa Ana_US,299.59000000000003,50.0
+Santa Cruz County_US,300.11,100.0
+Santa Rosa_US,290.47,
+Sarasota County_US,298.81,50.0
+Schaumburg_US,285.98,100.0
+Scottsdale_US,307.8,100.0
+Scranton_US,286.78,
+Seabrook_US,301.43,100.0
+Seattle_US,292.84,25.0
+Sedalia_US,291.89,33.333333333333336
+Seminole County_US,298.39,
+Sequoyah County_US,294.49,
+Seven Hills_US,286.92,100.0
+Sevier County_US,290.25,100.0
+Sheboygan_US,284.55,
+Shelby Charter Township_US,285.81,
+Shelby County_US,290.54,16.666666666666668
+Sherman_US,300.1,44.44444444444444
+Shippensburg_US,287.8,100.0
+Shorewood_US,288.13,
+Shreveport_US,298.11,100.0
+Silver Spring_US,292.05,75.0
+Simpson County_US,298.74,
+Sioux Falls_US,286.16,36.36363636363637
+Skagit County_US,291.35,100.0
+South Holland_US,287.9,100.0
+Sparta_US,291.26,
+Spartanburg County_US,292.64833333333337,50.0
+Spring Valley_US,294.4066666666667,33.333333333333336
+Springdale_US,295.67,50.0
+Springfield_US,287.65,
+Springhill_US,293.44,50.0
+St. Albans_US,289.2,100.0
+St. Francois County_US,288.54,
+Statesboro_US,294.5,100.0
+Statesville_US,290.96,100.0
+Sterling Heights_US,286.15,71.42857142857143
+Sterling_US,290.33,
+Stockton_US,302.34,100.0
+Stokes Township_US,287.87,
+Story County_US,288.2699999999999,53.333333333333336
+Stow_US,286.58,100.0
+Strafford_US,290.52,31.25
+Sturgeon Bay_US,284.27,
+Suffolk County_US,291.934,57.142857142857146
+Summerville_US,296.07,100.0
+Sussex County_US,293.01,43.75
+Tacoma_US,294.3,25.0
+Takoma Park_US,292.18,
+Talladega County_US,293.59,40.0
+Tampa_US,300.37111111111113,11.11111111111111
+Tangipahoa Parish_US,298.15,50.0
+Tarrant County_US,300.72,
+Teller County_US,282.67,53.333333333333336
+Thousand Oaks_US,297.46,66.66666666666667
+Thurston County_US,295.02,
+Toccoa_US,292.28,
+Toledo_US,287.0333333333333,33.333333333333336
+Tomball_US,301.47,100.0
+Tonawanda_US,287.19,100.0
+Topeka_US,290.75,
+Town of Clay_US,287.64,50.0
+Town of Colonie_US,288.58,100.0
+Town of Davenport_US,286.33,
+Town of Elbridge_US,287.2,28.571428571428573
+Town of Eldorado_US,285.32,100.0
+Town of Esperance_US,287.24,100.0
+Town of Hempstead_US,291.57666666666665,
+Town of Kingston_US,287.75,100.0
+Tulsa_US,296.32,55.55555555555556
+Tupelo_US,296.7,
+Tuskegee_US,295.05,62.5
+Tyler_US,299.0,35.714285714285715
+Union County_US,294.91,
+Unity Township_US,286.99,
+University Park_US,301.41,33.333333333333336
+Upper Darby_US,289.55,
+Upper Gwynedd Township_US,288.7,100.0
+Vancouver_US,299.79571428571427,52.38095238095238
+Ventura County_US,294.99000000000007,14.285714285714286
+Victorville_US,302.24,100.0
+Vienna_US,289.43,
+Villa Rica_US,292.15,
+Virginia Beach_US,294.85,50.0
+Vista_US,297.08388888888885,50.0
+Volusia County_US,299.25,66.66666666666667
+Wadley_US,297.25999999999993,50.0
+Wadsworth_US,286.16,
+Waianae_US,299.73,
+Wake County_US,293.595,28.125
+Walnut_US,301.19,77.77777777777777
+Warner Robins_US,294.752,40.0
+Warr Acres_US,295.27,
+Warren County_US,291.46000000000004,77.77777777777777
+Washington County_US,293.45550000000003,45.0
+Washington_US,292.5385,50.0
+Washoe County_US,297.79,100.0
+Watertown_US,283.99,100.0
+Watsonville_US,290.7,50.0
+Wauwatosa_US,283.71,100.0
+Wayne County_US,296.32,36.8421052631579
+Waynesboro_US,290.47,100.0
+Weaver_US,292.75,100.0
+Webster_US,287.63,
+Weirton_US,286.53,100.0
+West Baton Rouge Parish_US,300.15,100.0
+West De Land_US,297.87,
+West Norriton Township_US,289.0,33.333333333333336
+West Pelzer_US,292.97,50.0
+West Seneca_US,287.16,
+Westerville_US,288.32,50.0
+Westminster_US,289.9,
+Wheaton_US,286.68,
+White County_US,290.01,25.0
+Whitehall_US,288.38,
+Wildwood_US,299.04,
+Will County_US,287.62,
+Williamsburg_US,291.94,100.0
+Wilmington_US,287.16,
+Winnebago_US,286.56,40.0
+Winston-Salem_US,290.58,100.0
+Winter Haven_US,299.55,
+Wise_US,287.39,50.0
+Wood County_US,289.92,100.0
+Woodbridge_US,292.93,33.333333333333336
+Woodward_US,291.57,20.0
+Wyoming County_US,288.93,100.0
+Yankton County_US,289.92,42.857142857142854
+Yell County_US,294.79,50.0
+Yorba Linda_US,300.77,37.5
+Youngstown_US,287.3,66.66666666666667
+Youngsville_US,300.26,
+Yuba County_US,303.92,80.0
+Yukon_US,295.13,100.0
+Zebulon_US,293.04,100.0
+not found,,46.36678200692042
